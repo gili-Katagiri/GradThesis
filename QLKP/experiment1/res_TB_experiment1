@@ -1,0 +1,2678 @@
+input problem directory name: Problem read from "experiment1/"
+Number of groups: 10
+Capacity of Knapsack: 10000
+group: 0...Number of Items: 100
+group: 1...Number of Items: 200
+group: 2...Number of Items: 400
+group: 3...Number of Items: 800
+group: 4...Number of Items: 1600
+group: 5...Number of Items: 3200
+group: 6...Number of Items: 6400
+group: 7...Number of Items: 12800
+group: 8...Number of Items: 25600
+group: 9...Number of Items: 51200
+
+----- Step1 by tripleBB -----
+processing group: 0...complete! time: 0.01 [sec]
+processing group: 1...complete! time: 0.03 [sec]
+processing group: 2...complete! time: 0.05 [sec]
+processing group: 3...complete! time: 0.06 [sec]
+processing group: 4...complete! time: 0.15 [sec]
+processing group: 5...complete! time: 0.40 [sec]
+processing group: 6...complete! time: 0.87 [sec]
+processing group: 7...complete! time: 2.49 [sec]
+processing group: 8...complete! time: 5.59 [sec]
+processing group: 9...complete! time: 13.09 [sec]
+LCM: 3
+Debug print All Candidates
+
+Use?:0
+profit=2590, weight= 1971
+Name=      0_51 : profit=624, weight=  973
+Name=      0_96 : profit=671, weight=  998
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2526, weight= 1874
+Name=      0_29 : profit=592, weight=  876
+Name=      0_96 : profit=671, weight=  998
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2466, weight= 1729
+Name=      0_54 : profit=562, weight=  731
+Name=      0_96 : profit=671, weight=  998
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2372, weight= 1704
+Name=      0_54 : profit=562, weight=  731
+Name=      0_51 : profit=624, weight=  973
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2308, weight= 1607
+Name=      0_54 : profit=562, weight=  731
+Name=      0_29 : profit=592, weight=  876
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2292, weight= 1554
+Name=      0_83 : profit=475, weight=  556
+Name=      0_96 : profit=671, weight=  998
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2198, weight= 1529
+Name=      0_83 : profit=475, weight=  556
+Name=      0_51 : profit=624, weight=  973
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2182, weight= 1492
+Name=      0_71 : profit=529, weight=  761
+Name=      0_54 : profit=562, weight=  731
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2170, weight= 1358
+Name=      0_31 : profit=414, weight=  360
+Name=      0_96 : profit=671, weight=  998
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2126, weight= 1322
+Name=      0_37 : profit=392, weight=  324
+Name=      0_96 : profit=671, weight=  998
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2090, weight= 1087
+Name=      0_39 : profit=374, weight=   89
+Name=      0_96 : profit=671, weight=  998
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2013, weight=  998
+Name=      0_96 : profit=671, weight=  998
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1932, weight=  965
+Name=      0_39 : profit=374, weight=   89
+Name=      0_29 : profit=592, weight=  876
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1872, weight=  820
+Name=      0_39 : profit=374, weight=   89
+Name=      0_54 : profit=562, weight=  731
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1766, weight=  783
+Name=      0_30 : profit=321, weight=   52
+Name=      0_54 : profit=562, weight=  731
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1698, weight=  645
+Name=      0_39 : profit=374, weight=   89
+Name=      0_83 : profit=475, weight=  556
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1592, weight=  608
+Name=      0_30 : profit=321, weight=   52
+Name=      0_83 : profit=475, weight=  556
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1576, weight=  449
+Name=      0_39 : profit=374, weight=   89
+Name=      0_31 : profit=414, weight=  360
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1532, weight=  413
+Name=      0_39 : profit=374, weight=   89
+Name=      0_37 : profit=392, weight=  324
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1470, weight=  412
+Name=      0_30 : profit=321, weight=   52
+Name=      0_31 : profit=414, weight=  360
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1468, weight=  392
+Name=      0_41 : profit=360, weight=  303
+Name=      0_39 : profit=374, weight=   89
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1426, weight=  376
+Name=      0_30 : profit=321, weight=   52
+Name=      0_37 : profit=392, weight=  324
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1390, weight=  141
+Name=      0_30 : profit=321, weight=   52
+Name=      0_39 : profit=374, weight=   89
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1122, weight=   89
+Name=      0_39 : profit=374, weight=   89
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=963, weight=   52
+Name=      0_30 : profit=321, weight=   52
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=516, weight=   51
+Name=      0_52 : profit=172, weight=   51
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=414, weight=   32
+Name=      0_46 : profit=138, weight=   32
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=24, weight=   20
+Name=     0_100 : profit=8, weight=   20
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+----------------------------------------------------------------------
+
+Use?:0
+profit=2748, weight= 1822
+Name=      1_96 : profit=671, weight=  998
+Name=     1_127 : profit=703, weight=  824
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2712, weight= 1625
+Name=     1_187 : profit=653, weight=  801
+Name=     1_127 : profit=703, weight=  824
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2622, weight= 1561
+Name=     1_125 : profit=608, weight=  737
+Name=     1_127 : profit=703, weight=  824
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2530, weight= 1555
+Name=      1_54 : profit=562, weight=  731
+Name=     1_127 : profit=703, weight=  824
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2522, weight= 1538
+Name=     1_125 : profit=608, weight=  737
+Name=     1_187 : profit=653, weight=  801
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2430, weight= 1532
+Name=      1_54 : profit=562, weight=  731
+Name=     1_187 : profit=653, weight=  801
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2380, weight= 1516
+Name=     1_135 : profit=537, weight=  715
+Name=     1_187 : profit=653, weight=  801
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2372, weight= 1429
+Name=     1_159 : profit=483, weight=  605
+Name=     1_127 : profit=703, weight=  824
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2356, weight= 1380
+Name=      1_83 : profit=475, weight=  556
+Name=     1_127 : profit=703, weight=  824
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2296, weight= 1303
+Name=     1_184 : profit=445, weight=  479
+Name=     1_127 : profit=703, weight=  824
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2252, weight= 1302
+Name=     1_131 : profit=423, weight=  478
+Name=     1_127 : profit=703, weight=  824
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2234, weight= 1184
+Name=      1_31 : profit=414, weight=  360
+Name=     1_127 : profit=703, weight=  824
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2190, weight= 1148
+Name=      1_37 : profit=392, weight=  324
+Name=     1_127 : profit=703, weight=  824
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2186, weight= 1044
+Name=     1_172 : profit=390, weight=  220
+Name=     1_127 : profit=703, weight=  824
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2154, weight=  913
+Name=      1_39 : profit=374, weight=   89
+Name=     1_127 : profit=703, weight=  824
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2109, weight=  824
+Name=     1_127 : profit=703, weight=  824
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1959, weight=  801
+Name=     1_187 : profit=653, weight=  801
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1858, weight=  789
+Name=      1_30 : profit=321, weight=   52
+Name=     1_125 : profit=608, weight=  737
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1824, weight=  737
+Name=     1_125 : profit=608, weight=  737
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1714, weight=  694
+Name=      1_39 : profit=374, weight=   89
+Name=     1_159 : profit=483, weight=  605
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1698, weight=  645
+Name=      1_39 : profit=374, weight=   89
+Name=      1_83 : profit=475, weight=  556
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1638, weight=  568
+Name=      1_39 : profit=374, weight=   89
+Name=     1_184 : profit=445, weight=  479
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1594, weight=  567
+Name=      1_39 : profit=374, weight=   89
+Name=     1_131 : profit=423, weight=  478
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1576, weight=  449
+Name=      1_39 : profit=374, weight=   89
+Name=      1_31 : profit=414, weight=  360
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1532, weight=  413
+Name=      1_39 : profit=374, weight=   89
+Name=      1_37 : profit=392, weight=  324
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1528, weight=  309
+Name=      1_39 : profit=374, weight=   89
+Name=     1_172 : profit=390, weight=  220
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1422, weight=  272
+Name=      1_30 : profit=321, weight=   52
+Name=     1_172 : profit=390, weight=  220
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1390, weight=  141
+Name=      1_30 : profit=321, weight=   52
+Name=      1_39 : profit=374, weight=   89
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1240, weight=  134
+Name=     1_106 : profit=299, weight=   82
+Name=      1_30 : profit=321, weight=   52
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1122, weight=   89
+Name=      1_39 : profit=374, weight=   89
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=964, weight=   53
+Name=     1_154 : profit=161, weight=    1
+Name=      1_30 : profit=321, weight=   52
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=963, weight=   52
+Name=      1_30 : profit=321, weight=   52
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=598, weight=   33
+Name=      1_46 : profit=138, weight=   32
+Name=     1_154 : profit=161, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=558, weight=   23
+Name=     1_194 : profit=118, weight=   22
+Name=     1_154 : profit=161, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=483, weight=    1
+Name=     1_154 : profit=161, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+----------------------------------------------------------------------
+
+Use?:0
+profit=2944, weight= 1630
+Name=     2_127 : profit=703, weight=  824
+Name=     2_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2844, weight= 1607
+Name=     2_187 : profit=653, weight=  801
+Name=     2_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2754, weight= 1543
+Name=     2_125 : profit=608, weight=  737
+Name=     2_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2686, weight= 1500
+Name=     2_363 : profit=574, weight=  694
+Name=     2_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2616, weight= 1493
+Name=     2_400 : profit=539, weight=  687
+Name=     2_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2526, weight= 1441
+Name=     2_325 : profit=494, weight=  635
+Name=     2_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2504, weight= 1411
+Name=     2_159 : profit=483, weight=  605
+Name=     2_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2488, weight= 1362
+Name=      2_83 : profit=475, weight=  556
+Name=     2_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2464, weight=  886
+Name=     2_300 : profit=463, weight=   80
+Name=     2_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2307, weight=  806
+Name=     2_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2074, weight=  774
+Name=     2_300 : profit=463, weight=   80
+Name=     2_363 : profit=574, weight=  694
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2004, weight=  767
+Name=     2_300 : profit=463, weight=   80
+Name=     2_400 : profit=539, weight=  687
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1914, weight=  715
+Name=     2_300 : profit=463, weight=   80
+Name=     2_325 : profit=494, weight=  635
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1892, weight=  685
+Name=     2_300 : profit=463, weight=   80
+Name=     2_159 : profit=483, weight=  605
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1876, weight=  636
+Name=     2_300 : profit=463, weight=   80
+Name=      2_83 : profit=475, weight=  556
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1816, weight=  559
+Name=     2_184 : profit=445, weight=  479
+Name=     2_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1772, weight=  558
+Name=     2_131 : profit=423, weight=  478
+Name=     2_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1768, weight=  473
+Name=     2_249 : profit=421, weight=  393
+Name=     2_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1754, weight=  440
+Name=      2_31 : profit=414, weight=  360
+Name=     2_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1716, weight=  430
+Name=     2_265 : profit=395, weight=  350
+Name=     2_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1710, weight=  404
+Name=      2_37 : profit=392, weight=  324
+Name=     2_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1706, weight=  300
+Name=     2_172 : profit=390, weight=  220
+Name=     2_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1674, weight=  169
+Name=      2_39 : profit=374, weight=   89
+Name=     2_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1644, weight=  145
+Name=     2_290 : profit=359, weight=   65
+Name=     2_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1568, weight=  132
+Name=      2_30 : profit=321, weight=   52
+Name=     2_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1502, weight=  130
+Name=     2_253 : profit=288, weight=   50
+Name=     2_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1389, weight=   80
+Name=     2_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1092, weight=   75
+Name=     2_236 : profit=187, weight=   10
+Name=     2_290 : profit=359, weight=   65
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1077, weight=   65
+Name=     2_290 : profit=359, weight=   65
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1016, weight=   62
+Name=     2_236 : profit=187, weight=   10
+Name=      2_30 : profit=321, weight=   52
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=984, weight=   61
+Name=     2_366 : profit=171, weight=    9
+Name=      2_30 : profit=321, weight=   52
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=964, weight=   53
+Name=     2_154 : profit=161, weight=    1
+Name=      2_30 : profit=321, weight=   52
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=963, weight=   52
+Name=      2_30 : profit=321, weight=   52
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=898, weight=   51
+Name=     2_154 : profit=161, weight=    1
+Name=     2_253 : profit=288, weight=   50
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=864, weight=   50
+Name=     2_253 : profit=288, weight=   50
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=770, weight=   49
+Name=     2_366 : profit=171, weight=    9
+Name=     2_332 : profit=214, weight=   40
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=758, weight=   46
+Name=     2_154 : profit=161, weight=    1
+Name=     2_270 : profit=218, weight=   45
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=750, weight=   41
+Name=     2_154 : profit=161, weight=    1
+Name=     2_332 : profit=214, weight=   40
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=716, weight=   19
+Name=     2_366 : profit=171, weight=    9
+Name=     2_236 : profit=187, weight=   10
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=696, weight=   11
+Name=     2_154 : profit=161, weight=    1
+Name=     2_236 : profit=187, weight=   10
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=664, weight=   10
+Name=     2_154 : profit=161, weight=    1
+Name=     2_366 : profit=171, weight=    9
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=513, weight=    9
+Name=     2_366 : profit=171, weight=    9
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=483, weight=    1
+Name=     2_154 : profit=161, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+----------------------------------------------------------------------
+
+Use?:0
+profit=2944, weight= 1630
+Name=     3_127 : profit=703, weight=  824
+Name=     3_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2892, weight= 1622
+Name=     3_422 : profit=677, weight=  816
+Name=     3_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2870, weight= 1584
+Name=     3_672 : profit=666, weight=  778
+Name=     3_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2786, weight= 1330
+Name=     3_445 : profit=624, weight=  524
+Name=     3_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2580, weight= 1302
+Name=     3_445 : profit=624, weight=  524
+Name=     3_672 : profit=666, weight=  778
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2548, weight= 1273
+Name=     3_485 : profit=505, weight=  467
+Name=     3_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2464, weight=  886
+Name=     3_300 : profit=463, weight=   80
+Name=     3_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2307, weight=  806
+Name=     3_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2174, weight=  604
+Name=     3_300 : profit=463, weight=   80
+Name=     3_445 : profit=624, weight=  524
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1966, weight=  589
+Name=     3_290 : profit=359, weight=   65
+Name=     3_445 : profit=624, weight=  524
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1936, weight=  547
+Name=     3_300 : profit=463, weight=   80
+Name=     3_485 : profit=505, weight=  467
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1872, weight=  524
+Name=     3_445 : profit=624, weight=  524
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1828, weight=  441
+Name=     3_687 : profit=451, weight=  361
+Name=     3_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1770, weight=  373
+Name=     3_617 : profit=422, weight=  293
+Name=     3_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1714, weight=  291
+Name=     3_682 : profit=394, weight=  211
+Name=     3_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1676, weight=  235
+Name=     3_639 : profit=375, weight=  155
+Name=     3_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1674, weight=  169
+Name=      3_39 : profit=374, weight=   89
+Name=     3_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1644, weight=  145
+Name=     3_290 : profit=359, weight=   65
+Name=     3_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1568, weight=  132
+Name=      3_30 : profit=321, weight=   52
+Name=     3_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1502, weight=  130
+Name=     3_253 : profit=288, weight=   50
+Name=     3_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1414, weight=  122
+Name=     3_786 : profit=244, weight=   42
+Name=     3_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1400, weight=   98
+Name=     3_475 : profit=237, weight=   18
+Name=     3_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1389, weight=   80
+Name=     3_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1116, weight=   70
+Name=     3_475 : profit=237, weight=   18
+Name=      3_30 : profit=321, weight=   52
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1077, weight=   65
+Name=     3_290 : profit=359, weight=   65
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1016, weight=   62
+Name=     3_236 : profit=187, weight=   10
+Name=      3_30 : profit=321, weight=   52
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=984, weight=   61
+Name=     3_366 : profit=171, weight=    9
+Name=      3_30 : profit=321, weight=   52
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=964, weight=   53
+Name=     3_154 : profit=161, weight=    1
+Name=      3_30 : profit=321, weight=   52
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=963, weight=   52
+Name=      3_30 : profit=321, weight=   52
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=938, weight=   44
+Name=     3_613 : profit=232, weight=   26
+Name=     3_475 : profit=237, weight=   18
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=848, weight=   28
+Name=     3_236 : profit=187, weight=   10
+Name=     3_475 : profit=237, weight=   18
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=816, weight=   27
+Name=     3_366 : profit=171, weight=    9
+Name=     3_475 : profit=237, weight=   18
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=796, weight=   19
+Name=     3_154 : profit=161, weight=    1
+Name=     3_475 : profit=237, weight=   18
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=711, weight=   18
+Name=     3_475 : profit=237, weight=   18
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=696, weight=   11
+Name=     3_154 : profit=161, weight=    1
+Name=     3_236 : profit=187, weight=   10
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=664, weight=   10
+Name=     3_154 : profit=161, weight=    1
+Name=     3_366 : profit=171, weight=    9
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=638, weight=    7
+Name=     3_580 : profit=158, weight=    6
+Name=     3_154 : profit=161, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=564, weight=    5
+Name=     3_797 : profit=121, weight=    4
+Name=     3_154 : profit=161, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=483, weight=    1
+Name=     3_154 : profit=161, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+----------------------------------------------------------------------
+
+Use?:0
+profit=2944, weight= 1630
+Name=     4_127 : profit=703, weight=  824
+Name=     4_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2892, weight= 1622
+Name=     4_422 : profit=677, weight=  816
+Name=     4_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2870, weight= 1584
+Name=     4_672 : profit=666, weight=  778
+Name=     4_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2800, weight= 1540
+Name=     4_887 : profit=631, weight=  734
+Name=     4_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2786, weight= 1330
+Name=     4_445 : profit=624, weight=  524
+Name=     4_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2784, weight= 1239
+Name=    4_1135 : profit=623, weight=  433
+Name=     4_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2590, weight= 1010
+Name=    4_1433 : profit=526, weight=  204
+Name=     4_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2494, weight=  957
+Name=    4_1135 : profit=623, weight=  433
+Name=     4_445 : profit=624, weight=  524
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2464, weight=  886
+Name=     4_300 : profit=463, weight=   80
+Name=     4_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2307, weight=  806
+Name=     4_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2300, weight=  728
+Name=    4_1433 : profit=526, weight=  204
+Name=     4_445 : profit=624, weight=  524
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2298, weight=  637
+Name=    4_1433 : profit=526, weight=  204
+Name=    4_1135 : profit=623, weight=  433
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2174, weight=  604
+Name=     4_300 : profit=463, weight=   80
+Name=     4_445 : profit=624, weight=  524
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2172, weight=  513
+Name=     4_300 : profit=463, weight=   80
+Name=    4_1135 : profit=623, weight=  433
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2066, weight=  496
+Name=    4_1118 : profit=507, weight=  292
+Name=    4_1433 : profit=526, weight=  204
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2062, weight=  432
+Name=    4_1023 : profit=505, weight=  228
+Name=    4_1433 : profit=526, weight=  204
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1978, weight=  284
+Name=     4_300 : profit=463, weight=   80
+Name=    4_1433 : profit=526, weight=  204
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1774, weight=  214
+Name=    4_1401 : profit=424, weight=  134
+Name=     4_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1674, weight=  169
+Name=      4_39 : profit=374, weight=   89
+Name=     4_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1644, weight=  145
+Name=     4_290 : profit=359, weight=   65
+Name=     4_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1592, weight=  130
+Name=    4_1035 : profit=333, weight=   50
+Name=     4_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1484, weight=  110
+Name=     4_827 : profit=279, weight=   30
+Name=     4_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1466, weight=   91
+Name=    4_1532 : profit=270, weight=   11
+Name=     4_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1442, weight=   87
+Name=    4_1333 : profit=258, weight=    7
+Name=     4_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1390, weight=   81
+Name=    4_1392 : profit=232, weight=    1
+Name=     4_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1389, weight=   80
+Name=     4_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1258, weight=   76
+Name=    4_1532 : profit=270, weight=   11
+Name=     4_290 : profit=359, weight=   65
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1234, weight=   72
+Name=    4_1333 : profit=258, weight=    7
+Name=     4_290 : profit=359, weight=   65
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1206, weight=   61
+Name=    4_1532 : profit=270, weight=   11
+Name=    4_1035 : profit=333, weight=   50
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1182, weight=   57
+Name=    4_1333 : profit=258, weight=    7
+Name=    4_1035 : profit=333, weight=   50
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1130, weight=   51
+Name=    4_1392 : profit=232, weight=    1
+Name=    4_1035 : profit=333, weight=   50
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1098, weight=   41
+Name=    4_1532 : profit=270, weight=   11
+Name=     4_827 : profit=279, weight=   30
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1074, weight=   37
+Name=    4_1333 : profit=258, weight=    7
+Name=     4_827 : profit=279, weight=   30
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1056, weight=   18
+Name=    4_1333 : profit=258, weight=    7
+Name=    4_1532 : profit=270, weight=   11
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1004, weight=   12
+Name=    4_1392 : profit=232, weight=    1
+Name=    4_1532 : profit=270, weight=   11
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=980, weight=    8
+Name=    4_1392 : profit=232, weight=    1
+Name=    4_1333 : profit=258, weight=    7
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=908, weight=    2
+Name=    4_1427 : profit=222, weight=    1
+Name=    4_1392 : profit=232, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=696, weight=    1
+Name=    4_1392 : profit=232, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+----------------------------------------------------------------------
+
+Use?:0
+profit=3070, weight= 1766
+Name=    5_1716 : profit=766, weight=  960
+Name=     5_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2944, weight= 1630
+Name=     5_127 : profit=703, weight=  824
+Name=     5_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2892, weight= 1622
+Name=     5_422 : profit=677, weight=  816
+Name=     5_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2882, weight= 1608
+Name=    5_3004 : profit=672, weight=  802
+Name=     5_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2870, weight= 1584
+Name=     5_672 : profit=666, weight=  778
+Name=     5_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2828, weight= 1569
+Name=    5_2214 : profit=645, weight=  763
+Name=     5_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2810, weight= 1511
+Name=    5_2499 : profit=636, weight=  705
+Name=     5_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2804, weight= 1367
+Name=    5_2081 : profit=633, weight=  561
+Name=     5_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2786, weight= 1330
+Name=     5_445 : profit=624, weight=  524
+Name=     5_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2784, weight= 1239
+Name=    5_1135 : profit=623, weight=  433
+Name=     5_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2592, weight= 1137
+Name=    5_1879 : profit=527, weight=  331
+Name=     5_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2590, weight= 1010
+Name=    5_1433 : profit=526, weight=  204
+Name=     5_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2512, weight=  994
+Name=    5_1135 : profit=623, weight=  433
+Name=    5_2081 : profit=633, weight=  561
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2494, weight=  957
+Name=    5_1135 : profit=623, weight=  433
+Name=     5_445 : profit=624, weight=  524
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2464, weight=  886
+Name=     5_300 : profit=463, weight=   80
+Name=     5_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2318, weight=  765
+Name=    5_1433 : profit=526, weight=  204
+Name=    5_2081 : profit=633, weight=  561
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2300, weight=  728
+Name=    5_1433 : profit=526, weight=  204
+Name=     5_445 : profit=624, weight=  524
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2298, weight=  637
+Name=    5_1433 : profit=526, weight=  204
+Name=    5_1135 : profit=623, weight=  433
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2174, weight=  604
+Name=     5_300 : profit=463, weight=   80
+Name=     5_445 : profit=624, weight=  524
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2172, weight=  513
+Name=     5_300 : profit=463, weight=   80
+Name=    5_1135 : profit=623, weight=  433
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2066, weight=  496
+Name=    5_1118 : profit=507, weight=  292
+Name=    5_1433 : profit=526, weight=  204
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2062, weight=  432
+Name=    5_1023 : profit=505, weight=  228
+Name=    5_1433 : profit=526, weight=  204
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1980, weight=  411
+Name=     5_300 : profit=463, weight=   80
+Name=    5_1879 : profit=527, weight=  331
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1978, weight=  284
+Name=     5_300 : profit=463, weight=   80
+Name=    5_1433 : profit=526, weight=  204
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1794, weight=  213
+Name=    5_1881 : profit=371, weight=    9
+Name=    5_1433 : profit=526, weight=  204
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1674, weight=  169
+Name=      5_39 : profit=374, weight=   89
+Name=     5_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1668, weight=   89
+Name=    5_1881 : profit=371, weight=    9
+Name=     5_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1474, weight=   86
+Name=    5_2720 : profit=274, weight=    6
+Name=     5_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1460, weight=   74
+Name=     5_290 : profit=359, weight=   65
+Name=    5_1881 : profit=371, weight=    9
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1442, weight=   62
+Name=    5_2761 : profit=350, weight=   53
+Name=    5_1881 : profit=371, weight=    9
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1408, weight=   59
+Name=    5_1035 : profit=333, weight=   50
+Name=    5_1881 : profit=371, weight=    9
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1316, weight=   25
+Name=    5_2516 : profit=287, weight=   16
+Name=    5_1881 : profit=371, weight=    9
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1290, weight=   15
+Name=    5_2720 : profit=274, weight=    6
+Name=    5_1881 : profit=371, weight=    9
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1206, weight=   10
+Name=    5_1392 : profit=232, weight=    1
+Name=    5_1881 : profit=371, weight=    9
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1113, weight=    9
+Name=    5_1881 : profit=371, weight=    9
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1012, weight=    7
+Name=    5_1392 : profit=232, weight=    1
+Name=    5_2720 : profit=274, weight=    6
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=908, weight=    2
+Name=    5_1427 : profit=222, weight=    1
+Name=    5_1392 : profit=232, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=696, weight=    1
+Name=    5_1392 : profit=232, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+----------------------------------------------------------------------
+
+Use?:0
+profit=3150, weight= 1799
+Name=    6_6145 : profit=771, weight=  963
+Name=    6_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=3146, weight= 1642
+Name=     6_235 : profit=769, weight=  806
+Name=    6_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2960, weight= 1517
+Name=    6_6134 : profit=676, weight=  681
+Name=    6_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2890, weight= 1487
+Name=    6_6134 : profit=676, weight=  681
+Name=     6_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2874, weight= 1397
+Name=    6_2081 : profit=633, weight=  561
+Name=    6_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2856, weight= 1360
+Name=     6_445 : profit=624, weight=  524
+Name=    6_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2854, weight= 1269
+Name=    6_1135 : profit=623, weight=  433
+Name=    6_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2784, weight= 1239
+Name=    6_1135 : profit=623, weight=  433
+Name=     6_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2726, weight= 1126
+Name=    6_4789 : profit=559, weight=  290
+Name=    6_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2688, weight= 1085
+Name=    6_3838 : profit=540, weight=  249
+Name=    6_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2660, weight= 1040
+Name=    6_1433 : profit=526, weight=  204
+Name=    6_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2590, weight= 1010
+Name=    6_1433 : profit=526, weight=  204
+Name=     6_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2534, weight=  916
+Name=     6_300 : profit=463, weight=   80
+Name=    6_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2464, weight=  886
+Name=     6_300 : profit=463, weight=   80
+Name=     6_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2412, weight=  836
+Name=    6_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2366, weight=  814
+Name=    6_4789 : profit=559, weight=  290
+Name=     6_445 : profit=624, weight=  524
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2364, weight=  723
+Name=    6_4789 : profit=559, weight=  290
+Name=    6_1135 : profit=623, weight=  433
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2326, weight=  682
+Name=    6_3838 : profit=540, weight=  249
+Name=    6_1135 : profit=623, weight=  433
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2298, weight=  637
+Name=    6_1433 : profit=526, weight=  204
+Name=    6_1135 : profit=623, weight=  433
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2206, weight=  611
+Name=    6_3551 : profit=544, weight=  321
+Name=    6_4789 : profit=559, weight=  290
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2198, weight=  539
+Name=    6_3838 : profit=540, weight=  249
+Name=    6_4789 : profit=559, weight=  290
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2172, weight=  513
+Name=     6_300 : profit=463, weight=   80
+Name=    6_1135 : profit=623, weight=  433
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2170, weight=  494
+Name=    6_1433 : profit=526, weight=  204
+Name=    6_4789 : profit=559, weight=  290
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2132, weight=  453
+Name=    6_1433 : profit=526, weight=  204
+Name=    6_3838 : profit=540, weight=  249
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2062, weight=  432
+Name=    6_1023 : profit=505, weight=  228
+Name=    6_1433 : profit=526, weight=  204
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2044, weight=  370
+Name=     6_300 : profit=463, weight=   80
+Name=    6_4789 : profit=559, weight=  290
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2006, weight=  329
+Name=     6_300 : profit=463, weight=   80
+Name=    6_3838 : profit=540, weight=  249
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1978, weight=  284
+Name=     6_300 : profit=463, weight=   80
+Name=    6_1433 : profit=526, weight=  204
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1834, weight=  254
+Name=    6_3957 : profit=454, weight=  174
+Name=     6_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1794, weight=  213
+Name=    6_1881 : profit=371, weight=    9
+Name=    6_1433 : profit=526, weight=  204
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1750, weight=  208
+Name=    6_6160 : profit=412, weight=  128
+Name=     6_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1682, weight=  197
+Name=    6_4619 : profit=378, weight=  117
+Name=     6_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1680, weight=  136
+Name=    6_4548 : profit=377, weight=   56
+Name=     6_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1668, weight=   89
+Name=    6_1881 : profit=371, weight=    9
+Name=     6_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1496, weight=   65
+Name=    6_1881 : profit=371, weight=    9
+Name=    6_4548 : profit=377, weight=   56
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1442, weight=   62
+Name=    6_2761 : profit=350, weight=   53
+Name=    6_1881 : profit=371, weight=    9
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1408, weight=   59
+Name=    6_1035 : profit=333, weight=   50
+Name=    6_1881 : profit=371, weight=    9
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1406, weight=   58
+Name=    6_4308 : profit=332, weight=   49
+Name=    6_1881 : profit=371, weight=    9
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1340, weight=   27
+Name=    6_5745 : profit=299, weight=   18
+Name=    6_1881 : profit=371, weight=    9
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1316, weight=   25
+Name=    6_2516 : profit=287, weight=   16
+Name=    6_1881 : profit=371, weight=    9
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1300, weight=   10
+Name=    6_3526 : profit=279, weight=    1
+Name=    6_1881 : profit=371, weight=    9
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1113, weight=    9
+Name=    6_1881 : profit=371, weight=    9
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1106, weight=    7
+Name=    6_2720 : profit=274, weight=    6
+Name=    6_3526 : profit=279, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1066, weight=    6
+Name=    6_5713 : profit=254, weight=    5
+Name=    6_3526 : profit=279, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1022, weight=    2
+Name=    6_1392 : profit=232, weight=    1
+Name=    6_3526 : profit=279, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=837, weight=    1
+Name=    6_3526 : profit=279, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+----------------------------------------------------------------------
+
+Use?:0
+profit=3150, weight= 1799
+Name=    7_6145 : profit=771, weight=  963
+Name=    7_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=3146, weight= 1642
+Name=     7_235 : profit=769, weight=  806
+Name=    7_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2988, weight= 1630
+Name=    7_7212 : profit=725, weight=  824
+Name=     7_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2978, weight= 1537
+Name=   7_12599 : profit=685, weight=  701
+Name=    7_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2960, weight= 1517
+Name=    7_6134 : profit=676, weight=  681
+Name=    7_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2920, weight= 1488
+Name=    7_8664 : profit=656, weight=  652
+Name=    7_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2890, weight= 1487
+Name=    7_6134 : profit=676, weight=  681
+Name=     7_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2874, weight= 1397
+Name=    7_2081 : profit=633, weight=  561
+Name=    7_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2856, weight= 1360
+Name=     7_445 : profit=624, weight=  524
+Name=    7_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2854, weight= 1269
+Name=    7_1135 : profit=623, weight=  433
+Name=    7_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2784, weight= 1239
+Name=    7_1135 : profit=623, weight=  433
+Name=     7_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2750, weight= 1112
+Name=    7_6467 : profit=571, weight=  276
+Name=    7_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2688, weight= 1085
+Name=    7_3838 : profit=540, weight=  249
+Name=    7_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2680, weight= 1082
+Name=    7_6467 : profit=571, weight=  276
+Name=     7_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2660, weight= 1040
+Name=    7_1433 : profit=526, weight=  204
+Name=    7_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2604, weight= 1015
+Name=    7_7732 : profit=498, weight=  179
+Name=    7_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2590, weight= 1010
+Name=    7_1433 : profit=526, weight=  204
+Name=     7_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2534, weight=  916
+Name=     7_300 : profit=463, weight=   80
+Name=    7_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2518, weight=  865
+Name=    7_7781 : profit=455, weight=   29
+Name=    7_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2448, weight=  835
+Name=    7_7781 : profit=455, weight=   29
+Name=     7_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2390, weight=  800
+Name=    7_6467 : profit=571, weight=  276
+Name=     7_445 : profit=624, weight=  524
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2388, weight=  709
+Name=    7_6467 : profit=571, weight=  276
+Name=    7_1135 : profit=623, weight=  433
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2326, weight=  682
+Name=    7_3838 : profit=540, weight=  249
+Name=    7_1135 : profit=623, weight=  433
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2298, weight=  637
+Name=    7_1433 : profit=526, weight=  204
+Name=    7_1135 : profit=623, weight=  433
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2262, weight=  618
+Name=   7_11914 : profit=560, weight=  342
+Name=    7_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2260, weight=  566
+Name=    7_4789 : profit=559, weight=  290
+Name=    7_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2222, weight=  525
+Name=    7_3838 : profit=540, weight=  249
+Name=    7_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2194, weight=  480
+Name=    7_1433 : profit=526, weight=  204
+Name=    7_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2156, weight=  462
+Name=    7_7781 : profit=455, weight=   29
+Name=    7_1135 : profit=623, weight=  433
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2138, weight=  455
+Name=    7_7732 : profit=498, weight=  179
+Name=    7_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2132, weight=  453
+Name=    7_1433 : profit=526, weight=  204
+Name=    7_3838 : profit=540, weight=  249
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2076, weight=  428
+Name=    7_7732 : profit=498, weight=  179
+Name=    7_3838 : profit=540, weight=  249
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2068, weight=  356
+Name=     7_300 : profit=463, weight=   80
+Name=    7_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2052, weight=  305
+Name=    7_7781 : profit=455, weight=   29
+Name=    7_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1990, weight=  278
+Name=    7_7781 : profit=455, weight=   29
+Name=    7_3838 : profit=540, weight=  249
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1962, weight=  233
+Name=    7_7781 : profit=455, weight=   29
+Name=    7_1433 : profit=526, weight=  204
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1906, weight=  208
+Name=    7_7781 : profit=455, weight=   29
+Name=    7_7732 : profit=498, weight=  179
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1862, weight=  207
+Name=   7_12077 : profit=405, weight=    3
+Name=    7_1433 : profit=526, weight=  204
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1836, weight=  109
+Name=    7_7781 : profit=455, weight=   29
+Name=     7_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1820, weight=  100
+Name=    7_8812 : profit=455, weight=   71
+Name=    7_7781 : profit=455, weight=   29
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1736, weight=   83
+Name=   7_12077 : profit=405, weight=    3
+Name=     7_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1732, weight=   58
+Name=   7_11508 : profit=411, weight=   29
+Name=    7_7781 : profit=455, weight=   29
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1720, weight=   32
+Name=   7_12077 : profit=405, weight=    3
+Name=    7_7781 : profit=455, weight=   29
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1552, weight=   12
+Name=    7_1881 : profit=371, weight=    9
+Name=   7_12077 : profit=405, weight=    3
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1368, weight=    4
+Name=    7_3526 : profit=279, weight=    1
+Name=   7_12077 : profit=405, weight=    3
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1215, weight=    3
+Name=   7_12077 : profit=405, weight=    3
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1104, weight=    2
+Name=    7_7324 : profit=273, weight=    1
+Name=    7_3526 : profit=279, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=837, weight=    1
+Name=    7_3526 : profit=279, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+----------------------------------------------------------------------
+
+Use?:0
+profit=3252, weight= 1931
+Name=   8_14041 : profit=812, weight=  954
+Name=   8_20910 : profit=814, weight=  977
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=3236, weight= 1813
+Name=    8_4856 : profit=804, weight=  836
+Name=   8_20910 : profit=814, weight=  977
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=3232, weight= 1790
+Name=    8_4856 : profit=804, weight=  836
+Name=   8_14041 : profit=812, weight=  954
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=3196, weight= 1722
+Name=   8_20644 : profit=784, weight=  745
+Name=   8_20910 : profit=814, weight=  977
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=3192, weight= 1699
+Name=   8_20644 : profit=784, weight=  745
+Name=   8_14041 : profit=812, weight=  954
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=3176, weight= 1581
+Name=   8_20644 : profit=784, weight=  745
+Name=    8_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=3106, weight= 1551
+Name=     8_235 : profit=769, weight=  806
+Name=   8_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=3008, weight= 1496
+Name=   8_13014 : profit=720, weight=  751
+Name=   8_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2984, weight= 1431
+Name=   8_17075 : profit=688, weight=  595
+Name=    8_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2944, weight= 1340
+Name=   8_17075 : profit=688, weight=  595
+Name=   8_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2854, weight= 1269
+Name=    8_1135 : profit=623, weight=  433
+Name=    8_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2814, weight= 1178
+Name=    8_1135 : profit=623, weight=  433
+Name=   8_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2772, weight= 1128
+Name=   8_12861 : profit=602, weight=  383
+Name=   8_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2750, weight= 1112
+Name=    8_6467 : profit=571, weight=  276
+Name=    8_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2710, weight= 1021
+Name=    8_6467 : profit=571, weight=  276
+Name=   8_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2648, weight=  994
+Name=    8_3838 : profit=540, weight=  249
+Name=   8_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2620, weight=  949
+Name=    8_1433 : profit=526, weight=  204
+Name=   8_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2564, weight=  924
+Name=    8_7732 : profit=498, weight=  179
+Name=   8_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2534, weight=  916
+Name=     8_300 : profit=463, weight=   80
+Name=    8_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2518, weight=  865
+Name=    8_7781 : profit=455, weight=   29
+Name=    8_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2494, weight=  825
+Name=     8_300 : profit=463, weight=   80
+Name=   8_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2478, weight=  774
+Name=    8_7781 : profit=455, weight=   29
+Name=   8_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2432, weight=  748
+Name=   8_25212 : profit=432, weight=    3
+Name=   8_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2388, weight=  709
+Name=    8_6467 : profit=571, weight=  276
+Name=    8_1135 : profit=623, weight=  433
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2346, weight=  659
+Name=    8_6467 : profit=571, weight=  276
+Name=   8_12861 : profit=602, weight=  383
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2298, weight=  637
+Name=    8_1433 : profit=526, weight=  204
+Name=    8_1135 : profit=623, weight=  433
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2286, weight=  624
+Name=    8_7781 : profit=455, weight=   29
+Name=   8_17075 : profit=688, weight=  595
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2280, weight=  603
+Name=   8_15179 : profit=569, weight=  327
+Name=    8_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2260, weight=  566
+Name=    8_4789 : profit=559, weight=  290
+Name=    8_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2222, weight=  525
+Name=    8_3838 : profit=540, weight=  249
+Name=    8_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2194, weight=  480
+Name=    8_1433 : profit=526, weight=  204
+Name=    8_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2156, weight=  462
+Name=    8_7781 : profit=455, weight=   29
+Name=    8_1135 : profit=623, weight=  433
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2138, weight=  455
+Name=    8_7732 : profit=498, weight=  179
+Name=    8_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2132, weight=  453
+Name=    8_1433 : profit=526, weight=  204
+Name=    8_3838 : profit=540, weight=  249
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2114, weight=  412
+Name=    8_7781 : profit=455, weight=   29
+Name=   8_12861 : profit=602, weight=  383
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2068, weight=  356
+Name=     8_300 : profit=463, weight=   80
+Name=    8_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2052, weight=  305
+Name=    8_7781 : profit=455, weight=   29
+Name=    8_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2006, weight=  279
+Name=   8_25212 : profit=432, weight=    3
+Name=    8_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1990, weight=  278
+Name=    8_7781 : profit=455, weight=   29
+Name=    8_3838 : profit=540, weight=  249
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1962, weight=  233
+Name=    8_7781 : profit=455, weight=   29
+Name=    8_1433 : profit=526, weight=  204
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1916, weight=  207
+Name=   8_25212 : profit=432, weight=    3
+Name=    8_1433 : profit=526, weight=  204
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1860, weight=  182
+Name=   8_25212 : profit=432, weight=    3
+Name=    8_7732 : profit=498, weight=  179
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1836, weight=  109
+Name=    8_7781 : profit=455, weight=   29
+Name=     8_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1820, weight=  100
+Name=    8_8812 : profit=455, weight=   71
+Name=    8_7781 : profit=455, weight=   29
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1808, weight=   71
+Name=   8_14415 : profit=449, weight=   42
+Name=    8_7781 : profit=455, weight=   29
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1774, weight=   32
+Name=   8_25212 : profit=432, weight=    3
+Name=    8_7781 : profit=455, weight=   29
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1674, weight=    6
+Name=   8_12077 : profit=405, weight=    3
+Name=   8_25212 : profit=432, weight=    3
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1428, weight=    5
+Name=   8_18486 : profit=282, weight=    2
+Name=   8_25212 : profit=432, weight=    3
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1422, weight=    4
+Name=    8_3526 : profit=279, weight=    1
+Name=   8_25212 : profit=432, weight=    3
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1296, weight=    3
+Name=   8_25212 : profit=432, weight=    3
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1104, weight=    2
+Name=    8_7324 : profit=273, weight=    1
+Name=    8_3526 : profit=279, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=837, weight=    1
+Name=    8_3526 : profit=279, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+----------------------------------------------------------------------
+
+Use?:0
+profit=3326, weight= 1701
+Name=   9_36059 : profit=823, weight=  865
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=3288, weight= 1672
+Name=    9_4856 : profit=804, weight=  836
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=3248, weight= 1581
+Name=   9_20644 : profit=784, weight=  745
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=3106, weight= 1551
+Name=     9_235 : profit=769, weight=  806
+Name=   9_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=3056, weight= 1431
+Name=   9_17075 : profit=688, weight=  595
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=3016, weight= 1425
+Name=   9_35236 : profit=668, weight=  589
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2990, weight= 1406
+Name=   9_27256 : profit=655, weight=  570
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2946, weight= 1397
+Name=    9_2081 : profit=633, weight=  561
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2944, weight= 1340
+Name=   9_17075 : profit=688, weight=  595
+Name=   9_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2926, weight= 1269
+Name=    9_1135 : profit=623, weight=  433
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2884, weight= 1219
+Name=   9_12861 : profit=602, weight=  383
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2822, weight= 1112
+Name=    9_6467 : profit=571, weight=  276
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2760, weight= 1074
+Name=   9_48377 : profit=540, weight=  238
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2732, weight= 1040
+Name=    9_1433 : profit=526, weight=  204
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2710, weight= 1021
+Name=    9_6467 : profit=571, weight=  276
+Name=   9_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2694, weight=  983
+Name=   9_46902 : profit=507, weight=  147
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2620, weight=  949
+Name=    9_1433 : profit=526, weight=  204
+Name=   9_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2606, weight=  916
+Name=     9_300 : profit=463, weight=   80
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2590, weight=  846
+Name=   9_36055 : profit=455, weight=   10
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2544, weight=  839
+Name=   9_25212 : profit=432, weight=    3
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2520, weight=  836
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2494, weight=  825
+Name=     9_300 : profit=463, weight=   80
+Name=   9_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2478, weight=  755
+Name=   9_36055 : profit=455, weight=   10
+Name=   9_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2432, weight=  748
+Name=   9_25212 : profit=432, weight=    3
+Name=   9_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2390, weight=  742
+Name=   9_46902 : profit=507, weight=  147
+Name=   9_17075 : profit=688, weight=  595
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2388, weight=  709
+Name=    9_6467 : profit=571, weight=  276
+Name=    9_1135 : profit=623, weight=  433
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2346, weight=  659
+Name=    9_6467 : profit=571, weight=  276
+Name=   9_12861 : profit=602, weight=  383
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2298, weight=  637
+Name=    9_1433 : profit=526, weight=  204
+Name=    9_1135 : profit=623, weight=  433
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2286, weight=  605
+Name=   9_36055 : profit=455, weight=   10
+Name=   9_17075 : profit=688, weight=  595
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2280, weight=  603
+Name=   9_15179 : profit=569, weight=  327
+Name=    9_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2262, weight=  602
+Name=   9_32184 : profit=560, weight=  326
+Name=    9_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2260, weight=  566
+Name=    9_4789 : profit=559, weight=  290
+Name=    9_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2222, weight=  514
+Name=   9_48377 : profit=540, weight=  238
+Name=    9_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2194, weight=  480
+Name=    9_1433 : profit=526, weight=  204
+Name=    9_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2156, weight=  423
+Name=   9_46902 : profit=507, weight=  147
+Name=    9_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2114, weight=  393
+Name=   9_36055 : profit=455, weight=   10
+Name=   9_12861 : profit=602, weight=  383
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2094, weight=  385
+Name=   9_46902 : profit=507, weight=  147
+Name=   9_48377 : profit=540, weight=  238
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2068, weight=  356
+Name=     9_300 : profit=463, weight=   80
+Name=    9_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2066, weight=  351
+Name=   9_46902 : profit=507, weight=  147
+Name=    9_1433 : profit=526, weight=  204
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2052, weight=  286
+Name=   9_36055 : profit=455, weight=   10
+Name=    9_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=2006, weight=  279
+Name=   9_25212 : profit=432, weight=    3
+Name=    9_6467 : profit=571, weight=  276
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1990, weight=  248
+Name=   9_36055 : profit=455, weight=   10
+Name=   9_48377 : profit=540, weight=  238
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1962, weight=  214
+Name=   9_36055 : profit=455, weight=   10
+Name=    9_1433 : profit=526, weight=  204
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1924, weight=  157
+Name=   9_36055 : profit=455, weight=   10
+Name=   9_46902 : profit=507, weight=  147
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1878, weight=  150
+Name=   9_25212 : profit=432, weight=    3
+Name=   9_46902 : profit=507, weight=  147
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1842, weight=  139
+Name=   9_36055 : profit=455, weight=   10
+Name=   9_30445 : profit=466, weight=  129
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1836, weight=   90
+Name=   9_36055 : profit=455, weight=   10
+Name=     9_300 : profit=463, weight=   80
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1820, weight=   39
+Name=    9_7781 : profit=455, weight=   29
+Name=   9_36055 : profit=455, weight=   10
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1774, weight=   13
+Name=   9_25212 : profit=432, weight=    3
+Name=   9_36055 : profit=455, weight=   10
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1698, weight=   12
+Name=   9_46118 : profit=417, weight=    9
+Name=   9_25212 : profit=432, weight=    3
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1674, weight=    6
+Name=   9_12077 : profit=405, weight=    3
+Name=   9_25212 : profit=432, weight=    3
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1428, weight=    5
+Name=   9_18486 : profit=282, weight=    2
+Name=   9_25212 : profit=432, weight=    3
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1422, weight=    4
+Name=    9_3526 : profit=279, weight=    1
+Name=   9_25212 : profit=432, weight=    3
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1296, weight=    3
+Name=   9_25212 : profit=432, weight=    3
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=1104, weight=    2
+Name=    9_7324 : profit=273, weight=    1
+Name=    9_3526 : profit=279, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=837, weight=    1
+Name=    9_3526 : profit=279, weight=    1
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+Use?:0
+profit=0, weight=    0
+Name=    (null) : profit=0, weight=    0
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+R[0]'s Lelax.
+profit=2590, weight= 1971
+Variable:1/1 y=242, r=62/121
+profit=2466, weight= 1729
+Variable:0/1 y=175, r=174/175
+profit=2292, weight= 1554
+Variable:0/1 y=196, r=61/98
+profit=2170, weight= 1358
+Variable:0/1 y=271, r=80/271
+profit=2090, weight= 1087
+Variable:0/1 y=89, r=77/89
+profit=2013, weight=  998
+Variable:0/1 y=178, r=141/178
+profit=1872, weight=  820
+Variable:0/1 y=175, r=174/175
+profit=1698, weight=  645
+Variable:0/1 y=196, r=61/98
+profit=1576, weight=  449
+Variable:0/1 y=36, r=11/9
+profit=1532, weight=  413
+Variable:0/1 y=272, r=71/136
+profit=1390, weight=  141
+Variable:0/1 y=89, r=427/89
+profit=963, weight=   52
+Variable:0/1 y=20, r=549/20
+profit=414, weight=   32
+Variable:0/1 y=32, r=207/16
+profit=0, weight=    0
+Variable:0/1 y=0, r=INF
+
+----------------------------------------------------------------------
+R[1]'s Lelax.
+profit=2748, weight= 1822
+Variable:1/1 y=197, r=36/197
+profit=2712, weight= 1625
+Variable:0/1 y=64, r=45/32
+profit=2622, weight= 1561
+Variable:0/1 y=23, r=100/23
+profit=2522, weight= 1538
+Variable:0/1 y=235, r=226/235
+profit=2296, weight= 1303
+Variable:0/1 y=119, r=62/119
+profit=2234, weight= 1184
+Variable:0/1 y=271, r=80/271
+profit=2154, weight=  913
+Variable:0/1 y=89, r=45/89
+profit=2109, weight=  824
+Variable:0/1 y=23, r=150/23
+profit=1959, weight=  801
+Variable:0/1 y=64, r=135/64
+profit=1824, weight=  737
+Variable:0/1 y=169, r=186/169
+profit=1638, weight=  568
+Variable:0/1 y=119, r=62/119
+profit=1576, weight=  449
+Variable:0/1 y=140, r=12/35
+profit=1528, weight=  309
+Variable:0/1 y=168, r=23/28
+profit=1390, weight=  141
+Variable:0/1 y=89, r=427/89
+profit=963, weight=   52
+Variable:0/1 y=51, r=160/17
+profit=483, weight=    1
+Variable:0/1 y=1, r=483/1
+profit=0, weight=    0
+Variable:0/1 y=0, r=INF
+
+----------------------------------------------------------------------
+R[2]'s Lelax.
+profit=2944, weight= 1630
+Variable:1/1 y=130, r=129/65
+profit=2686, weight= 1500
+Variable:0/1 y=614, r=111/307
+profit=2464, weight=  886
+Variable:0/1 y=80, r=157/80
+profit=2307, weight=  806
+Variable:0/1 y=32, r=233/32
+profit=2074, weight=  774
+Variable:0/1 y=215, r=6/5
+profit=1816, weight=  559
+Variable:0/1 y=119, r=62/119
+profit=1754, weight=  440
+Variable:0/1 y=271, r=80/271
+profit=1674, weight=  169
+Variable:0/1 y=24, r=5/4
+profit=1644, weight=  145
+Variable:0/1 y=13, r=76/13
+profit=1568, weight=  132
+Variable:0/1 y=52, r=179/52
+profit=1389, weight=   80
+Variable:0/1 y=18, r=373/18
+profit=1016, weight=   62
+Variable:0/1 y=10, r=53/10
+profit=963, weight=   52
+Variable:0/1 y=2, r=99/2
+profit=864, weight=   50
+Variable:0/1 y=39, r=56/13
+profit=696, weight=   11
+Variable:0/1 y=1, r=32/1
+profit=664, weight=   10
+Variable:0/1 y=9, r=181/9
+profit=483, weight=    1
+Variable:0/1 y=1, r=483/1
+profit=0, weight=    0
+Variable:0/1 y=0, r=INF
+
+----------------------------------------------------------------------
+R[3]'s Lelax.
+profit=2944, weight= 1630
+Variable:1/1 y=300, r=79/150
+profit=2786, weight= 1330
+Variable:0/1 y=444, r=161/222
+profit=2464, weight=  886
+Variable:0/1 y=282, r=145/141
+profit=2174, weight=  604
+Variable:0/1 y=435, r=100/87
+profit=1674, weight=  169
+Variable:0/1 y=24, r=5/4
+profit=1644, weight=  145
+Variable:0/1 y=13, r=76/13
+profit=1568, weight=  132
+Variable:0/1 y=52, r=179/52
+profit=1389, weight=   80
+Variable:0/1 y=18, r=373/18
+profit=1016, weight=   62
+Variable:0/1 y=18, r=13/3
+profit=938, weight=   44
+Variable:0/1 y=16, r=45/8
+profit=848, weight=   28
+Variable:0/1 y=9, r=52/9
+profit=796, weight=   19
+Variable:0/1 y=8, r=25/2
+profit=696, weight=   11
+Variable:0/1 y=4, r=29/2
+profit=638, weight=    7
+Variable:0/1 y=6, r=155/6
+profit=483, weight=    1
+Variable:0/1 y=1, r=483/1
+profit=0, weight=    0
+Variable:0/1 y=0, r=INF
+
+----------------------------------------------------------------------
+R[4]'s Lelax.
+profit=2944, weight= 1630
+Variable:1/1 y=391, r=160/391
+profit=2784, weight= 1239
+Variable:0/1 y=229, r=194/229
+profit=2590, weight= 1010
+Variable:0/1 y=124, r=63/62
+profit=2464, weight=  886
+Variable:0/1 y=249, r=2/3
+profit=2298, weight=  637
+Variable:0/1 y=124, r=63/62
+profit=2172, weight=  513
+Variable:0/1 y=229, r=194/229
+profit=1978, weight=  284
+Variable:0/1 y=139, r=334/139
+profit=1644, weight=  145
+Variable:0/1 y=15, r=52/15
+profit=1592, weight=  130
+Variable:0/1 y=39, r=42/13
+profit=1466, weight=   91
+Variable:0/1 y=4, r=6/1
+profit=1442, weight=   87
+Variable:0/1 y=7, r=53/7
+profit=1389, weight=   80
+Variable:0/1 y=62, r=333/62
+profit=1056, weight=   18
+Variable:0/1 y=10, r=38/5
+profit=980, weight=    8
+Variable:0/1 y=6, r=12/1
+profit=908, weight=    2
+Variable:0/1 y=1, r=212/1
+profit=696, weight=    1
+Variable:0/1 y=1, r=696/1
+profit=0, weight=    0
+Variable:0/1 y=0, r=INF
+
+----------------------------------------------------------------------
+R[5]'s Lelax.
+profit=3070, weight= 1766
+Variable:1/1 y=136, r=63/68
+profit=2944, weight= 1630
+Variable:0/1 y=46, r=37/23
+profit=2870, weight= 1584
+Variable:0/1 y=217, r=66/217
+profit=2804, weight= 1367
+Variable:0/1 y=128, r=5/32
+profit=2784, weight= 1239
+Variable:0/1 y=229, r=194/229
+profit=2590, weight= 1010
+Variable:0/1 y=124, r=63/62
+profit=2464, weight=  886
+Variable:0/1 y=249, r=2/3
+profit=2298, weight=  637
+Variable:0/1 y=124, r=63/62
+profit=2172, weight=  513
+Variable:0/1 y=81, r=110/81
+profit=2062, weight=  432
+Variable:0/1 y=148, r=21/37
+profit=1978, weight=  284
+Variable:0/1 y=71, r=184/71
+profit=1794, weight=  213
+Variable:0/1 y=124, r=63/62
+profit=1668, weight=   89
+Variable:0/1 y=27, r=226/27
+profit=1442, weight=   62
+Variable:0/1 y=47, r=152/47
+profit=1290, weight=   15
+Variable:0/1 y=5, r=84/5
+profit=1206, weight=   10
+Variable:0/1 y=8, r=149/4
+profit=908, weight=    2
+Variable:0/1 y=1, r=212/1
+profit=696, weight=    1
+Variable:0/1 y=1, r=696/1
+profit=0, weight=    0
+Variable:0/1 y=0, r=INF
+
+----------------------------------------------------------------------
+R[6]'s Lelax.
+profit=3150, weight= 1799
+Variable:1/1 y=157, r=4/157
+profit=3146, weight= 1642
+Variable:0/1 y=125, r=186/125
+profit=2960, weight= 1517
+Variable:0/1 y=248, r=53/124
+profit=2854, weight= 1269
+Variable:0/1 y=143, r=128/143
+profit=2726, weight= 1126
+Variable:0/1 y=86, r=33/43
+profit=2660, weight= 1040
+Variable:0/1 y=124, r=63/62
+profit=2534, weight=  916
+Variable:0/1 y=80, r=61/40
+profit=2412, weight=  836
+Variable:0/1 y=113, r=48/113
+profit=2364, weight=  723
+Variable:0/1 y=86, r=33/43
+profit=2298, weight=  637
+Variable:0/1 y=143, r=128/143
+profit=2170, weight=  494
+Variable:0/1 y=41, r=38/41
+profit=2132, weight=  453
+Variable:0/1 y=169, r=154/169
+profit=1978, weight=  284
+Variable:0/1 y=71, r=184/71
+profit=1794, weight=  213
+Variable:0/1 y=124, r=63/62
+profit=1668, weight=   89
+Variable:0/1 y=24, r=43/6
+profit=1496, weight=   65
+Variable:0/1 y=38, r=78/19
+profit=1340, weight=   27
+Variable:0/1 y=17, r=40/17
+profit=1300, weight=   10
+Variable:0/1 y=8, r=139/4
+profit=1022, weight=    2
+Variable:0/1 y=1, r=185/1
+profit=837, weight=    1
+Variable:0/1 y=1, r=837/1
+profit=0, weight=    0
+Variable:0/1 y=0, r=INF
+
+----------------------------------------------------------------------
+R[7]'s Lelax.
+profit=3150, weight= 1799
+Variable:1/1 y=157, r=4/157
+profit=3146, weight= 1642
+Variable:0/1 y=154, r=113/77
+profit=2920, weight= 1488
+Variable:0/1 y=219, r=22/73
+profit=2854, weight= 1269
+Variable:0/1 y=157, r=104/157
+profit=2750, weight= 1112
+Variable:0/1 y=27, r=62/27
+profit=2688, weight= 1085
+Variable:0/1 y=45, r=28/45
+profit=2660, weight= 1040
+Variable:0/1 y=25, r=56/25
+profit=2604, weight= 1015
+Variable:0/1 y=150, r=43/75
+profit=2518, weight=  865
+Variable:0/1 y=156, r=5/6
+profit=2388, weight=  709
+Variable:0/1 y=72, r=5/4
+profit=2298, weight=  637
+Variable:0/1 y=71, r=38/71
+profit=2260, weight=  566
+Variable:0/1 y=86, r=33/43
+profit=2194, weight=  480
+Variable:0/1 y=18, r=19/9
+profit=2156, weight=  462
+Variable:0/1 y=7, r=18/7
+profit=2138, weight=  455
+Variable:0/1 y=150, r=43/75
+profit=2052, weight=  305
+Variable:0/1 y=72, r=5/4
+profit=1962, weight=  233
+Variable:0/1 y=25, r=56/25
+profit=1906, weight=  208
+Variable:0/1 y=99, r=70/99
+profit=1836, weight=  109
+Variable:0/1 y=9, r=16/9
+profit=1820, weight=  100
+Variable:0/1 y=68, r=25/17
+profit=1720, weight=   32
+Variable:0/1 y=20, r=42/5
+profit=1552, weight=   12
+Variable:0/1 y=8, r=23/1
+profit=1368, weight=    4
+Variable:0/1 y=2, r=132/1
+profit=1104, weight=    2
+Variable:0/1 y=1, r=267/1
+profit=837, weight=    1
+Variable:0/1 y=1, r=837/1
+profit=0, weight=    0
+Variable:0/1 y=0, r=INF
+
+----------------------------------------------------------------------
+R[8]'s Lelax.
+profit=3252, weight= 1931
+Variable:1/1 y=118, r=8/59
+profit=3236, weight= 1813
+Variable:0/1 y=23, r=4/23
+profit=3232, weight= 1790
+Variable:0/1 y=209, r=56/209
+profit=3176, weight= 1581
+Variable:0/1 y=241, r=232/241
+profit=2944, weight= 1340
+Variable:0/1 y=162, r=65/81
+profit=2814, weight= 1178
+Variable:0/1 y=50, r=21/25
+profit=2772, weight= 1128
+Variable:0/1 y=107, r=62/107
+profit=2710, weight= 1021
+Variable:0/1 y=72, r=5/4
+profit=2620, weight=  949
+Variable:0/1 y=25, r=56/25
+profit=2564, weight=  924
+Variable:0/1 y=150, r=43/75
+profit=2478, weight=  774
+Variable:0/1 y=115, r=132/115
+profit=2346, weight=  659
+Variable:0/1 y=93, r=86/93
+profit=2260, weight=  566
+Variable:0/1 y=86, r=33/43
+profit=2194, weight=  480
+Variable:0/1 y=18, r=19/9
+profit=2156, weight=  462
+Variable:0/1 y=7, r=18/7
+profit=2138, weight=  455
+Variable:0/1 y=43, r=24/43
+profit=2114, weight=  412
+Variable:0/1 y=107, r=62/107
+profit=2052, weight=  305
+Variable:0/1 y=26, r=23/13
+profit=2006, weight=  279
+Variable:0/1 y=46, r=22/23
+profit=1962, weight=  233
+Variable:0/1 y=26, r=23/13
+profit=1916, weight=  207
+Variable:0/1 y=98, r=40/49
+profit=1836, weight=  109
+Variable:0/1 y=38, r=14/19
+profit=1808, weight=   71
+Variable:0/1 y=39, r=34/39
+profit=1774, weight=   32
+Variable:0/1 y=26, r=50/13
+profit=1674, weight=    6
+Variable:0/1 y=3, r=126/1
+profit=1296, weight=    3
+Variable:0/1 y=1, r=192/1
+profit=1104, weight=    2
+Variable:0/1 y=1, r=267/1
+profit=837, weight=    1
+Variable:0/1 y=1, r=837/1
+profit=0, weight=    0
+Variable:0/1 y=0, r=INF
+
+----------------------------------------------------------------------
+R[9]'s Lelax.
+profit=3326, weight= 1701
+Variable:1/1 y=120, r=13/20
+profit=3248, weight= 1581
+Variable:0/1 y=150, r=32/25
+profit=3056, weight= 1431
+Variable:0/1 y=25, r=66/25
+profit=2990, weight= 1406
+Variable:0/1 y=137, r=64/137
+profit=2926, weight= 1269
+Variable:0/1 y=157, r=104/157
+profit=2822, weight= 1112
+Variable:0/1 y=129, r=128/129
+profit=2694, weight=  983
+Variable:0/1 y=137, r=104/137
+profit=2590, weight=  846
+Variable:0/1 y=7, r=46/7
+profit=2544, weight=  839
+Variable:0/1 y=84, r=11/14
+profit=2478, weight=  755
+Variable:0/1 y=7, r=46/7
+profit=2432, weight=  748
+Variable:0/1 y=89, r=86/89
+profit=2346, weight=  659
+Variable:0/1 y=54, r=10/9
+profit=2286, weight=  605
+Variable:0/1 y=2, r=3/1
+profit=2280, weight=  603
+Variable:0/1 y=37, r=20/37
+profit=2260, weight=  566
+Variable:0/1 y=52, r=19/26
+profit=2222, weight=  514
+Variable:0/1 y=91, r=66/91
+profit=2156, weight=  423
+Variable:0/1 y=30, r=7/5
+profit=2114, weight=  393
+Variable:0/1 y=107, r=62/107
+profit=2052, weight=  286
+Variable:0/1 y=129, r=128/129
+profit=1924, weight=  157
+Variable:0/1 y=118, r=52/59
+profit=1820, weight=   39
+Variable:0/1 y=26, r=23/13
+profit=1774, weight=   13
+Variable:0/1 y=7, r=100/7
+profit=1674, weight=    6
+Variable:0/1 y=3, r=126/1
+profit=1296, weight=    3
+Variable:0/1 y=1, r=192/1
+profit=1104, weight=    2
+Variable:0/1 y=1, r=267/1
+profit=837, weight=    1
+Variable:0/1 y=1, r=837/1
+profit=0, weight=    0
+Variable:0/1 y=0, r=INF
+-----------------------MCKP Programing : READY------------------------
+
+
+----------------------------Problem Solved!----------------------------
+
+
+total_profit=24973/3, total_cost=9953
+
+Use?:1
+profit=1390, weight=  141
+Name=      0_30 : profit=321, weight=   52
+Name=      0_39 : profit=374, weight=   89
+Name=    (null) : profit=0, weight=    0
+Use?:1
+profit=2109, weight=  824
+Name=     1_127 : profit=703, weight=  824
+Name=    (null) : profit=0, weight=    0
+Use?:1
+profit=2944, weight= 1630
+Name=     2_127 : profit=703, weight=  824
+Name=     2_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:1
+profit=2174, weight=  604
+Name=     3_300 : profit=463, weight=   80
+Name=     3_445 : profit=624, weight=  524
+Name=    (null) : profit=0, weight=    0
+Use?:1
+profit=1978, weight=  284
+Name=     4_300 : profit=463, weight=   80
+Name=    4_1433 : profit=526, weight=  204
+Name=    (null) : profit=0, weight=    0
+Use?:1
+profit=2944, weight= 1630
+Name=     5_127 : profit=703, weight=  824
+Name=     5_235 : profit=769, weight=  806
+Name=    (null) : profit=0, weight=    0
+Use?:1
+profit=2726, weight= 1126
+Name=    6_4789 : profit=559, weight=  290
+Name=    6_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:1
+profit=2750, weight= 1112
+Name=    7_6467 : profit=571, weight=  276
+Name=    7_4856 : profit=804, weight=  836
+Name=    (null) : profit=0, weight=    0
+Use?:1
+profit=2710, weight= 1021
+Name=    8_6467 : profit=571, weight=  276
+Name=   8_20644 : profit=784, weight=  745
+Name=    (null) : profit=0, weight=    0
+Use?:1
+profit=3248, weight= 1581
+Name=   9_20644 : profit=784, weight=  745
+Name=   9_45019 : profit=840, weight=  836
+Name=    (null) : profit=0, weight=    0
+

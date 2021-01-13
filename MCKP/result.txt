@@ -1,0 +1,3514 @@
+Group[0]
+Name=      0_26 : profit=240, weight= 68
+Name=      0_30 : profit=239, weight= 69
+Name=      0_28 : profit=236, weight= 68
+Name=      0_27 : profit=218, weight= 62
+Name=      0_29 : profit=217, weight= 65
+Name=      0_21 : profit=182, weight= 56
+Name=      0_25 : profit=177, weight= 57
+Name=      0_22 : profit=176, weight= 57
+Name=      0_24 : profit=176, weight= 57
+Name=      0_23 : profit=172, weight= 56
+Name=      0_20 : profit=142, weight= 54
+Name=      0_16 : profit=141, weight= 51
+Name=      0_18 : profit=136, weight= 50
+Name=      0_17 : profit=132, weight= 50
+Name=      0_19 : profit=120, weight= 46
+Name=      0_11 : profit= 99, weight= 43
+Name=      0_13 : profit= 80, weight= 34
+Name=      0_14 : profit= 76, weight= 33
+Name=      0_12 : profit= 72, weight= 30
+Name=      0_15 : profit= 70, weight= 31
+Name=       0_8 : profit= 57, weight= 28
+Name=      0_10 : profit= 49, weight= 24
+Name=       0_6 : profit= 38, weight= 16
+Name=       0_9 : profit= 37, weight= 18
+Name=       0_7 : profit= 30, weight= 15
+Name=       0_1 : profit= 14, weight=  8
+Name=       0_3 : profit= 12, weight=  8
+Name=       0_5 : profit= 11, weight=  6
+Name=       0_2 : profit= 10, weight=  8
+Name=       0_4 : profit=  8, weight= 12
+Group[1]
+Name=      1_28 : profit=152, weight= 55
+Name=      1_26 : profit=147, weight= 61
+Name=      1_30 : profit=142, weight= 51
+Name=      1_29 : profit=136, weight= 47
+Name=      1_27 : profit=129, weight= 46
+Name=      1_23 : profit= 86, weight= 45
+Name=      1_21 : profit= 85, weight= 45
+Name=      1_25 : profit= 74, weight= 40
+Name=      1_22 : profit= 69, weight= 40
+Name=      1_24 : profit= 69, weight= 40
+Name=      1_16 : profit= 61, weight= 39
+Name=      1_17 : profit= 46, weight= 35
+Name=      1_19 : profit= 45, weight= 34
+Name=      1_20 : profit= 44, weight= 37
+Name=      1_18 : profit= 42, weight= 32
+Name=      1_15 : profit= 37, weight= 29
+Name=      1_12 : profit= 32, weight= 30
+Name=      1_11 : profit= 29, weight= 21
+Name=      1_13 : profit= 29, weight= 21
+Name=      1_10 : profit= 26, weight= 17
+Name=      1_14 : profit= 23, weight= 25
+Name=       1_7 : profit= 17, weight= 14
+Name=       1_8 : profit= 16, weight= 19
+Name=       1_9 : profit= 13, weight= 13
+Name=       1_2 : profit= 12, weight=  7
+Name=       1_4 : profit= 11, weight= 10
+Name=       1_6 : profit= 11, weight= 13
+Name=       1_3 : profit= 10, weight=  5
+Name=       1_5 : profit= 10, weight=  8
+Name=       1_1 : profit=  8, weight=  9
+Group[2]
+Name=      2_21 : profit=120, weight= 54
+Name=      2_28 : profit=120, weight= 55
+Name=      2_29 : profit=119, weight= 64
+Name=      2_30 : profit=115, weight= 57
+Name=      2_27 : profit=110, weight= 60
+Name=      2_25 : profit=106, weight= 52
+Name=      2_26 : profit=104, weight= 55
+Name=      2_24 : profit= 92, weight= 48
+Name=      2_22 : profit= 87, weight= 46
+Name=      2_23 : profit= 85, weight= 49
+Name=      2_18 : profit= 59, weight= 40
+Name=      2_16 : profit= 57, weight= 40
+Name=      2_19 : profit= 53, weight= 40
+Name=      2_20 : profit= 48, weight= 38
+Name=      2_15 : profit= 43, weight= 34
+Name=      2_13 : profit= 41, weight= 34
+Name=      2_17 : profit= 37, weight= 36
+Name=      2_12 : profit= 34, weight= 33
+Name=      2_11 : profit= 32, weight= 34
+Name=      2_14 : profit= 29, weight= 34
+Name=       2_7 : profit= 28, weight= 21
+Name=       2_6 : profit= 22, weight= 23
+Name=       2_9 : profit= 22, weight= 20
+Name=      2_10 : profit= 21, weight= 20
+Name=       2_8 : profit= 20, weight= 20
+Name=       2_3 : profit= 12, weight= 13
+Name=       2_4 : profit= 11, weight= 12
+Name=       2_5 : profit=  7, weight=  6
+Name=       2_2 : profit=  6, weight=  7
+Name=       2_1 : profit=  4, weight=  8
+Group[3]
+Name=      3_26 : profit=250, weight= 58
+Name=      3_30 : profit=246, weight= 55
+Name=      3_27 : profit=233, weight= 50
+Name=      3_29 : profit=223, weight= 51
+Name=      3_28 : profit=212, weight= 48
+Name=      3_21 : profit=156, weight= 45
+Name=      3_22 : profit=146, weight= 39
+Name=      3_23 : profit=143, weight= 41
+Name=      3_24 : profit=143, weight= 44
+Name=      3_25 : profit=143, weight= 41
+Name=      3_20 : profit=115, weight= 36
+Name=      3_19 : profit=105, weight= 37
+Name=      3_18 : profit=100, weight= 32
+Name=      3_17 : profit= 94, weight= 33
+Name=      3_16 : profit= 92, weight= 34
+Name=      3_13 : profit= 75, weight= 21
+Name=      3_15 : profit= 67, weight= 25
+Name=      3_14 : profit= 59, weight= 21
+Name=      3_11 : profit= 52, weight= 20
+Name=      3_12 : profit= 51, weight= 20
+Name=       3_6 : profit= 33, weight= 15
+Name=       3_8 : profit= 32, weight= 13
+Name=       3_7 : profit= 30, weight= 14
+Name=       3_9 : profit= 27, weight= 12
+Name=      3_10 : profit= 26, weight= 14
+Name=       3_3 : profit= 17, weight=  8
+Name=       3_5 : profit= 16, weight=  8
+Name=       3_1 : profit= 13, weight=  8
+Name=       3_4 : profit= 11, weight=  9
+Name=       3_2 : profit=  5, weight=  9
+Group[4]
+Name=      4_30 : profit=296, weight= 48
+Name=      4_26 : profit=286, weight= 48
+Name=      4_28 : profit=285, weight= 48
+Name=      4_27 : profit=276, weight= 45
+Name=      4_29 : profit=245, weight= 42
+Name=      4_22 : profit=163, weight= 38
+Name=      4_25 : profit=162, weight= 38
+Name=      4_21 : profit=161, weight= 39
+Name=      4_24 : profit=155, weight= 36
+Name=      4_23 : profit=144, weight= 34
+Name=      4_20 : profit= 93, weight= 31
+Name=      4_16 : profit= 92, weight= 31
+Name=      4_19 : profit= 92, weight= 32
+Name=      4_18 : profit= 86, weight= 28
+Name=      4_17 : profit= 80, weight= 27
+Name=      4_11 : profit= 41, weight= 19
+Name=      4_15 : profit= 41, weight= 22
+Name=      4_13 : profit= 40, weight= 18
+Name=      4_14 : profit= 39, weight= 22
+Name=      4_12 : profit= 34, weight= 20
+Name=       4_7 : profit= 27, weight= 15
+Name=       4_8 : profit= 26, weight= 14
+Name=      4_10 : profit= 25, weight= 14
+Name=       4_6 : profit= 22, weight= 14
+Name=       4_2 : profit= 14, weight=  9
+Name=       4_9 : profit= 14, weight= 16
+Name=       4_3 : profit= 12, weight= 10
+Name=       4_4 : profit= 12, weight=  6
+Name=       4_1 : profit= 11, weight=  6
+Name=       4_5 : profit=  9, weight=  7
+Group[5]
+Name=      5_28 : profit=282, weight= 51
+Name=      5_26 : profit=269, weight= 47
+Name=      5_27 : profit=263, weight= 47
+Name=      5_30 : profit=259, weight= 47
+Name=      5_29 : profit=254, weight= 47
+Name=      5_24 : profit=144, weight= 43
+Name=      5_22 : profit=140, weight= 40
+Name=      5_23 : profit=136, weight= 41
+Name=      5_25 : profit=132, weight= 41
+Name=      5_21 : profit=130, weight= 41
+Name=      5_20 : profit=106, weight= 39
+Name=      5_18 : profit= 97, weight= 37
+Name=      5_16 : profit= 84, weight= 34
+Name=      5_19 : profit= 84, weight= 31
+Name=      5_17 : profit= 83, weight= 31
+Name=      5_12 : profit= 75, weight= 28
+Name=      5_13 : profit= 74, weight= 27
+Name=      5_11 : profit= 73, weight= 28
+Name=      5_14 : profit= 73, weight= 28
+Name=      5_15 : profit= 68, weight= 26
+Name=       5_9 : profit= 49, weight= 21
+Name=       5_8 : profit= 46, weight= 18
+Name=       5_7 : profit= 45, weight= 21
+Name=      5_10 : profit= 40, weight= 18
+Name=       5_6 : profit= 39, weight= 19
+Name=       5_2 : profit= 28, weight= 12
+Name=       5_1 : profit= 17, weight=  8
+Name=       5_4 : profit= 14, weight=  6
+Name=       5_5 : profit= 14, weight=  7
+Name=       5_3 : profit= 13, weight=  5
+Group[6]
+Name=      6_27 : profit=184, weight= 61
+Name=      6_28 : profit=177, weight= 57
+Name=      6_29 : profit=176, weight= 58
+Name=      6_30 : profit=176, weight= 62
+Name=      6_26 : profit=163, weight= 56
+Name=      6_21 : profit=123, weight= 51
+Name=      6_23 : profit=123, weight= 54
+Name=      6_24 : profit=119, weight= 51
+Name=      6_25 : profit=116, weight= 51
+Name=      6_22 : profit=113, weight= 49
+Name=      6_18 : profit= 88, weight= 41
+Name=      6_20 : profit= 84, weight= 34
+Name=      6_19 : profit= 78, weight= 40
+Name=      6_16 : profit= 73, weight= 39
+Name=      6_11 : profit= 70, weight= 32
+Name=      6_17 : profit= 70, weight= 34
+Name=      6_13 : profit= 66, weight= 31
+Name=      6_15 : profit= 57, weight= 28
+Name=      6_12 : profit= 55, weight= 24
+Name=      6_14 : profit= 52, weight= 25
+Name=       6_6 : profit= 34, weight= 17
+Name=       6_8 : profit= 34, weight= 19
+Name=       6_9 : profit= 32, weight= 17
+Name=      6_10 : profit= 32, weight= 17
+Name=       6_7 : profit= 30, weight= 17
+Name=       6_4 : profit=  8, weight=  5
+Name=       6_2 : profit=  7, weight=  5
+Name=       6_1 : profit=  6, weight= 10
+Name=       6_3 : profit=  5, weight=  5
+Name=       6_5 : profit=  5, weight=  6
+Group[7]
+Name=      7_30 : profit=245, weight= 48
+Name=      7_28 : profit=235, weight= 48
+Name=      7_27 : profit=230, weight= 46
+Name=      7_29 : profit=219, weight= 44
+Name=      7_26 : profit=211, weight= 44
+Name=      7_22 : profit= 76, weight= 42
+Name=      7_24 : profit= 73, weight= 40
+Name=      7_23 : profit= 65, weight= 38
+Name=      7_21 : profit= 64, weight= 37
+Name=      7_25 : profit= 64, weight= 39
+Name=      7_16 : profit= 48, weight= 29
+Name=      7_18 : profit= 44, weight= 29
+Name=      7_17 : profit= 43, weight= 27
+Name=      7_19 : profit= 40, weight= 28
+Name=      7_15 : profit= 33, weight= 21
+Name=      7_13 : profit= 32, weight= 23
+Name=      7_14 : profit= 31, weight= 21
+Name=       7_8 : profit= 30, weight= 17
+Name=      7_10 : profit= 29, weight= 18
+Name=       7_7 : profit= 28, weight= 20
+Name=      7_12 : profit= 28, weight= 23
+Name=      7_20 : profit= 26, weight= 25
+Name=       7_9 : profit= 25, weight= 15
+Name=       7_6 : profit= 24, weight= 18
+Name=      7_11 : profit= 23, weight= 21
+Name=       7_1 : profit= 12, weight= 10
+Name=       7_4 : profit= 12, weight=  5
+Name=       7_5 : profit= 12, weight= 14
+Name=       7_2 : profit= 10, weight= 10
+Name=       7_3 : profit= 10, weight=  7
+Group[8]
+Name=      8_28 : profit=227, weight= 78
+Name=      8_27 : profit=221, weight= 76
+Name=      8_30 : profit=199, weight= 68
+Name=      8_29 : profit=189, weight= 66
+Name=      8_26 : profit=183, weight= 66
+Name=      8_24 : profit=147, weight= 58
+Name=      8_22 : profit=143, weight= 58
+Name=      8_23 : profit=136, weight= 54
+Name=      8_21 : profit=130, weight= 51
+Name=      8_25 : profit=130, weight= 50
+Name=      8_18 : profit=114, weight= 49
+Name=      8_17 : profit=113, weight= 48
+Name=      8_19 : profit=106, weight= 45
+Name=      8_16 : profit= 96, weight= 43
+Name=      8_20 : profit= 88, weight= 40
+Name=      8_14 : profit= 69, weight= 34
+Name=      8_12 : profit= 64, weight= 28
+Name=      8_13 : profit= 63, weight= 31
+Name=      8_11 : profit= 61, weight= 30
+Name=      8_15 : profit= 53, weight= 27
+Name=      8_10 : profit= 33, weight= 19
+Name=       8_6 : profit= 31, weight= 21
+Name=       8_9 : profit= 29, weight= 17
+Name=       8_7 : profit= 28, weight= 17
+Name=       8_8 : profit= 28, weight= 15
+Name=       8_3 : profit= 18, weight= 11
+Name=       8_1 : profit= 17, weight=  8
+Name=       8_4 : profit= 13, weight=  9
+Name=       8_5 : profit= 13, weight=  5
+Name=       8_2 : profit=  6, weight=  5
+Group[9]
+Name=       9_1 : profit=332, weight=  6
+Name=       9_2 : profit=258, weight=  8
+Name=      9_26 : profit=222, weight= 55
+Name=      9_30 : profit=218, weight= 55
+Name=      9_28 : profit=213, weight= 55
+Name=      9_27 : profit=203, weight= 49
+Name=      9_29 : profit=188, weight= 49
+Name=      9_25 : profit=184, weight= 46
+Name=      9_23 : profit=173, weight= 48
+Name=      9_24 : profit=164, weight= 45
+Name=      9_21 : profit=159, weight= 42
+Name=      9_22 : profit=149, weight= 41
+Name=       9_4 : profit=122, weight=  8
+Name=      9_17 : profit= 54, weight= 35
+Name=      9_18 : profit= 49, weight= 27
+Name=      9_19 : profit= 42, weight= 29
+Name=      9_14 : profit= 37, weight= 19
+Name=      9_11 : profit= 36, weight= 22
+Name=      9_20 : profit= 34, weight= 26
+Name=      9_16 : profit= 31, weight= 25
+Name=      9_13 : profit= 30, weight= 21
+Name=       9_8 : profit= 29, weight= 15
+Name=      9_15 : profit= 27, weight= 19
+Name=      9_10 : profit= 25, weight= 15
+Name=      9_12 : profit= 23, weight= 16
+Name=       9_9 : profit= 21, weight= 15
+Name=       9_7 : profit= 18, weight= 15
+Name=       9_6 : profit= 17, weight= 15
+Name=       9_3 : profit=  0, weight=  8
+Name=       9_5 : profit=  0, weight= 14
+Group[10]
+Name=     10_28 : profit=169, weight= 59
+Name=     10_26 : profit=167, weight= 57
+Name=     10_30 : profit=154, weight= 59
+Name=     10_27 : profit=149, weight= 60
+Name=     10_29 : profit=146, weight= 53
+Name=     10_23 : profit=117, weight= 49
+Name=     10_21 : profit=112, weight= 52
+Name=     10_22 : profit=106, weight= 52
+Name=     10_24 : profit=100, weight= 46
+Name=     10_25 : profit=100, weight= 49
+Name=     10_17 : profit= 71, weight= 42
+Name=     10_18 : profit= 71, weight= 43
+Name=     10_19 : profit= 71, weight= 43
+Name=     10_20 : profit= 70, weight= 40
+Name=     10_16 : profit= 55, weight= 36
+Name=     10_13 : profit= 27, weight= 30
+Name=     10_14 : profit= 26, weight= 29
+Name=     10_15 : profit= 26, weight= 26
+Name=     10_11 : profit= 23, weight= 28
+Name=     10_12 : profit= 20, weight= 27
+Name=      10_6 : profit= 17, weight= 23
+Name=      10_7 : profit= 17, weight= 20
+Name=      10_8 : profit= 16, weight= 23
+Name=      10_9 : profit= 16, weight= 23
+Name=     10_10 : profit= 16, weight= 21
+Name=      10_5 : profit= 11, weight=  7
+Name=      10_4 : profit=  8, weight= 14
+Name=      10_1 : profit=  7, weight=  6
+Name=      10_3 : profit=  7, weight= 12
+Name=      10_2 : profit=  4, weight= 15
+Group[11]
+Name=     11_27 : profit=389, weight= 68
+Name=     11_29 : profit=377, weight= 67
+Name=     11_26 : profit=345, weight= 61
+Name=     11_28 : profit=338, weight= 61
+Name=     11_30 : profit=337, weight= 61
+Name=     11_23 : profit=199, weight= 56
+Name=     11_22 : profit=195, weight= 55
+Name=     11_21 : profit=186, weight= 50
+Name=     11_24 : profit=175, weight= 50
+Name=     11_25 : profit=172, weight= 50
+Name=     11_20 : profit=126, weight= 44
+Name=     11_18 : profit=117, weight= 43
+Name=     11_17 : profit=112, weight= 41
+Name=     11_19 : profit=112, weight= 42
+Name=     11_16 : profit=110, weight= 39
+Name=     11_14 : profit= 66, weight= 37
+Name=     11_11 : profit= 60, weight= 36
+Name=     11_13 : profit= 59, weight= 32
+Name=     11_12 : profit= 57, weight= 31
+Name=     11_15 : profit= 53, weight= 27
+Name=      11_1 : profit= 20, weight= 13
+Name=      11_6 : profit= 14, weight= 19
+Name=      11_2 : profit= 12, weight=  8
+Name=      11_9 : profit= 12, weight= 19
+Name=      11_7 : profit=  9, weight= 21
+Name=      11_8 : profit=  9, weight= 20
+Name=      11_4 : profit=  8, weight=  6
+Name=     11_10 : profit=  8, weight= 19
+Name=      11_3 : profit=  6, weight=  6
+Name=      11_5 : profit=  0, weight=  6
+Group[12]
+Name=     12_28 : profit=236, weight= 72
+Name=     12_29 : profit=225, weight= 72
+Name=     12_27 : profit=218, weight= 69
+Name=     12_26 : profit=213, weight= 71
+Name=     12_30 : profit=213, weight= 69
+Name=     12_21 : profit=142, weight= 62
+Name=     12_25 : profit=131, weight= 61
+Name=     12_22 : profit=120, weight= 54
+Name=     12_23 : profit=120, weight= 53
+Name=     12_24 : profit=116, weight= 51
+Name=     12_19 : profit= 90, weight= 47
+Name=     12_18 : profit= 84, weight= 48
+Name=     12_17 : profit= 79, weight= 40
+Name=     12_16 : profit= 77, weight= 44
+Name=     12_20 : profit= 75, weight= 40
+Name=     12_11 : profit= 55, weight= 31
+Name=     12_12 : profit= 53, weight= 35
+Name=     12_14 : profit= 53, weight= 36
+Name=     12_15 : profit= 53, weight= 37
+Name=     12_13 : profit= 44, weight= 30
+Name=      12_9 : profit= 21, weight= 23
+Name=      12_8 : profit= 19, weight= 28
+Name=     12_10 : profit= 15, weight= 19
+Name=      12_6 : profit= 13, weight= 16
+Name=      12_5 : profit= 12, weight= 14
+Name=      12_7 : profit= 11, weight= 29
+Name=      12_4 : profit= 10, weight= 14
+Name=      12_3 : profit=  8, weight=  8
+Name=      12_2 : profit=  4, weight= 12
+Name=      12_1 : profit=  3, weight=  5
+Group[13]
+Name=     13_29 : profit=270, weight= 57
+Name=     13_26 : profit=240, weight= 53
+Name=     13_30 : profit=237, weight= 55
+Name=     13_27 : profit=234, weight= 54
+Name=     13_28 : profit=229, weight= 51
+Name=     13_23 : profit=114, weight= 46
+Name=     13_21 : profit=112, weight= 47
+Name=     13_24 : profit=110, weight= 43
+Name=     13_25 : profit=110, weight= 47
+Name=     13_22 : profit=106, weight= 50
+Name=     13_20 : profit= 95, weight= 42
+Name=     13_18 : profit= 91, weight= 42
+Name=     13_19 : profit= 85, weight= 41
+Name=     13_17 : profit= 79, weight= 42
+Name=     13_11 : profit= 71, weight= 34
+Name=     13_16 : profit= 67, weight= 37
+Name=     13_14 : profit= 55, weight= 30
+Name=     13_15 : profit= 55, weight= 30
+Name=     13_12 : profit= 39, weight= 19
+Name=     13_13 : profit= 38, weight= 24
+Name=      13_7 : profit= 23, weight= 12
+Name=      13_9 : profit= 21, weight= 11
+Name=      13_6 : profit= 20, weight= 12
+Name=     13_10 : profit= 20, weight= 12
+Name=      13_8 : profit= 17, weight= 10
+Name=      13_1 : profit= 16, weight=  5
+Name=      13_4 : profit= 14, weight=  8
+Name=      13_2 : profit= 12, weight=  6
+Name=      13_5 : profit= 12, weight=  5
+Name=      13_3 : profit= 10, weight=  7
+Group[14]
+Name=     14_26 : profit=188, weight= 71
+Name=     14_27 : profit=178, weight= 69
+Name=     14_28 : profit=177, weight= 70
+Name=     14_29 : profit=177, weight= 69
+Name=     14_30 : profit=170, weight= 69
+Name=     14_24 : profit=153, weight= 65
+Name=     14_25 : profit=152, weight= 60
+Name=     14_23 : profit=149, weight= 63
+Name=     14_22 : profit=141, weight= 61
+Name=     14_21 : profit=140, weight= 60
+Name=     14_18 : profit=107, weight= 55
+Name=     14_19 : profit=107, weight= 53
+Name=     14_17 : profit=101, weight= 51
+Name=     14_16 : profit= 98, weight= 49
+Name=     14_20 : profit= 95, weight= 52
+Name=     14_14 : profit= 69, weight= 31
+Name=     14_11 : profit= 68, weight= 34
+Name=     14_15 : profit= 63, weight= 33
+Name=     14_13 : profit= 59, weight= 29
+Name=     14_12 : profit= 58, weight= 36
+Name=      14_7 : profit= 42, weight= 24
+Name=      14_6 : profit= 37, weight= 22
+Name=      14_9 : profit= 29, weight= 14
+Name=      14_8 : profit= 27, weight= 20
+Name=     14_10 : profit= 23, weight= 15
+Name=      14_4 : profit= 20, weight= 13
+Name=      14_1 : profit= 17, weight= 10
+Name=      14_2 : profit= 15, weight= 10
+Name=      14_5 : profit= 14, weight= 10
+Name=      14_3 : profit= 10, weight=  6
+Group[15]
+Name=     15_30 : profit=239, weight= 73
+Name=     15_28 : profit=209, weight= 67
+Name=     15_29 : profit=203, weight= 66
+Name=     15_26 : profit=197, weight= 66
+Name=     15_27 : profit=194, weight= 66
+Name=     15_24 : profit=138, weight= 59
+Name=     15_25 : profit=127, weight= 57
+Name=     15_23 : profit=124, weight= 55
+Name=     15_22 : profit=114, weight= 50
+Name=     15_21 : profit=109, weight= 50
+Name=     15_19 : profit= 59, weight= 37
+Name=     15_18 : profit= 50, weight= 34
+Name=     15_17 : profit= 49, weight= 42
+Name=     15_16 : profit= 47, weight= 39
+Name=     15_11 : profit= 43, weight= 32
+Name=     15_14 : profit= 41, weight= 32
+Name=     15_12 : profit= 36, weight= 26
+Name=     15_15 : profit= 36, weight= 32
+Name=     15_20 : profit= 35, weight= 35
+Name=     15_13 : profit= 34, weight= 28
+Name=      15_8 : profit= 20, weight= 23
+Name=     15_10 : profit= 18, weight= 22
+Name=      15_7 : profit= 17, weight= 14
+Name=      15_5 : profit= 16, weight=  7
+Name=      15_9 : profit= 15, weight= 17
+Name=      15_4 : profit= 12, weight= 10
+Name=      15_6 : profit= 11, weight= 17
+Name=      15_1 : profit=  9, weight= 11
+Name=      15_3 : profit=  7, weight= 10
+Name=      15_2 : profit=  2, weight=  5
+Group[16]
+Name=     16_29 : profit=177, weight= 66
+Name=     16_28 : profit=175, weight= 65
+Name=     16_30 : profit=165, weight= 62
+Name=     16_26 : profit=157, weight= 58
+Name=     16_27 : profit=156, weight= 60
+Name=     16_21 : profit=133, weight= 57
+Name=     16_24 : profit=132, weight= 56
+Name=     16_23 : profit=128, weight= 57
+Name=     16_22 : profit=122, weight= 53
+Name=     16_25 : profit=109, weight= 48
+Name=     16_16 : profit= 87, weight= 43
+Name=     16_19 : profit= 83, weight= 40
+Name=     16_18 : profit= 78, weight= 40
+Name=     16_17 : profit= 77, weight= 42
+Name=     16_15 : profit= 76, weight= 36
+Name=     16_20 : profit= 73, weight= 39
+Name=     16_14 : profit= 71, weight= 37
+Name=     16_11 : profit= 60, weight= 33
+Name=     16_13 : profit= 59, weight= 35
+Name=     16_12 : profit= 52, weight= 32
+Name=      16_9 : profit= 25, weight= 27
+Name=     16_10 : profit= 17, weight= 25
+Name=      16_6 : profit= 16, weight= 22
+Name=      16_7 : profit= 16, weight= 16
+Name=      16_2 : profit= 13, weight=  9
+Name=      16_3 : profit= 13, weight=  6
+Name=      16_8 : profit= 13, weight= 21
+Name=      16_1 : profit=  9, weight= 11
+Name=      16_4 : profit=  7, weight= 12
+Name=      16_5 : profit=  2, weight=  6
+Group[17]
+Name=     17_29 : profit=254, weight= 59
+Name=     17_26 : profit=253, weight= 59
+Name=     17_30 : profit=253, weight= 59
+Name=     17_28 : profit=242, weight= 58
+Name=     17_27 : profit=229, weight= 52
+Name=     17_25 : profit=157, weight= 51
+Name=     17_24 : profit=156, weight= 51
+Name=     17_21 : profit=140, weight= 47
+Name=     17_22 : profit=119, weight= 42
+Name=     17_23 : profit=118, weight= 45
+Name=     17_17 : profit= 83, weight= 37
+Name=     17_19 : profit= 82, weight= 32
+Name=     17_18 : profit= 80, weight= 35
+Name=     17_16 : profit= 76, weight= 34
+Name=     17_20 : profit= 69, weight= 34
+Name=     17_12 : profit= 66, weight= 27
+Name=     17_13 : profit= 56, weight= 27
+Name=     17_14 : profit= 55, weight= 26
+Name=     17_15 : profit= 55, weight= 22
+Name=     17_11 : profit= 47, weight= 23
+Name=      17_9 : profit= 22, weight= 18
+Name=      17_7 : profit= 21, weight= 11
+Name=      17_8 : profit= 19, weight= 13
+Name=     17_10 : profit= 19, weight= 16
+Name=      17_6 : profit= 16, weight= 13
+Name=      17_4 : profit= 10, weight= 10
+Name=      17_2 : profit=  9, weight=  6
+Name=      17_3 : profit=  9, weight=  6
+Name=      17_1 : profit=  8, weight=  6
+Name=      17_5 : profit=  0, weight=  5
+Group[18]
+Name=     18_27 : profit=150, weight= 54
+Name=     18_29 : profit=139, weight= 53
+Name=     18_26 : profit=131, weight= 52
+Name=     18_28 : profit=129, weight= 51
+Name=     18_30 : profit=125, weight= 49
+Name=     18_22 : profit=101, weight= 47
+Name=     18_21 : profit= 99, weight= 44
+Name=     18_24 : profit= 99, weight= 45
+Name=     18_25 : profit= 98, weight= 45
+Name=     18_23 : profit= 94, weight= 41
+Name=     18_18 : profit= 54, weight= 37
+Name=     18_17 : profit= 46, weight= 38
+Name=     18_19 : profit= 45, weight= 37
+Name=     18_20 : profit= 41, weight= 38
+Name=     18_16 : profit= 39, weight= 36
+Name=      18_8 : profit= 28, weight= 17
+Name=     18_12 : profit= 26, weight= 31
+Name=     18_13 : profit= 25, weight= 33
+Name=     18_15 : profit= 22, weight= 25
+Name=      18_3 : profit= 20, weight=  8
+Name=     18_14 : profit= 20, weight= 33
+Name=      18_7 : profit= 19, weight= 20
+Name=     18_11 : profit= 15, weight= 32
+Name=      18_4 : profit= 12, weight=  5
+Name=      18_5 : profit= 12, weight=  7
+Name=      18_9 : profit= 11, weight= 13
+Name=     18_10 : profit= 11, weight= 14
+Name=      18_6 : profit=  7, weight= 22
+Name=      18_1 : profit=  2, weight=  5
+Name=      18_2 : profit=  1, weight=  5
+Group[19]
+Name=     19_26 : profit=233, weight= 44
+Name=     19_29 : profit=214, weight= 40
+Name=     19_27 : profit=207, weight= 42
+Name=     19_30 : profit=202, weight= 38
+Name=     19_28 : profit=194, weight= 36
+Name=     19_23 : profit=129, weight= 32
+Name=     19_22 : profit=120, weight= 34
+Name=     19_25 : profit=117, weight= 30
+Name=     19_24 : profit=105, weight= 27
+Name=     19_21 : profit= 98, weight= 26
+Name=     19_17 : profit= 78, weight= 23
+Name=     19_20 : profit= 77, weight= 22
+Name=     19_19 : profit= 71, weight= 21
+Name=     19_18 : profit= 68, weight= 21
+Name=     19_16 : profit= 65, weight= 21
+Name=     19_11 : profit= 43, weight= 13
+Name=     19_13 : profit= 43, weight= 17
+Name=     19_14 : profit= 43, weight= 18
+Name=     19_12 : profit= 40, weight= 16
+Name=     19_15 : profit= 38, weight= 15
+Name=     19_10 : profit= 33, weight= 12
+Name=      19_9 : profit= 32, weight=  9
+Name=      19_6 : profit= 24, weight= 10
+Name=      19_8 : profit= 22, weight=  9
+Name=      19_7 : profit= 21, weight=  9
+Name=      19_5 : profit= 19, weight=  7
+Name=      19_3 : profit= 16, weight=  8
+Name=      19_1 : profit= 15, weight=  8
+Name=      19_2 : profit= 13, weight=  5
+Name=      19_4 : profit= 10, weight=  6
+Group[20]
+Name=      20_2 : profit=840, weight= 13
+Name=      20_4 : profit=339, weight= 13
+Name=     20_29 : profit=129, weight= 70
+Name=     20_27 : profit=118, weight= 67
+Name=      20_1 : profit=114, weight= 14
+Name=     20_28 : profit=114, weight= 65
+Name=     20_30 : profit=113, weight= 60
+Name=     20_26 : profit=106, weight= 61
+Name=     20_23 : profit= 84, weight= 51
+Name=     20_21 : profit= 83, weight= 48
+Name=     20_24 : profit= 78, weight= 53
+Name=     20_25 : profit= 78, weight= 54
+Name=     20_16 : profit= 65, weight= 40
+Name=     20_22 : profit= 64, weight= 45
+Name=     20_18 : profit= 61, weight= 43
+Name=     20_20 : profit= 61, weight= 43
+Name=     20_17 : profit= 59, weight= 40
+Name=     20_19 : profit= 58, weight= 38
+Name=     20_15 : profit= 49, weight= 36
+Name=     20_14 : profit= 45, weight= 30
+Name=     20_11 : profit= 41, weight= 29
+Name=     20_13 : profit= 40, weight= 35
+Name=     20_12 : profit= 36, weight= 31
+Name=      20_7 : profit= 33, weight= 18
+Name=      20_3 : profit=  0, weight=  7
+Name=      20_5 : profit=  0, weight= 12
+Name=      20_6 : profit=  0, weight= 15
+Name=      20_8 : profit=  0, weight= 21
+Name=      20_9 : profit=  0, weight= 20
+Name=     20_10 : profit=  0, weight= 26
+Group[21]
+Name=     21_29 : profit=171, weight= 74
+Name=     21_30 : profit=149, weight= 66
+Name=     21_28 : profit=147, weight= 70
+Name=     21_27 : profit=145, weight= 68
+Name=     21_26 : profit=126, weight= 67
+Name=     21_23 : profit= 90, weight= 56
+Name=     21_24 : profit= 88, weight= 56
+Name=     21_22 : profit= 86, weight= 65
+Name=     21_21 : profit= 85, weight= 55
+Name=      21_2 : profit= 77, weight=  6
+Name=     21_25 : profit= 76, weight= 56
+Name=     21_18 : profit= 67, weight= 50
+Name=     21_19 : profit= 63, weight= 45
+Name=     21_16 : profit= 60, weight= 48
+Name=     21_17 : profit= 52, weight= 46
+Name=     21_20 : profit= 52, weight= 52
+Name=     21_12 : profit= 50, weight= 30
+Name=     21_13 : profit= 39, weight= 37
+Name=     21_15 : profit= 33, weight= 33
+Name=     21_11 : profit= 28, weight= 27
+Name=     21_14 : profit= 28, weight= 37
+Name=      21_7 : profit= 25, weight= 23
+Name=      21_9 : profit= 20, weight= 18
+Name=      21_8 : profit= 17, weight= 12
+Name=     21_10 : profit= 11, weight= 11
+Name=      21_6 : profit=  9, weight= 11
+Name=      21_1 : profit=  0, weight=  5
+Name=      21_3 : profit=  0, weight=  6
+Name=      21_4 : profit=  0, weight=  5
+Name=      21_5 : profit=  0, weight=  5
+Group[22]
+Name=     22_27 : profit=182, weight= 64
+Name=     22_26 : profit=157, weight= 62
+Name=     22_29 : profit=157, weight= 62
+Name=     22_28 : profit=148, weight= 60
+Name=     22_30 : profit=142, weight= 59
+Name=     22_24 : profit=117, weight= 54
+Name=     22_23 : profit=111, weight= 47
+Name=     22_21 : profit=108, weight= 53
+Name=     22_25 : profit=108, weight= 55
+Name=     22_22 : profit=102, weight= 49
+Name=     22_17 : profit= 76, weight= 43
+Name=     22_20 : profit= 75, weight= 40
+Name=     22_16 : profit= 68, weight= 40
+Name=     22_18 : profit= 67, weight= 39
+Name=     22_19 : profit= 60, weight= 33
+Name=     22_14 : profit= 52, weight= 32
+Name=     22_15 : profit= 49, weight= 28
+Name=     22_13 : profit= 44, weight= 25
+Name=     22_11 : profit= 42, weight= 31
+Name=      22_7 : profit= 38, weight= 20
+Name=     22_10 : profit= 35, weight= 18
+Name=     22_12 : profit= 35, weight= 23
+Name=      22_6 : profit= 34, weight= 21
+Name=      22_9 : profit= 32, weight= 19
+Name=      22_8 : profit= 24, weight= 13
+Name=      22_3 : profit= 17, weight=  9
+Name=      22_2 : profit= 16, weight=  7
+Name=      22_5 : profit= 13, weight= 11
+Name=      22_1 : profit= 12, weight=  8
+Name=      22_4 : profit= 12, weight=  6
+Group[23]
+Name=     23_27 : profit=178, weight= 60
+Name=     23_26 : profit=170, weight= 55
+Name=     23_28 : profit=163, weight= 54
+Name=     23_30 : profit=161, weight= 50
+Name=     23_29 : profit=145, weight= 51
+Name=     23_22 : profit= 94, weight= 49
+Name=     23_24 : profit= 92, weight= 47
+Name=     23_21 : profit= 89, weight= 44
+Name=     23_25 : profit= 89, weight= 44
+Name=     23_23 : profit= 82, weight= 44
+Name=     23_17 : profit= 65, weight= 33
+Name=     23_20 : profit= 65, weight= 36
+Name=     23_16 : profit= 63, weight= 28
+Name=     23_18 : profit= 60, weight= 28
+Name=     23_19 : profit= 55, weight= 31
+Name=     23_15 : profit= 40, weight= 25
+Name=     23_13 : profit= 38, weight= 23
+Name=     23_11 : profit= 37, weight= 19
+Name=     23_12 : profit= 31, weight= 20
+Name=      23_1 : profit= 28, weight=  8
+Name=     23_14 : profit= 27, weight= 18
+Name=      23_9 : profit= 18, weight= 14
+Name=      23_3 : profit= 14, weight= 10
+Name=      23_6 : profit= 14, weight= 13
+Name=      23_5 : profit= 13, weight=  6
+Name=      23_4 : profit= 12, weight=  8
+Name=      23_7 : profit= 12, weight= 14
+Name=     23_10 : profit= 12, weight= 14
+Name=      23_8 : profit=  7, weight= 11
+Name=      23_2 : profit=  2, weight=  6
+Group[24]
+Name=     24_26 : profit=262, weight= 55
+Name=     24_27 : profit=260, weight= 55
+Name=     24_28 : profit=251, weight= 50
+Name=     24_30 : profit=240, weight= 50
+Name=     24_29 : profit=226, weight= 49
+Name=     24_24 : profit=128, weight= 45
+Name=     24_25 : profit=126, weight= 48
+Name=     24_22 : profit=119, weight= 46
+Name=     24_21 : profit=117, weight= 44
+Name=     24_23 : profit=112, weight= 41
+Name=     24_16 : profit= 70, weight= 34
+Name=     24_18 : profit= 69, weight= 36
+Name=     24_20 : profit= 65, weight= 30
+Name=     24_17 : profit= 58, weight= 33
+Name=     24_19 : profit= 55, weight= 30
+Name=     24_11 : profit= 47, weight= 29
+Name=     24_15 : profit= 46, weight= 29
+Name=     24_13 : profit= 39, weight= 23
+Name=     24_12 : profit= 38, weight= 20
+Name=     24_14 : profit= 38, weight= 21
+Name=      24_6 : profit= 27, weight= 15
+Name=      24_9 : profit= 27, weight= 16
+Name=      24_7 : profit= 23, weight= 13
+Name=      24_4 : profit= 19, weight= 11
+Name=      24_5 : profit= 19, weight= 10
+Name=      24_2 : profit= 18, weight=  8
+Name=      24_8 : profit= 17, weight= 12
+Name=      24_3 : profit= 16, weight=  7
+Name=     24_10 : profit= 15, weight= 13
+Name=      24_1 : profit= 14, weight=  7
+Group[25]
+Name=     25_28 : profit=227, weight= 62
+Name=     25_26 : profit=209, weight= 59
+Name=     25_27 : profit=206, weight= 54
+Name=     25_30 : profit=206, weight= 58
+Name=     25_29 : profit=196, weight= 53
+Name=     25_21 : profit=158, weight= 49
+Name=     25_22 : profit=153, weight= 46
+Name=     25_23 : profit=152, weight= 46
+Name=     25_24 : profit=152, weight= 49
+Name=     25_25 : profit=144, weight= 45
+Name=     25_17 : profit=131, weight= 40
+Name=     25_18 : profit=123, weight= 42
+Name=     25_19 : profit=120, weight= 39
+Name=     25_16 : profit=117, weight= 38
+Name=     25_20 : profit=111, weight= 37
+Name=     25_12 : profit=103, weight= 34
+Name=     25_13 : profit= 97, weight= 31
+Name=     25_14 : profit= 97, weight= 32
+Name=     25_11 : profit= 91, weight= 30
+Name=     25_15 : profit= 85, weight= 29
+Name=      25_9 : profit= 52, weight= 26
+Name=      25_8 : profit= 48, weight= 27
+Name=      25_7 : profit= 45, weight= 19
+Name=      25_6 : profit= 42, weight= 23
+Name=     25_10 : profit= 40, weight= 18
+Name=      25_1 : profit= 24, weight= 10
+Name=      25_4 : profit= 17, weight=  5
+Name=      25_2 : profit= 14, weight=  8
+Name=      25_5 : profit= 14, weight= 10
+Name=      25_3 : profit= 13, weight=  9
+Group[26]
+Name=     26_28 : profit=188, weight= 63
+Name=     26_27 : profit=185, weight= 63
+Name=     26_30 : profit=181, weight= 63
+Name=     26_26 : profit=180, weight= 59
+Name=     26_29 : profit=176, weight= 57
+Name=     26_24 : profit=133, weight= 49
+Name=     26_25 : profit=132, weight= 51
+Name=     26_23 : profit=131, weight= 51
+Name=     26_22 : profit=127, weight= 46
+Name=     26_21 : profit=123, weight= 47
+Name=     26_16 : profit= 81, weight= 43
+Name=     26_18 : profit= 80, weight= 45
+Name=     26_19 : profit= 75, weight= 43
+Name=     26_17 : profit= 67, weight= 36
+Name=     26_20 : profit= 65, weight= 35
+Name=     26_13 : profit= 51, weight= 34
+Name=     26_11 : profit= 49, weight= 29
+Name=     26_12 : profit= 48, weight= 33
+Name=     26_14 : profit= 48, weight= 31
+Name=     26_15 : profit= 42, weight= 29
+Name=     26_10 : profit= 29, weight= 16
+Name=      26_9 : profit= 24, weight= 16
+Name=      26_7 : profit= 22, weight= 23
+Name=      26_6 : profit= 21, weight= 19
+Name=      26_8 : profit= 14, weight= 15
+Name=      26_1 : profit= 12, weight= 12
+Name=      26_3 : profit= 11, weight= 12
+Name=      26_5 : profit=  9, weight=  7
+Name=      26_4 : profit=  7, weight=  7
+Name=      26_2 : profit=  3, weight=  5
+Group[27]
+Name=     27_28 : profit=412, weight= 64
+Name=     27_27 : profit=404, weight= 63
+Name=     27_29 : profit=395, weight= 62
+Name=     27_26 : profit=385, weight= 62
+Name=     27_30 : profit=374, weight= 61
+Name=     27_25 : profit=138, weight= 57
+Name=     27_21 : profit=137, weight= 59
+Name=     27_24 : profit=133, weight= 59
+Name=     27_22 : profit=127, weight= 55
+Name=     27_23 : profit=119, weight= 50
+Name=     27_16 : profit= 88, weight= 49
+Name=     27_19 : profit= 82, weight= 48
+Name=     27_20 : profit= 82, weight= 42
+Name=     27_18 : profit= 76, weight= 40
+Name=     27_17 : profit= 74, weight= 39
+Name=     27_15 : profit= 59, weight= 32
+Name=     27_13 : profit= 45, weight= 26
+Name=     27_12 : profit= 43, weight= 24
+Name=     27_11 : profit= 39, weight= 26
+Name=     27_14 : profit= 37, weight= 21
+Name=      27_7 : profit= 20, weight= 14
+Name=      27_8 : profit= 16, weight= 14
+Name=     27_10 : profit= 16, weight= 20
+Name=      27_6 : profit= 14, weight= 13
+Name=      27_9 : profit= 14, weight= 15
+Name=      27_2 : profit=  4, weight= 11
+Name=      27_4 : profit=  1, weight= 10
+Name=      27_1 : profit=  0, weight=  5
+Name=      27_3 : profit=  0, weight=  8
+Name=      27_5 : profit=  0, weight=  8
+Group[28]
+Name=     28_26 : profit=263, weight= 53
+Name=     28_30 : profit=259, weight= 51
+Name=     28_27 : profit=252, weight= 53
+Name=     28_28 : profit=244, weight= 48
+Name=     28_29 : profit=242, weight= 49
+Name=     28_22 : profit=152, weight= 42
+Name=     28_24 : profit=147, weight= 41
+Name=     28_23 : profit=140, weight= 37
+Name=     28_25 : profit=134, weight= 38
+Name=     28_21 : profit=126, weight= 34
+Name=     28_17 : profit= 98, weight= 33
+Name=     28_18 : profit= 94, weight= 31
+Name=     28_19 : profit= 94, weight= 32
+Name=     28_20 : profit= 86, weight= 26
+Name=     28_16 : profit= 84, weight= 31
+Name=     28_12 : profit= 48, weight= 20
+Name=     28_11 : profit= 47, weight= 21
+Name=     28_13 : profit= 46, weight= 22
+Name=     28_15 : profit= 45, weight= 21
+Name=     28_14 : profit= 39, weight= 21
+Name=      28_6 : profit= 22, weight= 14
+Name=      28_9 : profit= 22, weight= 14
+Name=      28_7 : profit= 21, weight= 15
+Name=     28_10 : profit= 18, weight= 15
+Name=      28_3 : profit= 16, weight=  7
+Name=      28_1 : profit= 14, weight= 12
+Name=      28_4 : profit= 14, weight= 12
+Name=      28_8 : profit= 14, weight= 16
+Name=      28_2 : profit= 12, weight=  6
+Name=      28_5 : profit=  8, weight=  9
+Group[29]
+Name=     29_27 : profit=220, weight= 46
+Name=     29_28 : profit=220, weight= 46
+Name=     29_26 : profit=203, weight= 45
+Name=     29_30 : profit=201, weight= 44
+Name=     29_29 : profit=185, weight= 41
+Name=     29_21 : profit=146, weight= 39
+Name=     29_22 : profit=141, weight= 39
+Name=     29_23 : profit=124, weight= 35
+Name=     29_24 : profit=119, weight= 33
+Name=     29_19 : profit=115, weight= 30
+Name=     29_25 : profit=115, weight= 33
+Name=     29_18 : profit=108, weight= 30
+Name=     29_20 : profit=104, weight= 29
+Name=     29_16 : profit=100, weight= 27
+Name=     29_17 : profit= 91, weight= 27
+Name=     29_11 : profit= 54, weight= 25
+Name=     29_13 : profit= 45, weight= 23
+Name=     29_12 : profit= 41, weight= 24
+Name=     29_15 : profit= 40, weight= 24
+Name=     29_14 : profit= 32, weight= 24
+Name=      29_9 : profit= 30, weight= 18
+Name=     29_10 : profit= 19, weight= 19
+Name=      29_8 : profit= 16, weight= 15
+Name=      29_7 : profit= 15, weight= 18
+Name=      29_6 : profit= 14, weight= 18
+Name=      29_1 : profit=  9, weight= 10
+Name=      29_3 : profit=  9, weight= 10
+Name=      29_2 : profit=  8, weight=  5
+Name=      29_5 : profit=  7, weight= 10
+Name=      29_4 : profit=  6, weight=  8
+Group[30]
+Name=     30_29 : profit=302, weight= 63
+Name=     30_28 : profit=293, weight= 60
+Name=     30_27 : profit=289, weight= 58
+Name=     30_30 : profit=278, weight= 58
+Name=     30_26 : profit=273, weight= 56
+Name=     30_22 : profit=148, weight= 54
+Name=     30_25 : profit=144, weight= 53
+Name=     30_23 : profit=142, weight= 53
+Name=     30_24 : profit=142, weight= 53
+Name=     30_21 : profit=138, weight= 54
+Name=     30_16 : profit= 96, weight= 51
+Name=     30_17 : profit= 89, weight= 48
+Name=     30_18 : profit= 89, weight= 50
+Name=     30_20 : profit= 79, weight= 46
+Name=     30_19 : profit= 72, weight= 42
+Name=     30_13 : profit= 41, weight= 36
+Name=     30_11 : profit= 39, weight= 28
+Name=     30_15 : profit= 35, weight= 37
+Name=     30_12 : profit= 33, weight= 28
+Name=     30_14 : profit= 32, weight= 35
+Name=      30_5 : profit= 28, weight= 11
+Name=      30_3 : profit= 21, weight= 15
+Name=      30_8 : profit= 18, weight= 18
+Name=      30_6 : profit= 12, weight= 24
+Name=      30_4 : profit= 11, weight= 13
+Name=      30_9 : profit= 11, weight= 21
+Name=      30_7 : profit= 10, weight= 21
+Name=      30_2 : profit=  4, weight= 10
+Name=     30_10 : profit=  4, weight= 21
+Name=      30_1 : profit=  0, weight= 17
+Group[31]
+Name=     31_26 : profit=262, weight= 60
+Name=     31_30 : profit=251, weight= 56
+Name=     31_29 : profit=249, weight= 56
+Name=     31_28 : profit=238, weight= 53
+Name=     31_27 : profit=219, weight= 49
+Name=     31_21 : profit=151, weight= 43
+Name=     31_23 : profit=151, weight= 45
+Name=     31_24 : profit=140, weight= 40
+Name=     31_22 : profit=136, weight= 40
+Name=     31_25 : profit=133, weight= 38
+Name=     31_16 : profit=105, weight= 35
+Name=     31_19 : profit=102, weight= 33
+Name=     31_20 : profit=101, weight= 34
+Name=     31_17 : profit= 99, weight= 32
+Name=     31_18 : profit= 93, weight= 32
+Name=     31_15 : profit= 84, weight= 25
+Name=     31_14 : profit= 67, weight= 23
+Name=     31_11 : profit= 65, weight= 19
+Name=     31_13 : profit= 56, weight= 18
+Name=     31_12 : profit= 52, weight= 19
+Name=      31_7 : profit= 37, weight= 17
+Name=      31_6 : profit= 33, weight= 15
+Name=      31_9 : profit= 31, weight= 16
+Name=     31_10 : profit= 27, weight= 11
+Name=      31_8 : profit= 23, weight= 10
+Name=      31_3 : profit= 11, weight=  8
+Name=      31_2 : profit= 10, weight=  5
+Name=      31_5 : profit=  9, weight=  5
+Name=      31_1 : profit=  8, weight=  5
+Name=      31_4 : profit=  3, weight=  5
+Group[32]
+Name=     32_28 : profit=269, weight= 76
+Name=     32_29 : profit=253, weight= 72
+Name=     32_30 : profit=243, weight= 69
+Name=     32_26 : profit=222, weight= 65
+Name=     32_27 : profit=208, weight= 65
+Name=     32_25 : profit=168, weight= 62
+Name=     32_23 : profit=156, weight= 61
+Name=     32_21 : profit=155, weight= 58
+Name=     32_22 : profit=152, weight= 60
+Name=     32_24 : profit=141, weight= 56
+Name=     32_17 : profit= 88, weight= 51
+Name=     32_18 : profit= 87, weight= 49
+Name=     32_20 : profit= 79, weight= 44
+Name=     32_19 : profit= 78, weight= 44
+Name=     32_16 : profit= 77, weight= 45
+Name=     32_14 : profit= 65, weight= 40
+Name=     32_13 : profit= 64, weight= 36
+Name=     32_15 : profit= 60, weight= 38
+Name=     32_11 : profit= 55, weight= 40
+Name=     32_12 : profit= 52, weight= 34
+Name=      32_9 : profit= 40, weight= 26
+Name=      32_8 : profit= 37, weight= 29
+Name=      32_6 : profit= 36, weight= 27
+Name=      32_7 : profit= 36, weight= 30
+Name=     32_10 : profit= 28, weight= 30
+Name=      32_4 : profit= 17, weight= 13
+Name=      32_2 : profit= 15, weight= 16
+Name=      32_5 : profit=  9, weight=  8
+Name=      32_1 : profit=  8, weight=  7
+Name=      32_3 : profit=  6, weight=  5
+Group[33]
+Name=     33_28 : profit=400, weight= 60
+Name=     33_30 : profit=394, weight= 58
+Name=     33_26 : profit=380, weight= 57
+Name=     33_27 : profit=372, weight= 56
+Name=     33_29 : profit=370, weight= 57
+Name=     33_23 : profit=192, weight= 55
+Name=     33_21 : profit=185, weight= 54
+Name=     33_22 : profit=175, weight= 51
+Name=     33_24 : profit=166, weight= 52
+Name=     33_25 : profit=159, weight= 49
+Name=     33_20 : profit=127, weight= 45
+Name=     33_19 : profit=125, weight= 45
+Name=     33_17 : profit=124, weight= 42
+Name=     33_18 : profit=120, weight= 40
+Name=     33_16 : profit=114, weight= 39
+Name=     33_14 : profit= 91, weight= 32
+Name=     33_11 : profit= 83, weight= 33
+Name=     33_15 : profit= 83, weight= 28
+Name=     33_13 : profit= 82, weight= 29
+Name=     33_12 : profit= 80, weight= 29
+Name=      33_7 : profit= 64, weight= 25
+Name=      33_6 : profit= 58, weight= 22
+Name=     33_10 : profit= 57, weight= 22
+Name=      33_9 : profit= 55, weight= 20
+Name=      33_8 : profit= 50, weight= 20
+Name=      33_5 : profit= 20, weight= 15
+Name=      33_2 : profit= 16, weight=  8
+Name=      33_3 : profit= 15, weight=  9
+Name=      33_1 : profit=  9, weight=  9
+Name=      33_4 : profit=  7, weight=  9
+Group[34]
+Name=     34_26 : profit=236, weight= 63
+Name=     34_28 : profit=236, weight= 66
+Name=     34_30 : profit=231, weight= 63
+Name=     34_29 : profit=225, weight= 63
+Name=     34_27 : profit=221, weight= 61
+Name=     34_24 : profit=139, weight= 56
+Name=     34_25 : profit=138, weight= 57
+Name=     34_22 : profit=125, weight= 55
+Name=     34_21 : profit=122, weight= 54
+Name=     34_23 : profit=110, weight= 49
+Name=     34_19 : profit=106, weight= 48
+Name=     34_16 : profit= 98, weight= 48
+Name=     34_17 : profit= 95, weight= 48
+Name=     34_18 : profit= 89, weight= 42
+Name=     34_20 : profit= 87, weight= 40
+Name=     34_15 : profit= 64, weight= 37
+Name=     34_12 : profit= 61, weight= 36
+Name=     34_14 : profit= 57, weight= 35
+Name=     34_11 : profit= 56, weight= 30
+Name=     34_13 : profit= 52, weight= 29
+Name=     34_10 : profit= 42, weight= 24
+Name=      34_7 : profit= 37, weight= 25
+Name=      34_9 : profit= 33, weight= 19
+Name=      34_8 : profit= 32, weight= 22
+Name=      34_6 : profit= 30, weight= 23
+Name=      34_1 : profit= 21, weight= 12
+Name=      34_3 : profit= 14, weight=  7
+Name=      34_4 : profit= 12, weight= 12
+Name=      34_2 : profit= 10, weight=  5
+Name=      34_5 : profit=  5, weight=  8
+Group[35]
+Name=     35_26 : profit=177, weight= 57
+Name=     35_30 : profit=175, weight= 61
+Name=     35_28 : profit=168, weight= 55
+Name=     35_29 : profit=168, weight= 58
+Name=     35_27 : profit=155, weight= 54
+Name=     35_23 : profit=126, weight= 53
+Name=     35_24 : profit=119, weight= 48
+Name=     35_21 : profit=118, weight= 53
+Name=     35_25 : profit=116, weight= 50
+Name=     35_22 : profit=113, weight= 51
+Name=     35_19 : profit= 95, weight= 44
+Name=     35_17 : profit= 94, weight= 44
+Name=     35_20 : profit= 80, weight= 36
+Name=     35_18 : profit= 79, weight= 36
+Name=     35_16 : profit= 75, weight= 37
+Name=     35_13 : profit= 66, weight= 32
+Name=     35_12 : profit= 62, weight= 32
+Name=     35_11 : profit= 61, weight= 34
+Name=     35_15 : profit= 59, weight= 32
+Name=     35_14 : profit= 56, weight= 32
+Name=     35_10 : profit= 31, weight= 25
+Name=      35_7 : profit= 27, weight= 21
+Name=      35_9 : profit= 26, weight= 26
+Name=      35_8 : profit= 25, weight= 25
+Name=      35_6 : profit= 24, weight= 22
+Name=      35_1 : profit= 15, weight= 20
+Name=      35_5 : profit= 11, weight= 10
+Name=      35_3 : profit=  9, weight= 13
+Name=      35_4 : profit=  6, weight=  8
+Name=      35_2 : profit=  4, weight=  6
+Group[36]
+Name=     36_28 : profit=272, weight= 65
+Name=     36_26 : profit=250, weight= 62
+Name=     36_27 : profit=250, weight= 61
+Name=     36_29 : profit=238, weight= 59
+Name=     36_30 : profit=235, weight= 60
+Name=     36_21 : profit=227, weight= 55
+Name=     36_23 : profit=218, weight= 54
+Name=     36_25 : profit=217, weight= 55
+Name=     36_24 : profit=207, weight= 50
+Name=     36_22 : profit=203, weight= 51
+Name=     36_16 : profit=159, weight= 49
+Name=     36_17 : profit=155, weight= 48
+Name=     36_20 : profit=154, weight= 46
+Name=     36_19 : profit=146, weight= 48
+Name=     36_18 : profit=136, weight= 43
+Name=     36_14 : profit= 70, weight= 41
+Name=     36_13 : profit= 69, weight= 38
+Name=     36_12 : profit= 62, weight= 29
+Name=     36_11 : profit= 60, weight= 40
+Name=     36_15 : profit= 51, weight= 30
+Name=      36_6 : profit= 46, weight= 25
+Name=      36_8 : profit= 42, weight= 23
+Name=      36_9 : profit= 38, weight= 19
+Name=      36_7 : profit= 37, weight= 20
+Name=     36_10 : profit= 34, weight= 17
+Name=      36_4 : profit= 21, weight= 13
+Name=      36_3 : profit= 17, weight=  6
+Name=      36_1 : profit= 14, weight=  7
+Name=      36_2 : profit= 10, weight=  7
+Name=      36_5 : profit= 10, weight=  7
+Group[37]
+Name=     37_27 : profit=311, weight= 55
+Name=     37_28 : profit=303, weight= 53
+Name=     37_29 : profit=285, weight= 51
+Name=     37_30 : profit=281, weight= 51
+Name=     37_26 : profit=267, weight= 50
+Name=     37_23 : profit=124, weight= 48
+Name=     37_21 : profit=116, weight= 46
+Name=     37_25 : profit=116, weight= 46
+Name=     37_22 : profit=115, weight= 46
+Name=     37_24 : profit=115, weight= 47
+Name=     37_19 : profit= 78, weight= 43
+Name=     37_18 : profit= 67, weight= 36
+Name=     37_17 : profit= 61, weight= 36
+Name=     37_11 : profit= 60, weight= 33
+Name=     37_20 : profit= 59, weight= 36
+Name=     37_16 : profit= 57, weight= 40
+Name=     37_12 : profit= 54, weight= 30
+Name=     37_15 : profit= 52, weight= 30
+Name=     37_13 : profit= 51, weight= 29
+Name=     37_14 : profit= 45, weight= 29
+Name=      37_9 : profit= 29, weight= 21
+Name=      37_6 : profit= 27, weight= 18
+Name=      37_7 : profit= 27, weight= 19
+Name=      37_8 : profit= 25, weight= 21
+Name=     37_10 : profit= 21, weight= 21
+Name=      37_5 : profit= 12, weight=  9
+Name=      37_2 : profit= 11, weight= 14
+Name=      37_4 : profit= 11, weight= 14
+Name=      37_1 : profit=  6, weight= 14
+Name=      37_3 : profit=  6, weight=  5
+Group[38]
+Name=     38_26 : profit=317, weight= 68
+Name=     38_29 : profit=316, weight= 67
+Name=     38_28 : profit=307, weight= 65
+Name=     38_27 : profit=288, weight= 61
+Name=     38_30 : profit=268, weight= 55
+Name=     38_23 : profit=189, weight= 53
+Name=     38_25 : profit=174, weight= 52
+Name=     38_24 : profit=171, weight= 50
+Name=     38_21 : profit=170, weight= 50
+Name=     38_22 : profit=165, weight= 49
+Name=     38_20 : profit=162, weight= 47
+Name=     38_17 : profit=145, weight= 44
+Name=     38_19 : profit=144, weight= 42
+Name=     38_16 : profit=141, weight= 40
+Name=     38_18 : profit=134, weight= 40
+Name=     38_14 : profit=102, weight= 35
+Name=     38_13 : profit= 95, weight= 32
+Name=     38_15 : profit= 90, weight= 31
+Name=     38_12 : profit= 89, weight= 32
+Name=     38_11 : profit= 80, weight= 28
+Name=      38_8 : profit= 59, weight= 27
+Name=      38_7 : profit= 58, weight= 24
+Name=     38_10 : profit= 57, weight= 26
+Name=      38_9 : profit= 53, weight= 22
+Name=      38_6 : profit= 45, weight= 22
+Name=      38_5 : profit= 15, weight=  9
+Name=      38_1 : profit= 14, weight=  9
+Name=      38_4 : profit= 12, weight=  6
+Name=      38_3 : profit= 11, weight=  8
+Name=      38_2 : profit=  7, weight= 12
+Group[39]
+Name=     39_28 : profit=226, weight= 65
+Name=     39_27 : profit=215, weight= 62
+Name=     39_29 : profit=213, weight= 59
+Name=     39_26 : profit=206, weight= 60
+Name=     39_30 : profit=206, weight= 59
+Name=     39_21 : profit=100, weight= 53
+Name=     39_22 : profit=100, weight= 54
+Name=     39_24 : profit= 99, weight= 52
+Name=     39_23 : profit= 93, weight= 54
+Name=     39_25 : profit= 73, weight= 45
+Name=     39_17 : profit= 57, weight= 39
+Name=     39_20 : profit= 57, weight= 39
+Name=     39_16 : profit= 53, weight= 35
+Name=     39_18 : profit= 52, weight= 37
+Name=     39_19 : profit= 47, weight= 33
+Name=     39_15 : profit= 42, weight= 28
+Name=     39_13 : profit= 40, weight= 26
+Name=     39_11 : profit= 38, weight= 25
+Name=     39_12 : profit= 37, weight= 27
+Name=      39_8 : profit= 30, weight= 21
+Name=     39_14 : profit= 29, weight= 24
+Name=      39_7 : profit= 27, weight= 19
+Name=      39_9 : profit= 27, weight= 23
+Name=      39_6 : profit= 25, weight= 23
+Name=     39_10 : profit= 24, weight= 20
+Name=      39_2 : profit= 18, weight= 15
+Name=      39_4 : profit= 17, weight= 16
+Name=      39_1 : profit=  9, weight=  9
+Name=      39_3 : profit=  7, weight=  7
+Name=      39_5 : profit=  4, weight=  6
+Group[40]
+Name=     40_27 : profit=204, weight= 58
+Name=     40_26 : profit=194, weight= 57
+Name=     40_30 : profit=187, weight= 61
+Name=     40_28 : profit=182, weight= 57
+Name=     40_29 : profit=179, weight= 57
+Name=     40_21 : profit=175, weight= 56
+Name=     40_24 : profit=154, weight= 50
+Name=     40_25 : profit=154, weight= 51
+Name=     40_23 : profit=145, weight= 50
+Name=     40_22 : profit=135, weight= 50
+Name=     40_19 : profit=134, weight= 49
+Name=     40_17 : profit=130, weight= 47
+Name=     40_18 : profit=109, weight= 38
+Name=     40_16 : profit=108, weight= 40
+Name=     40_20 : profit=106, weight= 38
+Name=     40_13 : profit= 68, weight= 37
+Name=     40_11 : profit= 61, weight= 32
+Name=     40_12 : profit= 56, weight= 31
+Name=     40_14 : profit= 53, weight= 35
+Name=     40_15 : profit= 47, weight= 31
+Name=      40_7 : profit= 29, weight= 27
+Name=      40_6 : profit= 27, weight= 25
+Name=      40_9 : profit= 21, weight= 20
+Name=     40_10 : profit= 20, weight= 13
+Name=      40_8 : profit= 10, weight= 21
+Name=      40_2 : profit=  8, weight=  8
+Name=      40_3 : profit=  7, weight= 10
+Name=      40_4 : profit=  7, weight= 10
+Name=      40_5 : profit=  7, weight= 12
+Name=      40_1 : profit=  3, weight=  6
+Group[41]
+Name=     41_30 : profit=216, weight= 70
+Name=     41_29 : profit=205, weight= 69
+Name=     41_28 : profit=202, weight= 66
+Name=     41_26 : profit=194, weight= 63
+Name=     41_27 : profit=187, weight= 61
+Name=     41_23 : profit=120, weight= 58
+Name=     41_24 : profit=112, weight= 56
+Name=     41_22 : profit=110, weight= 55
+Name=     41_25 : profit=107, weight= 51
+Name=     41_21 : profit= 96, weight= 50
+Name=     41_18 : profit= 79, weight= 47
+Name=     41_20 : profit= 76, weight= 36
+Name=     41_16 : profit= 75, weight= 38
+Name=     41_19 : profit= 69, weight= 40
+Name=     41_17 : profit= 66, weight= 39
+Name=     41_11 : profit= 55, weight= 31
+Name=     41_13 : profit= 55, weight= 27
+Name=      41_2 : profit= 54, weight= 10
+Name=     41_15 : profit= 47, weight= 27
+Name=     41_12 : profit= 40, weight= 27
+Name=     41_14 : profit= 40, weight= 27
+Name=      41_3 : profit= 31, weight=  5
+Name=      41_7 : profit= 29, weight= 21
+Name=      41_6 : profit= 24, weight= 25
+Name=      41_4 : profit= 23, weight= 15
+Name=      41_9 : profit= 23, weight= 21
+Name=     41_10 : profit= 22, weight= 23
+Name=      41_8 : profit= 16, weight= 23
+Name=      41_1 : profit=  5, weight=  6
+Name=      41_5 : profit=  0, weight=  8
+Group[42]
+Name=     42_29 : profit=291, weight= 59
+Name=     42_30 : profit=282, weight= 56
+Name=     42_27 : profit=274, weight= 54
+Name=     42_28 : profit=267, weight= 55
+Name=     42_26 : profit=264, weight= 53
+Name=     42_21 : profit=198, weight= 50
+Name=     42_24 : profit=191, weight= 48
+Name=     42_23 : profit=187, weight= 48
+Name=     42_25 : profit=176, weight= 46
+Name=     42_22 : profit=169, weight= 46
+Name=     42_20 : profit=130, weight= 42
+Name=     42_18 : profit=129, weight= 44
+Name=     42_17 : profit=126, weight= 40
+Name=     42_16 : profit=125, weight= 40
+Name=     42_19 : profit=118, weight= 42
+Name=     42_15 : profit= 56, weight= 32
+Name=     42_13 : profit= 51, weight= 33
+Name=     42_12 : profit= 45, weight= 30
+Name=     42_11 : profit= 40, weight= 30
+Name=      42_9 : profit= 38, weight= 25
+Name=      42_7 : profit= 37, weight= 20
+Name=     42_14 : profit= 37, weight= 31
+Name=     42_10 : profit= 34, weight= 21
+Name=      42_6 : profit= 31, weight= 18
+Name=      42_8 : profit= 23, weight= 10
+Name=      42_1 : profit= 21, weight=  7
+Name=      42_5 : profit= 15, weight=  8
+Name=      42_3 : profit= 12, weight=  5
+Name=      42_4 : profit= 10, weight=  6
+Name=      42_2 : profit=  8, weight=  5
+Group[43]
+Name=     43_26 : profit=196, weight= 43
+Name=     43_27 : profit=187, weight= 45
+Name=     43_30 : profit=176, weight= 40
+Name=     43_29 : profit=169, weight= 41
+Name=     43_28 : profit=166, weight= 40
+Name=     43_24 : profit=106, weight= 37
+Name=     43_23 : profit= 95, weight= 35
+Name=     43_21 : profit= 84, weight= 29
+Name=     43_25 : profit= 84, weight= 30
+Name=     43_19 : profit= 83, weight= 28
+Name=     43_20 : profit= 80, weight= 27
+Name=     43_22 : profit= 80, weight= 29
+Name=     43_18 : profit= 74, weight= 27
+Name=     43_17 : profit= 70, weight= 27
+Name=     43_14 : profit= 68, weight= 25
+Name=     43_16 : profit= 67, weight= 28
+Name=     43_11 : profit= 64, weight= 26
+Name=     43_15 : profit= 57, weight= 20
+Name=     43_13 : profit= 56, weight= 25
+Name=     43_12 : profit= 54, weight= 20
+Name=      43_6 : profit= 23, weight= 16
+Name=     43_10 : profit= 23, weight= 18
+Name=      43_9 : profit= 20, weight= 14
+Name=      43_8 : profit= 19, weight= 16
+Name=      43_4 : profit= 18, weight= 12
+Name=      43_7 : profit= 14, weight= 16
+Name=      43_1 : profit= 12, weight=  6
+Name=      43_2 : profit= 10, weight=  5
+Name=      43_3 : profit= 10, weight= 10
+Name=      43_5 : profit=  1, weight=  6
+Group[44]
+Name=     44_29 : profit=245, weight= 73
+Name=     44_26 : profit=241, weight= 72
+Name=     44_28 : profit=239, weight= 68
+Name=     44_30 : profit=235, weight= 68
+Name=     44_27 : profit=225, weight= 66
+Name=     44_21 : profit=168, weight= 65
+Name=     44_25 : profit=156, weight= 65
+Name=     44_23 : profit=155, weight= 62
+Name=     44_22 : profit=150, weight= 57
+Name=     44_24 : profit=150, weight= 59
+Name=     44_18 : profit=113, weight= 55
+Name=     44_19 : profit=111, weight= 55
+Name=     44_17 : profit=107, weight= 52
+Name=     44_16 : profit= 98, weight= 49
+Name=     44_20 : profit= 96, weight= 47
+Name=     44_12 : profit= 85, weight= 44
+Name=     44_13 : profit= 82, weight= 43
+Name=     44_11 : profit= 74, weight= 40
+Name=     44_15 : profit= 73, weight= 37
+Name=     44_14 : profit= 68, weight= 35
+Name=      44_7 : profit= 63, weight= 33
+Name=     44_10 : profit= 55, weight= 31
+Name=      44_9 : profit= 46, weight= 32
+Name=      44_6 : profit= 39, weight= 22
+Name=      44_8 : profit= 39, weight= 19
+Name=      44_4 : profit= 17, weight= 15
+Name=      44_2 : profit= 14, weight=  7
+Name=      44_5 : profit= 11, weight=  7
+Name=      44_1 : profit=  7, weight=  7
+Name=      44_3 : profit=  5, weight= 10
+Group[45]
+Name=     45_26 : profit=254, weight= 77
+Name=     45_27 : profit=244, weight= 75
+Name=     45_30 : profit=235, weight= 75
+Name=     45_29 : profit=233, weight= 73
+Name=     45_28 : profit=225, weight= 71
+Name=     45_22 : profit=164, weight= 66
+Name=     45_25 : profit=162, weight= 65
+Name=     45_21 : profit=158, weight= 66
+Name=     45_23 : profit=156, weight= 61
+Name=     45_24 : profit=154, weight= 57
+Name=     45_20 : profit=108, weight= 52
+Name=     45_17 : profit= 99, weight= 51
+Name=     45_16 : profit= 93, weight= 47
+Name=     45_18 : profit= 82, weight= 40
+Name=     45_19 : profit= 77, weight= 40
+Name=     45_12 : profit= 68, weight= 37
+Name=     45_15 : profit= 61, weight= 31
+Name=     45_11 : profit= 59, weight= 31
+Name=     45_13 : profit= 51, weight= 24
+Name=     45_14 : profit= 48, weight= 25
+Name=      45_9 : profit= 46, weight= 18
+Name=      45_7 : profit= 30, weight= 19
+Name=     45_10 : profit= 27, weight= 16
+Name=      45_8 : profit= 26, weight= 19
+Name=      45_6 : profit= 23, weight= 18
+Name=      45_3 : profit= 15, weight= 11
+Name=      45_4 : profit= 10, weight=  8
+Name=      45_1 : profit=  9, weight=  7
+Name=      45_5 : profit=  6, weight=  8
+Name=      45_2 : profit=  2, weight=  8
+Group[46]
+Name=     46_29 : profit=217, weight= 57
+Name=     46_27 : profit=216, weight= 58
+Name=     46_26 : profit=214, weight= 57
+Name=     46_30 : profit=210, weight= 54
+Name=     46_28 : profit=204, weight= 51
+Name=     46_21 : profit=112, weight= 48
+Name=     46_22 : profit=109, weight= 48
+Name=     46_24 : profit=101, weight= 42
+Name=     46_25 : profit= 99, weight= 41
+Name=     46_23 : profit= 97, weight= 42
+Name=     46_20 : profit= 81, weight= 36
+Name=     46_18 : profit= 78, weight= 36
+Name=     46_19 : profit= 76, weight= 35
+Name=     46_17 : profit= 71, weight= 34
+Name=     46_16 : profit= 69, weight= 35
+Name=     46_15 : profit= 48, weight= 32
+Name=     46_14 : profit= 42, weight= 29
+Name=     46_13 : profit= 40, weight= 30
+Name=     46_11 : profit= 38, weight= 29
+Name=     46_12 : profit= 37, weight= 27
+Name=      46_8 : profit= 29, weight= 18
+Name=     46_10 : profit= 29, weight= 18
+Name=      46_7 : profit= 28, weight= 13
+Name=      46_6 : profit= 27, weight= 16
+Name=      46_9 : profit= 24, weight= 13
+Name=      46_2 : profit= 13, weight= 10
+Name=      46_3 : profit= 13, weight= 11
+Name=      46_4 : profit= 13, weight=  7
+Name=      46_1 : profit= 12, weight=  8
+Name=      46_5 : profit=  9, weight=  6
+Group[47]
+Name=     47_27 : profit=285, weight= 63
+Name=     47_28 : profit=284, weight= 64
+Name=     47_29 : profit=283, weight= 63
+Name=     47_26 : profit=279, weight= 62
+Name=     47_30 : profit=253, weight= 58
+Name=     47_22 : profit=249, weight= 56
+Name=     47_21 : profit=240, weight= 54
+Name=     47_23 : profit=238, weight= 53
+Name=     47_24 : profit=231, weight= 52
+Name=     47_25 : profit=223, weight= 51
+Name=     47_19 : profit=214, weight= 47
+Name=     47_17 : profit=191, weight= 44
+Name=     47_16 : profit=188, weight= 43
+Name=     47_20 : profit=186, weight= 43
+Name=     47_18 : profit=170, weight= 39
+Name=     47_13 : profit=123, weight= 31
+Name=     47_11 : profit=117, weight= 29
+Name=     47_15 : profit=108, weight= 29
+Name=     47_12 : profit=107, weight= 29
+Name=     47_14 : profit=104, weight= 30
+Name=      47_8 : profit= 27, weight= 19
+Name=      47_6 : profit= 25, weight= 24
+Name=      47_9 : profit= 21, weight= 16
+Name=      47_7 : profit= 20, weight= 26
+Name=     47_10 : profit= 17, weight= 22
+Name=      47_4 : profit= 11, weight=  6
+Name=      47_5 : profit= 11, weight= 10
+Name=      47_1 : profit=  9, weight=  6
+Name=      47_2 : profit=  9, weight=  9
+Name=      47_3 : profit=  9, weight= 11
+Group[48]
+Name=     48_26 : profit=211, weight= 56
+Name=     48_30 : profit=209, weight= 55
+Name=     48_29 : profit=203, weight= 56
+Name=     48_27 : profit=198, weight= 55
+Name=     48_28 : profit=196, weight= 55
+Name=     48_25 : profit=138, weight= 54
+Name=     48_24 : profit=134, weight= 53
+Name=     48_23 : profit=130, weight= 47
+Name=     48_22 : profit=128, weight= 48
+Name=     48_21 : profit=125, weight= 52
+Name=     48_19 : profit= 73, weight= 39
+Name=     48_16 : profit= 68, weight= 40
+Name=     48_17 : profit= 67, weight= 39
+Name=     48_20 : profit= 66, weight= 35
+Name=     48_18 : profit= 62, weight= 36
+Name=     48_11 : profit= 36, weight= 33
+Name=     48_15 : profit= 32, weight= 28
+Name=     48_13 : profit= 29, weight= 31
+Name=     48_14 : profit= 29, weight= 31
+Name=     48_12 : profit= 27, weight= 23
+Name=      48_8 : profit= 22, weight= 18
+Name=      48_7 : profit= 20, weight= 17
+Name=      48_1 : profit= 17, weight= 15
+Name=      48_6 : profit= 16, weight= 18
+Name=      48_5 : profit= 12, weight=  5
+Name=      48_9 : profit= 12, weight= 16
+Name=      48_3 : profit= 10, weight= 12
+Name=     48_10 : profit=  8, weight= 16
+Name=      48_4 : profit=  7, weight=  6
+Name=      48_2 : profit=  4, weight=  5
+Group[49]
+Name=     49_26 : profit=268, weight= 49
+Name=     49_27 : profit=261, weight= 47
+Name=     49_29 : profit=260, weight= 50
+Name=     49_28 : profit=249, weight= 49
+Name=     49_30 : profit=242, weight= 47
+Name=     49_23 : profit=207, weight= 46
+Name=     49_22 : profit=200, weight= 46
+Name=     49_24 : profit=198, weight= 43
+Name=     49_21 : profit=188, weight= 42
+Name=     49_25 : profit=179, weight= 41
+Name=     49_19 : profit=134, weight= 35
+Name=     49_20 : profit=134, weight= 38
+Name=     49_16 : profit=123, weight= 35
+Name=     49_18 : profit=122, weight= 36
+Name=     49_17 : profit=121, weight= 36
+Name=     49_11 : profit= 59, weight= 34
+Name=     49_12 : profit= 57, weight= 33
+Name=     49_15 : profit= 57, weight= 26
+Name=     49_14 : profit= 55, weight= 29
+Name=     49_13 : profit= 46, weight= 29
+Name=      49_7 : profit= 33, weight= 20
+Name=      49_9 : profit= 31, weight= 21
+Name=     49_10 : profit= 30, weight= 12
+Name=      49_6 : profit= 26, weight= 16
+Name=      49_8 : profit= 24, weight= 15
+Name=      49_2 : profit= 12, weight= 11
+Name=      49_1 : profit=  8, weight=  9
+Name=      49_3 : profit=  8, weight=  9
+Name=      49_5 : profit=  6, weight= 10
+Name=      49_4 : profit=  4, weight=  7
+Group[50]
+Name=     50_28 : profit=365, weight= 51
+Name=     50_27 : profit=351, weight= 49
+Name=     50_29 : profit=313, weight= 44
+Name=     50_30 : profit=310, weight= 43
+Name=     50_26 : profit=309, weight= 43
+Name=     50_25 : profit=131, weight= 38
+Name=     50_22 : profit=130, weight= 38
+Name=     50_23 : profit=118, weight= 38
+Name=     50_21 : profit=115, weight= 33
+Name=     50_24 : profit=113, weight= 33
+Name=     50_19 : profit= 43, weight= 26
+Name=     50_17 : profit= 41, weight= 26
+Name=     50_16 : profit= 40, weight= 23
+Name=     50_20 : profit= 36, weight= 22
+Name=     50_11 : profit= 32, weight= 19
+Name=     50_12 : profit= 28, weight= 18
+Name=     50_13 : profit= 28, weight= 17
+Name=     50_18 : profit= 28, weight= 24
+Name=     50_14 : profit= 25, weight= 18
+Name=     50_15 : profit= 21, weight= 19
+Name=      50_8 : profit= 17, weight= 13
+Name=     50_10 : profit= 15, weight= 11
+Name=      50_7 : profit= 14, weight= 13
+Name=      50_9 : profit= 14, weight= 12
+Name=      50_2 : profit= 12, weight=  7
+Name=      50_4 : profit= 11, weight=  5
+Name=      50_1 : profit= 10, weight=  5
+Name=      50_6 : profit= 10, weight=  9
+Name=      50_3 : profit=  9, weight=  5
+Name=      50_5 : profit=  7, weight=  5
+Group[51]
+Name=     51_29 : profit=346, weight= 68
+Name=     51_26 : profit=338, weight= 69
+Name=     51_28 : profit=338, weight= 68
+Name=     51_30 : profit=322, weight= 65
+Name=     51_27 : profit=312, weight= 64
+Name=     51_21 : profit=247, weight= 59
+Name=     51_25 : profit=236, weight= 60
+Name=     51_22 : profit=227, weight= 54
+Name=     51_23 : profit=223, weight= 56
+Name=     51_24 : profit=214, weight= 51
+Name=     51_17 : profit=143, weight= 47
+Name=     51_20 : profit=143, weight= 49
+Name=     51_18 : profit=125, weight= 40
+Name=     51_16 : profit=120, weight= 36
+Name=     51_19 : profit=115, weight= 35
+Name=     51_14 : profit= 99, weight= 33
+Name=     51_15 : profit= 92, weight= 34
+Name=     51_11 : profit= 89, weight= 28
+Name=     51_12 : profit= 88, weight= 31
+Name=     51_13 : profit= 76, weight= 24
+Name=      51_7 : profit= 59, weight= 23
+Name=     51_10 : profit= 57, weight= 21
+Name=      51_6 : profit= 52, weight= 19
+Name=      51_8 : profit= 51, weight= 21
+Name=      51_9 : profit= 51, weight= 20
+Name=      51_5 : profit= 24, weight= 14
+Name=      51_2 : profit= 21, weight= 12
+Name=      51_4 : profit= 17, weight=  9
+Name=      51_3 : profit= 14, weight=  8
+Name=      51_1 : profit=  9, weight=  6
+Group[52]
+Name=      52_5 : profit=1311, weight= 14
+Name=     52_29 : profit=174, weight= 67
+Name=     52_28 : profit=169, weight= 69
+Name=     52_30 : profit=161, weight= 67
+Name=     52_27 : profit=159, weight= 69
+Name=     52_26 : profit=158, weight= 63
+Name=     52_22 : profit= 93, weight= 53
+Name=     52_21 : profit= 89, weight= 61
+Name=     52_23 : profit= 85, weight= 51
+Name=     52_24 : profit= 81, weight= 50
+Name=     52_25 : profit= 77, weight= 59
+Name=     52_20 : profit= 74, weight= 49
+Name=     52_17 : profit= 73, weight= 47
+Name=     52_19 : profit= 70, weight= 49
+Name=     52_18 : profit= 64, weight= 42
+Name=     52_16 : profit= 61, weight= 40
+Name=     52_11 : profit= 31, weight= 33
+Name=     52_15 : profit= 27, weight= 37
+Name=     52_13 : profit= 23, weight= 32
+Name=     52_14 : profit= 20, weight= 39
+Name=     52_12 : profit= 18, weight= 39
+Name=      52_9 : profit= 11, weight= 24
+Name=      52_8 : profit=  6, weight= 21
+Name=     52_10 : profit=  1, weight= 18
+Name=      52_1 : profit=  0, weight= 13
+Name=      52_2 : profit=  0, weight=  6
+Name=      52_3 : profit=  0, weight=  5
+Name=      52_4 : profit=  0, weight= 12
+Name=      52_6 : profit=  0, weight= 25
+Name=      52_7 : profit=  0, weight= 18
+Group[53]
+Name=     53_30 : profit=173, weight= 62
+Name=     53_27 : profit=172, weight= 65
+Name=     53_28 : profit=169, weight= 63
+Name=     53_29 : profit=152, weight= 56
+Name=     53_26 : profit=151, weight= 57
+Name=     53_21 : profit= 94, weight= 52
+Name=     53_23 : profit= 94, weight= 50
+Name=     53_24 : profit= 91, weight= 53
+Name=     53_22 : profit= 90, weight= 51
+Name=     53_25 : profit= 85, weight= 52
+Name=     53_20 : profit= 73, weight= 45
+Name=     53_17 : profit= 67, weight= 44
+Name=     53_19 : profit= 67, weight= 44
+Name=     53_18 : profit= 64, weight= 40
+Name=     53_16 : profit= 60, weight= 40
+Name=     53_12 : profit= 36, weight= 27
+Name=      53_8 : profit= 35, weight= 19
+Name=     53_15 : profit= 35, weight= 22
+Name=      53_6 : profit= 32, weight= 20
+Name=     53_10 : profit= 31, weight= 18
+Name=     53_14 : profit= 30, weight= 24
+Name=     53_11 : profit= 29, weight= 23
+Name=     53_13 : profit= 28, weight= 23
+Name=      53_7 : profit= 24, weight= 12
+Name=      53_9 : profit= 24, weight= 13
+Name=      53_2 : profit= 15, weight=  7
+Name=      53_1 : profit= 10, weight=  8
+Name=      53_3 : profit=  6, weight=  7
+Name=      53_4 : profit=  6, weight=  7
+Name=      53_5 : profit=  5, weight=  7
+Group[54]
+Name=     54_27 : profit=365, weight= 69
+Name=     54_26 : profit=363, weight= 68
+Name=     54_29 : profit=337, weight= 63
+Name=     54_28 : profit=331, weight= 63
+Name=     54_30 : profit=325, weight= 60
+Name=     54_24 : profit=203, weight= 57
+Name=     54_23 : profit=195, weight= 57
+Name=     54_22 : profit=186, weight= 53
+Name=     54_25 : profit=177, weight= 50
+Name=     54_21 : profit=174, weight= 50
+Name=     54_16 : profit=133, weight= 43
+Name=     54_17 : profit=125, weight= 41
+Name=     54_18 : profit=119, weight= 42
+Name=     54_20 : profit=119, weight= 39
+Name=     54_19 : profit= 99, weight= 36
+Name=     54_11 : profit= 60, weight= 31
+Name=     54_12 : profit= 56, weight= 29
+Name=     54_15 : profit= 52, weight= 29
+Name=     54_13 : profit= 49, weight= 28
+Name=     54_14 : profit= 41, weight= 24
+Name=      54_7 : profit= 35, weight= 23
+Name=     54_10 : profit= 32, weight= 19
+Name=      54_6 : profit= 30, weight= 18
+Name=      54_9 : profit= 25, weight= 16
+Name=      54_8 : profit= 23, weight= 13
+Name=      54_4 : profit= 12, weight= 10
+Name=      54_3 : profit=  8, weight=  7
+Name=      54_5 : profit=  8, weight=  5
+Name=      54_1 : profit=  7, weight=  5
+Name=      54_2 : profit=  3, weight=  8
+Group[55]
+Name=     55_28 : profit=159, weight= 63
+Name=     55_27 : profit=158, weight= 61
+Name=     55_30 : profit=158, weight= 62
+Name=     55_26 : profit=157, weight= 59
+Name=     55_29 : profit=145, weight= 56
+Name=     55_22 : profit=130, weight= 53
+Name=     55_21 : profit=116, weight= 49
+Name=     55_23 : profit=115, weight= 46
+Name=     55_25 : profit=111, weight= 45
+Name=     55_24 : profit=104, weight= 41
+Name=     55_16 : profit= 84, weight= 37
+Name=     55_19 : profit= 81, weight= 34
+Name=     55_20 : profit= 81, weight= 38
+Name=     55_18 : profit= 77, weight= 36
+Name=     55_17 : profit= 72, weight= 32
+Name=     55_13 : profit= 57, weight= 30
+Name=     55_12 : profit= 56, weight= 29
+Name=     55_11 : profit= 51, weight= 27
+Name=     55_14 : profit= 48, weight= 23
+Name=     55_15 : profit= 45, weight= 24
+Name=      55_4 : profit= 14, weight=  8
+Name=      55_6 : profit= 12, weight= 17
+Name=     55_10 : profit= 11, weight= 12
+Name=      55_7 : profit= 10, weight= 21
+Name=      55_8 : profit= 10, weight= 10
+Name=      55_9 : profit=  7, weight= 10
+Name=      55_5 : profit=  6, weight=  5
+Name=      55_1 : profit=  3, weight=  7
+Name=      55_3 : profit=  1, weight=  6
+Name=      55_2 : profit=  0, weight=  7
+Group[56]
+Name=     56_27 : profit=136, weight= 52
+Name=     56_28 : profit=132, weight= 55
+Name=     56_26 : profit=130, weight= 49
+Name=     56_30 : profit=129, weight= 51
+Name=     56_29 : profit=124, weight= 51
+Name=     56_21 : profit=103, weight= 45
+Name=     56_23 : profit=101, weight= 46
+Name=     56_25 : profit= 93, weight= 39
+Name=     56_22 : profit= 85, weight= 41
+Name=     56_24 : profit= 81, weight= 38
+Name=     56_19 : profit= 69, weight= 32
+Name=     56_18 : profit= 66, weight= 33
+Name=     56_16 : profit= 56, weight= 31
+Name=     56_20 : profit= 56, weight= 30
+Name=     56_17 : profit= 50, weight= 30
+Name=     56_11 : profit= 35, weight= 23
+Name=     56_14 : profit= 32, weight= 22
+Name=     56_15 : profit= 30, weight= 25
+Name=      56_9 : profit= 29, weight= 18
+Name=     56_12 : profit= 28, weight= 20
+Name=     56_13 : profit= 24, weight= 19
+Name=      56_8 : profit= 16, weight= 12
+Name=     56_10 : profit= 14, weight= 18
+Name=      56_6 : profit= 13, weight= 17
+Name=      56_7 : profit= 12, weight= 13
+Name=      56_4 : profit=  8, weight= 11
+Name=      56_1 : profit=  6, weight= 10
+Name=      56_2 : profit=  4, weight=  6
+Name=      56_3 : profit=  4, weight=  6
+Name=      56_5 : profit=  2, weight=  6
+Group[57]
+Name=     57_27 : profit=129, weight= 60
+Name=     57_30 : profit=129, weight= 59
+Name=     57_28 : profit=120, weight= 56
+Name=     57_29 : profit=118, weight= 60
+Name=     57_26 : profit=117, weight= 60
+Name=     57_23 : profit= 83, weight= 55
+Name=     57_25 : profit= 76, weight= 52
+Name=     57_22 : profit= 71, weight= 49
+Name=     57_21 : profit= 66, weight= 53
+Name=     57_18 : profit= 65, weight= 46
+Name=     57_24 : profit= 63, weight= 48
+Name=     57_14 : profit= 59, weight= 32
+Name=     57_16 : profit= 55, weight= 43
+Name=     57_20 : profit= 52, weight= 40
+Name=     57_15 : profit= 50, weight= 35
+Name=     57_13 : profit= 48, weight= 32
+Name=     57_17 : profit= 47, weight= 38
+Name=     57_19 : profit= 46, weight= 39
+Name=     57_11 : profit= 43, weight= 36
+Name=     57_12 : profit= 41, weight= 36
+Name=      57_8 : profit= 37, weight= 23
+Name=     57_10 : profit= 28, weight= 24
+Name=      57_6 : profit= 26, weight= 19
+Name=      57_9 : profit= 23, weight= 16
+Name=      57_5 : profit= 18, weight=  5
+Name=      57_7 : profit= 18, weight= 17
+Name=      57_2 : profit= 17, weight= 13
+Name=      57_1 : profit= 12, weight= 12
+Name=      57_3 : profit= 11, weight=  5
+Name=      57_4 : profit=  2, weight=  6
+Group[58]
+Name=     58_28 : profit=393, weight= 60
+Name=     58_30 : profit=383, weight= 61
+Name=     58_27 : profit=382, weight= 58
+Name=     58_26 : profit=364, weight= 56
+Name=     58_29 : profit=360, weight= 55
+Name=     58_25 : profit=173, weight= 49
+Name=     58_23 : profit=159, weight= 43
+Name=     58_21 : profit=156, weight= 48
+Name=     58_22 : profit=154, weight= 43
+Name=     58_24 : profit=153, weight= 45
+Name=     58_20 : profit= 96, weight= 40
+Name=     58_16 : profit= 91, weight= 37
+Name=     58_18 : profit= 89, weight= 38
+Name=     58_17 : profit= 86, weight= 38
+Name=     58_19 : profit= 85, weight= 37
+Name=     58_12 : profit= 79, weight= 36
+Name=     58_14 : profit= 65, weight= 33
+Name=     58_13 : profit= 56, weight= 30
+Name=     58_11 : profit= 54, weight= 30
+Name=     58_15 : profit= 53, weight= 30
+Name=     58_10 : profit= 32, weight= 26
+Name=      58_7 : profit= 31, weight= 24
+Name=      58_6 : profit= 27, weight= 28
+Name=      58_9 : profit= 23, weight= 20
+Name=      58_1 : profit= 18, weight= 12
+Name=      58_2 : profit= 17, weight= 14
+Name=      58_8 : profit= 16, weight= 19
+Name=      58_5 : profit= 15, weight= 17
+Name=      58_4 : profit= 13, weight= 13
+Name=      58_3 : profit=  2, weight=  8
+Group[59]
+Name=     59_30 : profit=308, weight= 69
+Name=     59_29 : profit=283, weight= 64
+Name=     59_26 : profit=267, weight= 62
+Name=     59_27 : profit=256, weight= 60
+Name=     59_28 : profit=250, weight= 58
+Name=     59_24 : profit=154, weight= 51
+Name=     59_23 : profit=148, weight= 52
+Name=     59_22 : profit=136, weight= 51
+Name=     59_25 : profit=136, weight= 52
+Name=     59_21 : profit=128, weight= 44
+Name=     59_20 : profit=127, weight= 43
+Name=     59_16 : profit=125, weight= 42
+Name=     59_17 : profit=119, weight= 42
+Name=     59_19 : profit=118, weight= 43
+Name=     59_18 : profit=109, weight= 37
+Name=     59_11 : profit= 86, weight= 36
+Name=     59_13 : profit= 83, weight= 32
+Name=     59_15 : profit= 81, weight= 29
+Name=     59_14 : profit= 76, weight= 33
+Name=     59_12 : profit= 74, weight= 36
+Name=      59_6 : profit= 20, weight= 21
+Name=      59_9 : profit= 19, weight= 17
+Name=      59_7 : profit= 16, weight= 18
+Name=     59_10 : profit= 15, weight= 17
+Name=      59_8 : profit= 14, weight= 22
+Name=      59_1 : profit= 10, weight= 13
+Name=      59_5 : profit= 10, weight= 12
+Name=      59_4 : profit=  9, weight=  9
+Name=      59_2 : profit=  5, weight=  8
+Name=      59_3 : profit=  4, weight=  9
+Group[60]
+Name=     60_29 : profit=264, weight= 56
+Name=     60_28 : profit=258, weight= 56
+Name=     60_26 : profit=251, weight= 55
+Name=     60_27 : profit=247, weight= 52
+Name=     60_30 : profit=245, weight= 52
+Name=     60_23 : profit=192, weight= 49
+Name=     60_25 : profit=173, weight= 46
+Name=     60_21 : profit=168, weight= 47
+Name=     60_22 : profit=163, weight= 48
+Name=     60_24 : profit=158, weight= 44
+Name=     60_17 : profit=116, weight= 42
+Name=     60_20 : profit= 96, weight= 35
+Name=     60_18 : profit= 88, weight= 33
+Name=     60_16 : profit= 80, weight= 29
+Name=     60_19 : profit= 73, weight= 29
+Name=     60_11 : profit= 52, weight= 26
+Name=     60_13 : profit= 52, weight= 25
+Name=     60_14 : profit= 51, weight= 24
+Name=     60_12 : profit= 49, weight= 22
+Name=     60_15 : profit= 39, weight= 20
+Name=      60_9 : profit= 32, weight= 19
+Name=      60_7 : profit= 25, weight= 18
+Name=     60_10 : profit= 24, weight= 13
+Name=      60_8 : profit= 18, weight= 13
+Name=      60_4 : profit= 16, weight=  7
+Name=      60_5 : profit= 15, weight=  7
+Name=      60_1 : profit= 14, weight=  5
+Name=      60_6 : profit= 13, weight= 13
+Name=      60_3 : profit= 11, weight=  6
+Name=      60_2 : profit=  2, weight=  6
+Group[61]
+Name=     61_27 : profit=299, weight= 70
+Name=     61_26 : profit=297, weight= 70
+Name=     61_28 : profit=270, weight= 63
+Name=     61_29 : profit=262, weight= 65
+Name=     61_30 : profit=244, weight= 62
+Name=     61_22 : profit=162, weight= 61
+Name=     61_24 : profit=161, weight= 60
+Name=     61_23 : profit=154, weight= 56
+Name=     61_25 : profit=153, weight= 56
+Name=     61_21 : profit=146, weight= 57
+Name=     61_20 : profit=116, weight= 47
+Name=     61_17 : profit=112, weight= 48
+Name=     61_18 : profit=110, weight= 48
+Name=     61_16 : profit=107, weight= 44
+Name=     61_19 : profit=105, weight= 46
+Name=     61_11 : profit= 86, weight= 33
+Name=     61_13 : profit= 82, weight= 37
+Name=     61_15 : profit= 80, weight= 34
+Name=     61_14 : profit= 68, weight= 30
+Name=     61_12 : profit= 63, weight= 31
+Name=      61_7 : profit= 27, weight= 19
+Name=     61_10 : profit= 27, weight= 21
+Name=      61_8 : profit= 25, weight= 17
+Name=      61_6 : profit= 24, weight= 20
+Name=      61_9 : profit= 21, weight= 16
+Name=      61_2 : profit= 18, weight= 13
+Name=      61_3 : profit= 18, weight= 12
+Name=      61_4 : profit= 18, weight= 12
+Name=      61_5 : profit=  9, weight=  6
+Name=      61_1 : profit=  8, weight=  8
+Group[62]
+Name=     62_28 : profit= 74, weight= 70
+Name=     62_27 : profit= 58, weight= 68
+Name=     62_29 : profit= 52, weight= 63
+Name=     62_30 : profit= 52, weight= 60
+Name=     62_22 : profit= 46, weight= 50
+Name=     62_25 : profit= 46, weight= 55
+Name=     62_26 : profit= 45, weight= 65
+Name=     62_24 : profit= 39, weight= 52
+Name=     62_21 : profit= 36, weight= 57
+Name=     62_19 : profit= 33, weight= 46
+Name=     62_23 : profit= 33, weight= 49
+Name=     62_20 : profit= 30, weight= 43
+Name=     62_16 : profit= 28, weight= 44
+Name=     62_17 : profit= 28, weight= 45
+Name=     62_18 : profit= 23, weight= 43
+Name=     62_11 : profit= 20, weight= 37
+Name=      62_5 : profit= 18, weight= 11
+Name=      62_1 : profit= 17, weight= 15
+Name=      62_8 : profit= 17, weight= 19
+Name=     62_12 : profit= 17, weight= 28
+Name=     62_14 : profit= 17, weight= 27
+Name=     62_15 : profit= 16, weight= 35
+Name=      62_6 : profit= 15, weight= 18
+Name=     62_13 : profit= 15, weight= 33
+Name=      62_3 : profit= 14, weight= 10
+Name=      62_7 : profit= 14, weight= 23
+Name=      62_9 : profit= 13, weight= 21
+Name=     62_10 : profit= 10, weight= 19
+Name=      62_4 : profit=  8, weight= 14
+Name=      62_2 : profit=  7, weight= 10
+Group[63]
+Name=     63_28 : profit=386, weight= 70
+Name=     63_27 : profit=377, weight= 69
+Name=     63_29 : profit=359, weight= 64
+Name=     63_26 : profit=357, weight= 63
+Name=     63_30 : profit=343, weight= 64
+Name=     63_23 : profit=319, weight= 59
+Name=     63_24 : profit=319, weight= 61
+Name=     63_21 : profit=305, weight= 57
+Name=     63_25 : profit=281, weight= 53
+Name=     63_22 : profit=269, weight= 50
+Name=     63_16 : profit=143, weight= 47
+Name=     63_19 : profit=134, weight= 42
+Name=     63_20 : profit=130, weight= 42
+Name=     63_18 : profit=119, weight= 41
+Name=     63_17 : profit=111, weight= 37
+Name=     63_13 : profit=107, weight= 35
+Name=     63_15 : profit=103, weight= 35
+Name=     63_11 : profit=101, weight= 34
+Name=     63_14 : profit= 97, weight= 34
+Name=     63_12 : profit= 77, weight= 28
+Name=      63_9 : profit= 59, weight= 20
+Name=      63_8 : profit= 55, weight= 19
+Name=      63_7 : profit= 50, weight= 16
+Name=     63_10 : profit= 46, weight= 14
+Name=      63_6 : profit= 38, weight= 14
+Name=      63_2 : profit= 32, weight= 12
+Name=      63_5 : profit= 28, weight= 12
+Name=      63_1 : profit= 27, weight= 10
+Name=      63_3 : profit= 24, weight=  8
+Name=      63_4 : profit= 16, weight=  5
+Group[64]
+Name=     64_30 : profit=213, weight= 49
+Name=     64_28 : profit=206, weight= 48
+Name=     64_29 : profit=203, weight= 50
+Name=     64_27 : profit=190, weight= 45
+Name=     64_26 : profit=183, weight= 46
+Name=     64_21 : profit=145, weight= 40
+Name=     64_22 : profit=138, weight= 40
+Name=     64_25 : profit=135, weight= 39
+Name=     64_23 : profit=126, weight= 38
+Name=     64_24 : profit=114, weight= 34
+Name=     64_20 : profit= 53, weight= 31
+Name=     64_16 : profit= 47, weight= 32
+Name=     64_19 : profit= 47, weight= 30
+Name=     64_17 : profit= 46, weight= 29
+Name=     64_18 : profit= 43, weight= 28
+Name=     64_13 : profit= 38, weight= 26
+Name=     64_15 : profit= 38, weight= 21
+Name=     64_14 : profit= 32, weight= 22
+Name=     64_12 : profit= 28, weight= 22
+Name=     64_11 : profit= 27, weight= 22
+Name=      64_9 : profit= 19, weight= 17
+Name=      64_8 : profit= 16, weight= 14
+Name=      64_6 : profit= 14, weight= 15
+Name=     64_10 : profit= 14, weight= 17
+Name=      64_7 : profit= 13, weight= 14
+Name=      64_4 : profit= 11, weight= 10
+Name=      64_1 : profit=  8, weight=  5
+Name=      64_2 : profit=  7, weight=  9
+Name=      64_5 : profit=  7, weight=  8
+Name=      64_3 : profit=  6, weight=  7
+Group[65]
+Name=     65_28 : profit=312, weight= 64
+Name=     65_30 : profit=307, weight= 65
+Name=     65_26 : profit=295, weight= 62
+Name=     65_29 : profit=294, weight= 59
+Name=     65_27 : profit=291, weight= 59
+Name=     65_22 : profit=110, weight= 58
+Name=     65_25 : profit=109, weight= 55
+Name=     65_21 : profit=107, weight= 54
+Name=     65_24 : profit=106, weight= 56
+Name=     65_23 : profit=101, weight= 54
+Name=     65_19 : profit= 93, weight= 53
+Name=     65_17 : profit= 79, weight= 42
+Name=     65_20 : profit= 79, weight= 45
+Name=     65_18 : profit= 74, weight= 44
+Name=     65_16 : profit= 69, weight= 36
+Name=     65_13 : profit= 53, weight= 31
+Name=     65_11 : profit= 52, weight= 34
+Name=     65_14 : profit= 51, weight= 32
+Name=     65_12 : profit= 47, weight= 31
+Name=      65_8 : profit= 46, weight= 25
+Name=     65_15 : profit= 45, weight= 28
+Name=     65_10 : profit= 42, weight= 26
+Name=      65_6 : profit= 36, weight= 18
+Name=      65_7 : profit= 34, weight= 15
+Name=      65_9 : profit= 34, weight= 20
+Name=      65_3 : profit= 24, weight= 13
+Name=      65_5 : profit= 24, weight= 14
+Name=      65_2 : profit= 16, weight=  9
+Name=      65_1 : profit= 15, weight= 11
+Name=      65_4 : profit=  8, weight=  7
+Group[66]
+Name=     66_28 : profit=242, weight= 73
+Name=     66_30 : profit=233, weight= 72
+Name=     66_27 : profit=232, weight= 68
+Name=     66_26 : profit=225, weight= 70
+Name=     66_29 : profit=201, weight= 65
+Name=     66_21 : profit=177, weight= 52
+Name=     66_25 : profit=175, weight= 53
+Name=     66_23 : profit=174, weight= 55
+Name=     66_22 : profit=171, weight= 54
+Name=     66_24 : profit=168, weight= 52
+Name=     66_17 : profit=158, weight= 46
+Name=     66_19 : profit=158, weight= 50
+Name=     66_20 : profit=150, weight= 50
+Name=     66_16 : profit=147, weight= 42
+Name=     66_18 : profit=142, weight= 45
+Name=     66_11 : profit= 62, weight= 38
+Name=     66_12 : profit= 55, weight= 35
+Name=     66_14 : profit= 49, weight= 31
+Name=     66_13 : profit= 48, weight= 34
+Name=     66_15 : profit= 46, weight= 29
+Name=      66_7 : profit= 36, weight= 18
+Name=      66_6 : profit= 35, weight= 18
+Name=     66_10 : profit= 32, weight= 25
+Name=      66_9 : profit= 31, weight= 18
+Name=      66_8 : profit= 29, weight= 18
+Name=      66_4 : profit= 18, weight= 17
+Name=      66_1 : profit= 16, weight= 17
+Name=      66_2 : profit= 11, weight= 10
+Name=      66_3 : profit= 10, weight=  6
+Name=      66_5 : profit= 10, weight=  9
+Group[67]
+Name=     67_30 : profit=165, weight= 57
+Name=     67_26 : profit=159, weight= 56
+Name=     67_29 : profit=151, weight= 54
+Name=     67_28 : profit=142, weight= 49
+Name=     67_27 : profit=138, weight= 49
+Name=     67_23 : profit=116, weight= 48
+Name=     67_21 : profit=106, weight= 45
+Name=     67_24 : profit= 99, weight= 41
+Name=     67_25 : profit= 99, weight= 43
+Name=     67_22 : profit= 97, weight= 42
+Name=     67_16 : profit= 87, weight= 35
+Name=     67_18 : profit= 86, weight= 39
+Name=     67_17 : profit= 84, weight= 34
+Name=     67_20 : profit= 78, weight= 34
+Name=     67_19 : profit= 75, weight= 34
+Name=     67_11 : profit= 41, weight= 26
+Name=     67_14 : profit= 32, weight= 26
+Name=     67_13 : profit= 26, weight= 25
+Name=     67_15 : profit= 26, weight= 24
+Name=     67_12 : profit= 25, weight= 22
+Name=      67_8 : profit= 22, weight= 17
+Name=      67_9 : profit= 18, weight= 15
+Name=      67_7 : profit= 14, weight= 19
+Name=      67_3 : profit= 13, weight= 10
+Name=      67_4 : profit= 12, weight= 11
+Name=      67_6 : profit= 12, weight= 20
+Name=     67_10 : profit= 12, weight= 12
+Name=      67_1 : profit=  8, weight= 10
+Name=      67_2 : profit=  7, weight= 10
+Name=      67_5 : profit=  6, weight=  5
+Group[68]
+Name=     68_28 : profit=216, weight= 67
+Name=     68_30 : profit=192, weight= 63
+Name=     68_26 : profit=191, weight= 60
+Name=     68_29 : profit=188, weight= 66
+Name=     68_27 : profit=161, weight= 57
+Name=     68_21 : profit=155, weight= 55
+Name=     68_23 : profit=149, weight= 56
+Name=     68_24 : profit=145, weight= 55
+Name=     68_25 : profit=138, weight= 54
+Name=     68_22 : profit=136, weight= 50
+Name=     68_19 : profit= 91, weight= 46
+Name=     68_18 : profit= 78, weight= 41
+Name=     68_16 : profit= 73, weight= 38
+Name=     68_17 : profit= 72, weight= 35
+Name=     68_20 : profit= 70, weight= 37
+Name=     68_13 : profit= 44, weight= 30
+Name=     68_12 : profit= 39, weight= 33
+Name=     68_11 : profit= 37, weight= 31
+Name=     68_15 : profit= 34, weight= 31
+Name=     68_14 : profit= 32, weight= 34
+Name=      68_6 : profit= 31, weight= 20
+Name=      68_9 : profit= 27, weight= 23
+Name=     68_10 : profit= 23, weight= 21
+Name=      68_8 : profit= 19, weight= 20
+Name=      68_5 : profit= 15, weight= 15
+Name=      68_1 : profit= 14, weight= 11
+Name=      68_4 : profit= 14, weight= 13
+Name=      68_7 : profit= 14, weight= 22
+Name=      68_2 : profit=  8, weight= 11
+Name=      68_3 : profit=  5, weight=  5
+Group[69]
+Name=     69_27 : profit=184, weight= 59
+Name=     69_29 : profit=169, weight= 58
+Name=     69_28 : profit=168, weight= 57
+Name=     69_26 : profit=161, weight= 53
+Name=     69_30 : profit=156, weight= 53
+Name=     69_24 : profit=130, weight= 50
+Name=     69_25 : profit=126, weight= 52
+Name=     69_22 : profit=124, weight= 51
+Name=     69_23 : profit=112, weight= 50
+Name=     69_21 : profit=103, weight= 49
+Name=     69_18 : profit=101, weight= 43
+Name=     69_17 : profit= 96, weight= 41
+Name=     69_19 : profit= 84, weight= 39
+Name=     69_20 : profit= 83, weight= 43
+Name=     69_16 : profit= 79, weight= 40
+Name=     69_13 : profit= 67, weight= 32
+Name=     69_14 : profit= 66, weight= 36
+Name=     69_11 : profit= 64, weight= 31
+Name=     69_15 : profit= 59, weight= 31
+Name=     69_12 : profit= 50, weight= 31
+Name=     69_10 : profit= 42, weight= 24
+Name=      69_6 : profit= 34, weight= 22
+Name=      69_9 : profit= 29, weight= 19
+Name=      69_7 : profit= 28, weight= 18
+Name=      69_8 : profit= 27, weight= 21
+Name=      69_1 : profit= 21, weight= 16
+Name=      69_4 : profit= 20, weight= 15
+Name=      69_2 : profit= 19, weight= 15
+Name=      69_5 : profit= 16, weight= 10
+Name=      69_3 : profit= 12, weight=  8
+Group[70]
+Name=      70_3 : profit=246, weight= 11
+Name=     70_29 : profit=214, weight= 59
+Name=     70_27 : profit=212, weight= 60
+Name=     70_30 : profit=209, weight= 58
+Name=     70_28 : profit=208, weight= 59
+Name=     70_26 : profit=202, weight= 58
+Name=     70_24 : profit=135, weight= 48
+Name=     70_25 : profit=133, weight= 54
+Name=     70_21 : profit=125, weight= 47
+Name=     70_23 : profit=123, weight= 49
+Name=     70_22 : profit=119, weight= 46
+Name=     70_17 : profit= 84, weight= 40
+Name=     70_16 : profit= 79, weight= 44
+Name=     70_19 : profit= 76, weight= 39
+Name=     70_18 : profit= 73, weight= 42
+Name=     70_20 : profit= 68, weight= 40
+Name=     70_11 : profit= 61, weight= 34
+Name=     70_13 : profit= 54, weight= 29
+Name=     70_14 : profit= 53, weight= 33
+Name=     70_15 : profit= 51, weight= 30
+Name=     70_12 : profit= 50, weight= 27
+Name=     70_10 : profit= 29, weight= 19
+Name=      70_7 : profit= 26, weight= 20
+Name=      70_8 : profit= 25, weight= 24
+Name=      70_6 : profit= 21, weight= 13
+Name=      70_9 : profit= 21, weight= 18
+Name=      70_1 : profit=  0, weight= 12
+Name=      70_2 : profit=  0, weight=  9
+Name=      70_4 : profit=  0, weight=  7
+Name=      70_5 : profit=  0, weight=  7
+Group[71]
+Name=     71_29 : profit=272, weight= 61
+Name=     71_26 : profit=246, weight= 54
+Name=     71_30 : profit=241, weight= 53
+Name=     71_27 : profit=237, weight= 55
+Name=     71_28 : profit=234, weight= 53
+Name=     71_25 : profit=143, weight= 51
+Name=     71_24 : profit=140, weight= 51
+Name=     71_23 : profit=131, weight= 49
+Name=     71_21 : profit=127, weight= 49
+Name=     71_22 : profit=121, weight= 47
+Name=     71_20 : profit=100, weight= 43
+Name=     71_19 : profit= 99, weight= 42
+Name=     71_17 : profit= 81, weight= 35
+Name=     71_14 : profit= 80, weight= 28
+Name=     71_16 : profit= 80, weight= 34
+Name=     71_13 : profit= 74, weight= 28
+Name=     71_12 : profit= 72, weight= 28
+Name=     71_18 : profit= 72, weight= 33
+Name=     71_11 : profit= 69, weight= 27
+Name=     71_15 : profit= 69, weight= 31
+Name=      71_9 : profit= 37, weight= 22
+Name=      71_6 : profit= 35, weight= 20
+Name=      71_8 : profit= 32, weight= 22
+Name=     71_10 : profit= 30, weight= 22
+Name=      71_7 : profit= 29, weight= 19
+Name=      71_2 : profit= 10, weight= 15
+Name=      71_3 : profit=  8, weight= 11
+Name=      71_4 : profit=  4, weight= 10
+Name=      71_5 : profit=  4, weight= 12
+Name=      71_1 : profit=  0, weight=  6
+Group[72]
+Name=     72_26 : profit=216, weight= 66
+Name=     72_29 : profit=213, weight= 68
+Name=     72_30 : profit=209, weight= 65
+Name=     72_27 : profit=207, weight= 66
+Name=     72_28 : profit=201, weight= 63
+Name=     72_25 : profit=133, weight= 59
+Name=     72_22 : profit=118, weight= 52
+Name=     72_21 : profit=117, weight= 58
+Name=     72_23 : profit=117, weight= 59
+Name=     72_24 : profit=111, weight= 56
+Name=     72_18 : profit= 73, weight= 41
+Name=     72_16 : profit= 72, weight= 49
+Name=     72_19 : profit= 70, weight= 45
+Name=     72_17 : profit= 64, weight= 41
+Name=     72_20 : profit= 63, weight= 46
+Name=     72_15 : profit= 50, weight= 37
+Name=     72_14 : profit= 42, weight= 30
+Name=     72_11 : profit= 41, weight= 32
+Name=     72_12 : profit= 32, weight= 31
+Name=      72_8 : profit= 30, weight= 25
+Name=      72_7 : profit= 26, weight= 24
+Name=     72_13 : profit= 24, weight= 27
+Name=      72_5 : profit= 22, weight= 12
+Name=     72_10 : profit= 21, weight= 21
+Name=      72_3 : profit= 19, weight=  9
+Name=      72_9 : profit= 19, weight= 18
+Name=      72_6 : profit= 18, weight= 20
+Name=      72_1 : profit= 16, weight=  7
+Name=      72_4 : profit= 14, weight= 14
+Name=      72_2 : profit=  0, weight= 10
+Group[73]
+Name=     73_30 : profit=170, weight= 63
+Name=     73_28 : profit=152, weight= 60
+Name=     73_29 : profit=149, weight= 58
+Name=     73_27 : profit=144, weight= 59
+Name=     73_26 : profit=143, weight= 57
+Name=     73_22 : profit=106, weight= 45
+Name=     73_23 : profit=105, weight= 52
+Name=     73_21 : profit= 99, weight= 46
+Name=     73_25 : profit= 94, weight= 45
+Name=     73_24 : profit= 89, weight= 42
+Name=     73_19 : profit= 75, weight= 41
+Name=     73_18 : profit= 67, weight= 40
+Name=     73_17 : profit= 66, weight= 38
+Name=     73_20 : profit= 65, weight= 40
+Name=     73_16 : profit= 64, weight= 41
+Name=     73_13 : profit= 55, weight= 36
+Name=     73_15 : profit= 55, weight= 36
+Name=     73_11 : profit= 51, weight= 37
+Name=     73_14 : profit= 44, weight= 29
+Name=     73_12 : profit= 39, weight= 28
+Name=      73_6 : profit= 32, weight= 24
+Name=      73_9 : profit= 29, weight= 22
+Name=      73_7 : profit= 26, weight= 21
+Name=     73_10 : profit= 22, weight= 19
+Name=      73_5 : profit= 21, weight= 13
+Name=      73_8 : profit= 19, weight= 20
+Name=      73_2 : profit= 18, weight= 17
+Name=      73_1 : profit= 12, weight=  8
+Name=      73_4 : profit= 12, weight= 11
+Name=      73_3 : profit= 11, weight= 12
+Group[74]
+Name=     74_26 : profit=182, weight= 51
+Name=     74_27 : profit=172, weight= 48
+Name=     74_28 : profit=164, weight= 48
+Name=     74_29 : profit=161, weight= 49
+Name=     74_30 : profit=161, weight= 46
+Name=     74_24 : profit= 99, weight= 41
+Name=     74_22 : profit= 77, weight= 44
+Name=     74_18 : profit= 70, weight= 30
+Name=     74_20 : profit= 66, weight= 29
+Name=     74_25 : profit= 66, weight= 36
+Name=     74_23 : profit= 65, weight= 36
+Name=     74_19 : profit= 63, weight= 31
+Name=     74_21 : profit= 61, weight= 33
+Name=     74_16 : profit= 60, weight= 29
+Name=     74_17 : profit= 54, weight= 23
+Name=     74_12 : profit= 38, weight= 20
+Name=     74_14 : profit= 31, weight= 16
+Name=     74_13 : profit= 30, weight= 16
+Name=     74_15 : profit= 29, weight= 21
+Name=     74_11 : profit= 28, weight= 20
+Name=      74_7 : profit= 23, weight= 11
+Name=     74_10 : profit= 21, weight=  9
+Name=      74_6 : profit= 19, weight=  7
+Name=      74_8 : profit= 16, weight=  8
+Name=      74_9 : profit= 13, weight=  9
+Name=      74_2 : profit=  8, weight=  6
+Name=      74_1 : profit=  7, weight=  6
+Name=      74_3 : profit=  5, weight=  6
+Name=      74_4 : profit=  2, weight=  5
+Name=      74_5 : profit=  0, weight=  6
+Group[75]
+Name=     75_30 : profit=215, weight= 52
+Name=     75_26 : profit=214, weight= 55
+Name=     75_29 : profit=210, weight= 55
+Name=     75_28 : profit=207, weight= 52
+Name=     75_27 : profit=202, weight= 52
+Name=     75_24 : profit=129, weight= 51
+Name=     75_25 : profit=121, weight= 51
+Name=     75_21 : profit=120, weight= 49
+Name=     75_23 : profit=112, weight= 49
+Name=     75_22 : profit=111, weight= 49
+Name=     75_18 : profit= 97, weight= 42
+Name=     75_16 : profit= 96, weight= 46
+Name=     75_20 : profit= 93, weight= 43
+Name=     75_17 : profit= 88, weight= 44
+Name=     75_19 : profit= 74, weight= 36
+Name=     75_15 : profit= 48, weight= 30
+Name=     75_11 : profit= 42, weight= 30
+Name=     75_14 : profit= 37, weight= 22
+Name=     75_13 : profit= 33, weight= 26
+Name=     75_12 : profit= 30, weight= 20
+Name=      75_6 : profit= 23, weight= 15
+Name=      75_8 : profit= 23, weight= 18
+Name=      75_7 : profit= 21, weight= 17
+Name=      75_9 : profit= 19, weight= 18
+Name=     75_10 : profit= 19, weight= 17
+Name=      75_5 : profit= 10, weight=  5
+Name=      75_2 : profit=  8, weight=  8
+Name=      75_4 : profit=  8, weight= 13
+Name=      75_1 : profit=  7, weight=  7
+Name=      75_3 : profit=  7, weight=  6
+Group[76]
+Name=     76_28 : profit=197, weight= 72
+Name=     76_30 : profit=197, weight= 70
+Name=     76_27 : profit=192, weight= 72
+Name=     76_29 : profit=190, weight= 68
+Name=     76_26 : profit=169, weight= 63
+Name=     76_25 : profit= 79, weight= 56
+Name=     76_23 : profit= 76, weight= 61
+Name=     76_21 : profit= 70, weight= 50
+Name=     76_24 : profit= 66, weight= 56
+Name=     76_22 : profit= 62, weight= 58
+Name=     76_19 : profit= 52, weight= 42
+Name=     76_16 : profit= 43, weight= 37
+Name=     76_20 : profit= 40, weight= 38
+Name=     76_14 : profit= 34, weight= 29
+Name=     76_17 : profit= 33, weight= 36
+Name=     76_18 : profit= 31, weight= 34
+Name=     76_12 : profit= 26, weight= 28
+Name=     76_13 : profit= 23, weight= 32
+Name=     76_15 : profit= 17, weight= 24
+Name=     76_11 : profit= 15, weight= 24
+Name=      76_6 : profit= 13, weight= 19
+Name=      76_9 : profit= 13, weight= 19
+Name=      76_7 : profit=  9, weight= 20
+Name=      76_8 : profit=  8, weight= 18
+Name=     76_10 : profit=  7, weight= 18
+Name=      76_5 : profit=  5, weight= 12
+Name=      76_4 : profit=  4, weight= 12
+Name=      76_3 : profit=  1, weight= 12
+Name=      76_1 : profit=  0, weight=  5
+Name=      76_2 : profit=  0, weight=  7
+Group[77]
+Name=     77_28 : profit=195, weight= 61
+Name=     77_29 : profit=188, weight= 62
+Name=     77_30 : profit=185, weight= 59
+Name=     77_27 : profit=178, weight= 55
+Name=     77_26 : profit=177, weight= 57
+Name=     77_24 : profit=153, weight= 49
+Name=     77_22 : profit=145, weight= 49
+Name=     77_25 : profit=143, weight= 45
+Name=     77_23 : profit=142, weight= 46
+Name=     77_21 : profit=138, weight= 45
+Name=     77_20 : profit= 91, weight= 40
+Name=     77_17 : profit= 84, weight= 35
+Name=     77_19 : profit= 80, weight= 33
+Name=     77_16 : profit= 79, weight= 38
+Name=     77_18 : profit= 75, weight= 32
+Name=     77_12 : profit= 56, weight= 31
+Name=     77_11 : profit= 51, weight= 31
+Name=     77_14 : profit= 46, weight= 31
+Name=     77_13 : profit= 43, weight= 31
+Name=     77_15 : profit= 38, weight= 31
+Name=     77_10 : profit= 25, weight= 27
+Name=      77_6 : profit= 23, weight= 17
+Name=      77_9 : profit= 23, weight= 23
+Name=      77_8 : profit= 21, weight= 23
+Name=      77_2 : profit= 18, weight= 14
+Name=      77_5 : profit= 18, weight= 15
+Name=      77_4 : profit= 17, weight=  8
+Name=      77_7 : profit= 16, weight= 17
+Name=      77_3 : profit= 15, weight= 15
+Name=      77_1 : profit= 14, weight= 13
+Group[78]
+Name=     78_30 : profit=214, weight= 55
+Name=     78_28 : profit=210, weight= 55
+Name=     78_27 : profit=188, weight= 50
+Name=     78_29 : profit=188, weight= 52
+Name=     78_26 : profit=187, weight= 49
+Name=      78_3 : profit=157, weight=  6
+Name=     78_25 : profit=139, weight= 46
+Name=     78_23 : profit=134, weight= 45
+Name=     78_24 : profit=123, weight= 45
+Name=     78_21 : profit=121, weight= 42
+Name=      78_4 : profit=120, weight= 11
+Name=     78_22 : profit=120, weight= 44
+Name=     78_16 : profit= 75, weight= 37
+Name=     78_17 : profit= 71, weight= 39
+Name=     78_18 : profit= 70, weight= 40
+Name=     78_20 : profit= 63, weight= 32
+Name=     78_19 : profit= 50, weight= 31
+Name=      78_5 : profit= 39, weight=  6
+Name=     78_15 : profit= 36, weight= 28
+Name=     78_14 : profit= 29, weight= 27
+Name=     78_11 : profit= 26, weight= 29
+Name=     78_12 : profit= 25, weight= 25
+Name=      78_6 : profit= 21, weight= 16
+Name=     78_13 : profit= 20, weight= 26
+Name=      78_9 : profit= 15, weight= 19
+Name=      78_1 : profit=  9, weight=  7
+Name=     78_10 : profit=  8, weight= 18
+Name=      78_7 : profit=  6, weight= 18
+Name=      78_2 : profit=  0, weight= 11
+Name=      78_8 : profit=  0, weight= 17
+Group[79]
+Name=     79_30 : profit=156, weight= 68
+Name=     79_28 : profit=150, weight= 65
+Name=     79_26 : profit=140, weight= 62
+Name=     79_27 : profit=134, weight= 63
+Name=     79_29 : profit=130, weight= 57
+Name=     79_24 : profit=120, weight= 53
+Name=     79_25 : profit=118, weight= 52
+Name=     79_21 : profit=105, weight= 51
+Name=     79_16 : profit=103, weight= 44
+Name=     79_23 : profit=103, weight= 53
+Name=     79_22 : profit= 99, weight= 46
+Name=     79_18 : profit= 91, weight= 44
+Name=     79_19 : profit= 82, weight= 39
+Name=     79_17 : profit= 81, weight= 37
+Name=     79_20 : profit= 75, weight= 37
+Name=     79_13 : profit= 25, weight= 31
+Name=     79_15 : profit= 20, weight= 36
+Name=     79_10 : profit= 17, weight= 15
+Name=     79_12 : profit= 17, weight= 30
+Name=      79_1 : profit= 15, weight= 11
+Name=     79_11 : profit= 15, weight= 31
+Name=     79_14 : profit= 13, weight= 26
+Name=      79_5 : profit= 10, weight= 11
+Name=      79_4 : profit=  9, weight=  6
+Name=      79_6 : profit=  9, weight= 21
+Name=      79_9 : profit=  8, weight= 20
+Name=      79_2 : profit=  5, weight=  9
+Name=      79_7 : profit=  2, weight= 18
+Name=      79_8 : profit=  1, weight= 21
+Name=      79_3 : profit=  0, weight= 11
+Group[80]
+Name=     80_29 : profit=278, weight= 60
+Name=     80_28 : profit=277, weight= 59
+Name=     80_30 : profit=274, weight= 61
+Name=     80_26 : profit=272, weight= 60
+Name=     80_27 : profit=272, weight= 60
+Name=     80_23 : profit=230, weight= 56
+Name=     80_25 : profit=218, weight= 54
+Name=     80_22 : profit=211, weight= 52
+Name=     80_21 : profit=202, weight= 50
+Name=     80_24 : profit=194, weight= 49
+Name=     80_19 : profit=137, weight= 44
+Name=     80_16 : profit=136, weight= 42
+Name=     80_18 : profit=133, weight= 43
+Name=     80_17 : profit=131, weight= 44
+Name=     80_20 : profit=127, weight= 41
+Name=     80_14 : profit= 56, weight= 30
+Name=     80_13 : profit= 51, weight= 33
+Name=     80_11 : profit= 45, weight= 29
+Name=     80_15 : profit= 41, weight= 28
+Name=      80_7 : profit= 35, weight= 19
+Name=      80_8 : profit= 33, weight= 16
+Name=      80_9 : profit= 33, weight= 19
+Name=     80_12 : profit= 32, weight= 26
+Name=      80_4 : profit= 22, weight= 12
+Name=      80_6 : profit= 21, weight= 19
+Name=     80_10 : profit= 21, weight= 21
+Name=      80_5 : profit= 20, weight= 10
+Name=      80_3 : profit= 18, weight= 12
+Name=      80_1 : profit= 17, weight=  7
+Name=      80_2 : profit=  6, weight=  7
+Group[81]
+Name=     81_28 : profit=423, weight= 70
+Name=     81_26 : profit=416, weight= 67
+Name=     81_29 : profit=408, weight= 68
+Name=     81_30 : profit=400, weight= 67
+Name=     81_27 : profit=371, weight= 61
+Name=     81_24 : profit=336, weight= 58
+Name=     81_25 : profit=322, weight= 55
+Name=     81_23 : profit=312, weight= 55
+Name=     81_22 : profit=304, weight= 53
+Name=     81_21 : profit=302, weight= 52
+Name=     81_17 : profit=222, weight= 49
+Name=     81_20 : profit=222, weight= 46
+Name=     81_16 : profit=220, weight= 49
+Name=     81_18 : profit=210, weight= 47
+Name=     81_19 : profit=204, weight= 46
+Name=     81_15 : profit= 58, weight= 38
+Name=     81_13 : profit= 55, weight= 38
+Name=     81_14 : profit= 55, weight= 39
+Name=     81_11 : profit= 51, weight= 35
+Name=     81_12 : profit= 48, weight= 32
+Name=      81_8 : profit= 21, weight= 21
+Name=      81_9 : profit= 21, weight= 17
+Name=     81_10 : profit= 20, weight= 17
+Name=      81_5 : profit= 14, weight= 10
+Name=      81_6 : profit= 14, weight= 15
+Name=      81_1 : profit= 11, weight=  8
+Name=      81_3 : profit=  9, weight=  8
+Name=      81_4 : profit=  9, weight= 10
+Name=      81_7 : profit=  9, weight= 13
+Name=      81_2 : profit=  8, weight=  5
+Group[82]
+Name=     82_30 : profit=258, weight= 54
+Name=     82_28 : profit=249, weight= 53
+Name=     82_26 : profit=228, weight= 49
+Name=     82_27 : profit=228, weight= 49
+Name=     82_29 : profit=227, weight= 49
+Name=     82_22 : profit=217, weight= 45
+Name=     82_24 : profit=204, weight= 42
+Name=     82_21 : profit=201, weight= 42
+Name=     82_25 : profit=198, weight= 42
+Name=     82_23 : profit=194, weight= 42
+Name=     82_17 : profit=147, weight= 39
+Name=     82_18 : profit=136, weight= 38
+Name=     82_16 : profit=135, weight= 36
+Name=     82_19 : profit=134, weight= 38
+Name=     82_20 : profit=129, weight= 35
+Name=     82_12 : profit= 75, weight= 29
+Name=     82_14 : profit= 63, weight= 25
+Name=     82_13 : profit= 60, weight= 25
+Name=     82_15 : profit= 59, weight= 21
+Name=     82_11 : profit= 56, weight= 21
+Name=      82_5 : profit= 39, weight= 10
+Name=      82_6 : profit= 36, weight= 16
+Name=      82_8 : profit= 35, weight= 16
+Name=      82_7 : profit= 34, weight= 17
+Name=     82_10 : profit= 29, weight= 15
+Name=      82_9 : profit= 23, weight= 12
+Name=      82_3 : profit=  8, weight=  7
+Name=      82_4 : profit=  7, weight=  9
+Name=      82_1 : profit=  0, weight= 10
+Name=      82_2 : profit=  0, weight= 10
+Group[83]
+Name=     83_27 : profit=173, weight= 68
+Name=     83_26 : profit=171, weight= 68
+Name=     83_30 : profit=169, weight= 63
+Name=     83_29 : profit=167, weight= 64
+Name=     83_28 : profit=147, weight= 63
+Name=     83_22 : profit=146, weight= 57
+Name=     83_24 : profit=145, weight= 57
+Name=     83_25 : profit=143, weight= 60
+Name=     83_21 : profit=128, weight= 54
+Name=     83_23 : profit=126, weight= 52
+Name=     83_17 : profit= 90, weight= 46
+Name=     83_18 : profit= 87, weight= 45
+Name=     83_16 : profit= 82, weight= 42
+Name=     83_19 : profit= 78, weight= 44
+Name=     83_20 : profit= 75, weight= 40
+Name=     83_15 : profit= 50, weight= 37
+Name=      83_8 : profit= 49, weight= 29
+Name=     83_11 : profit= 46, weight= 32
+Name=     83_12 : profit= 46, weight= 31
+Name=     83_14 : profit= 46, weight= 33
+Name=     83_13 : profit= 44, weight= 31
+Name=      83_7 : profit= 38, weight= 22
+Name=      83_9 : profit= 36, weight= 27
+Name=     83_10 : profit= 27, weight= 22
+Name=      83_6 : profit= 26, weight= 21
+Name=      83_4 : profit= 17, weight=  8
+Name=      83_2 : profit= 15, weight= 11
+Name=      83_1 : profit= 12, weight=  8
+Name=      83_5 : profit= 12, weight= 12
+Name=      83_3 : profit= 11, weight=  6
+Group[84]
+Name=     84_28 : profit=220, weight= 44
+Name=     84_30 : profit=208, weight= 45
+Name=     84_29 : profit=202, weight= 43
+Name=     84_26 : profit=190, weight= 40
+Name=     84_27 : profit=185, weight= 40
+Name=     84_21 : profit=172, weight= 39
+Name=     84_25 : profit=171, weight= 36
+Name=     84_23 : profit=167, weight= 39
+Name=     84_24 : profit=167, weight= 35
+Name=     84_22 : profit=155, weight= 35
+Name=     84_16 : profit=109, weight= 33
+Name=     84_18 : profit=104, weight= 33
+Name=     84_19 : profit=103, weight= 34
+Name=     84_20 : profit= 98, weight= 33
+Name=     84_17 : profit= 95, weight= 29
+Name=     84_15 : profit= 63, weight= 25
+Name=     84_11 : profit= 61, weight= 26
+Name=     84_12 : profit= 56, weight= 24
+Name=     84_13 : profit= 50, weight= 20
+Name=     84_14 : profit= 49, weight= 22
+Name=      84_9 : profit= 32, weight= 18
+Name=     84_10 : profit= 30, weight= 18
+Name=      84_6 : profit= 28, weight= 16
+Name=      84_8 : profit= 27, weight= 17
+Name=      84_7 : profit= 21, weight= 14
+Name=      84_5 : profit= 17, weight= 11
+Name=      84_1 : profit= 13, weight= 12
+Name=      84_4 : profit= 13, weight= 10
+Name=      84_3 : profit=  9, weight=  5
+Name=      84_2 : profit=  5, weight=  5
+Group[85]
+Name=     85_26 : profit=302, weight= 61
+Name=     85_29 : profit=290, weight= 55
+Name=     85_30 : profit=290, weight= 57
+Name=     85_27 : profit=283, weight= 57
+Name=     85_28 : profit=273, weight= 58
+Name=     85_22 : profit=228, weight= 48
+Name=     85_23 : profit=222, weight= 49
+Name=     85_25 : profit=203, weight= 45
+Name=     85_24 : profit=199, weight= 44
+Name=     85_21 : profit=197, weight= 44
+Name=     85_16 : profit= 70, weight= 38
+Name=     85_18 : profit= 70, weight= 41
+Name=     85_19 : profit= 70, weight= 42
+Name=     85_17 : profit= 69, weight= 35
+Name=     85_20 : profit= 65, weight= 40
+Name=     85_15 : profit= 24, weight= 30
+Name=     85_11 : profit= 23, weight= 29
+Name=      85_8 : profit= 22, weight= 23
+Name=     85_12 : profit= 22, weight= 31
+Name=     85_14 : profit= 22, weight= 32
+Name=      85_6 : profit= 21, weight= 23
+Name=     85_13 : profit= 20, weight= 27
+Name=     85_10 : profit= 17, weight= 21
+Name=      85_7 : profit= 16, weight= 18
+Name=      85_2 : profit= 11, weight= 13
+Name=      85_4 : profit= 10, weight= 10
+Name=      85_9 : profit=  7, weight= 15
+Name=      85_5 : profit=  5, weight=  5
+Name=      85_3 : profit=  1, weight=  9
+Name=      85_1 : profit=  0, weight= 14
+Group[86]
+Name=     86_26 : profit=247, weight= 47
+Name=     86_30 : profit=246, weight= 48
+Name=     86_29 : profit=231, weight= 45
+Name=     86_27 : profit=228, weight= 44
+Name=     86_28 : profit=221, weight= 41
+Name=     86_23 : profit=130, weight= 37
+Name=     86_22 : profit=123, weight= 33
+Name=     86_24 : profit=123, weight= 34
+Name=     86_25 : profit=116, weight= 34
+Name=     86_21 : profit=107, weight= 32
+Name=     86_17 : profit= 73, weight= 30
+Name=     86_16 : profit= 72, weight= 27
+Name=     86_18 : profit= 69, weight= 30
+Name=     86_19 : profit= 67, weight= 28
+Name=     86_20 : profit= 64, weight= 27
+Name=     86_12 : profit= 57, weight= 25
+Name=     86_15 : profit= 53, weight= 23
+Name=     86_14 : profit= 52, weight= 25
+Name=     86_13 : profit= 46, weight= 24
+Name=     86_11 : profit= 43, weight= 19
+Name=      86_6 : profit= 26, weight= 18
+Name=      86_8 : profit= 21, weight= 16
+Name=      86_9 : profit= 21, weight= 16
+Name=      86_7 : profit= 20, weight= 18
+Name=     86_10 : profit= 19, weight= 16
+Name=      86_4 : profit= 15, weight=  5
+Name=      86_5 : profit= 11, weight=  7
+Name=      86_2 : profit= 10, weight=  7
+Name=      86_1 : profit=  2, weight= 14
+Name=      86_3 : profit=  0, weight= 13
+Group[87]
+Name=     87_28 : profit=236, weight= 58
+Name=     87_29 : profit=236, weight= 59
+Name=     87_26 : profit=234, weight= 60
+Name=     87_27 : profit=234, weight= 56
+Name=     87_30 : profit=225, weight= 56
+Name=     87_24 : profit=157, weight= 49
+Name=     87_22 : profit=156, weight= 47
+Name=     87_23 : profit=153, weight= 45
+Name=     87_21 : profit=152, weight= 49
+Name=     87_19 : profit=130, weight= 39
+Name=     87_25 : profit=128, weight= 43
+Name=     87_17 : profit=126, weight= 40
+Name=     87_18 : profit=116, weight= 38
+Name=     87_16 : profit=114, weight= 33
+Name=     87_20 : profit=106, weight= 37
+Name=     87_12 : profit= 52, weight= 28
+Name=     87_11 : profit= 50, weight= 24
+Name=     87_14 : profit= 48, weight= 26
+Name=     87_15 : profit= 40, weight= 28
+Name=     87_13 : profit= 32, weight= 25
+Name=      87_6 : profit= 27, weight= 18
+Name=     87_10 : profit= 25, weight= 21
+Name=      87_7 : profit= 23, weight= 20
+Name=      87_8 : profit= 23, weight= 18
+Name=      87_9 : profit= 20, weight= 20
+Name=      87_3 : profit= 12, weight= 11
+Name=      87_1 : profit=  8, weight= 16
+Name=      87_2 : profit=  5, weight= 15
+Name=      87_5 : profit=  5, weight=  7
+Name=      87_4 : profit=  3, weight= 11
+Group[88]
+Name=     88_29 : profit=212, weight= 53
+Name=     88_28 : profit=205, weight= 48
+Name=     88_27 : profit=194, weight= 44
+Name=     88_30 : profit=182, weight= 44
+Name=     88_26 : profit=172, weight= 45
+Name=     88_22 : profit= 83, weight= 39
+Name=     88_21 : profit= 76, weight= 41
+Name=     88_24 : profit= 73, weight= 42
+Name=     88_25 : profit= 70, weight= 41
+Name=     88_23 : profit= 63, weight= 37
+Name=     88_16 : profit= 49, weight= 34
+Name=     88_17 : profit= 49, weight= 33
+Name=     88_18 : profit= 49, weight= 31
+Name=     88_20 : profit= 49, weight= 35
+Name=     88_19 : profit= 46, weight= 34
+Name=      88_3 : profit= 44, weight=  8
+Name=      88_5 : profit= 42, weight=  8
+Name=     88_11 : profit= 24, weight= 29
+Name=      88_1 : profit= 22, weight=  6
+Name=     88_15 : profit= 21, weight= 25
+Name=      88_6 : profit= 18, weight= 13
+Name=     88_13 : profit= 18, weight= 21
+Name=      88_9 : profit= 17, weight= 15
+Name=      88_8 : profit= 16, weight= 13
+Name=     88_10 : profit= 16, weight= 11
+Name=     88_12 : profit= 15, weight= 21
+Name=     88_14 : profit= 13, weight= 20
+Name=      88_7 : profit=  6, weight= 11
+Name=      88_2 : profit=  5, weight=  6
+Name=      88_4 : profit=  0, weight=  5
+Group[89]
+Name=     89_29 : profit=211, weight= 58
+Name=     89_30 : profit=197, weight= 53
+Name=     89_27 : profit=194, weight= 55
+Name=     89_26 : profit=191, weight= 53
+Name=     89_28 : profit=190, weight= 52
+Name=     89_25 : profit=159, weight= 45
+Name=     89_24 : profit=158, weight= 46
+Name=     89_23 : profit=153, weight= 47
+Name=     89_22 : profit=150, weight= 43
+Name=     89_21 : profit=142, weight= 42
+Name=     89_17 : profit=122, weight= 40
+Name=     89_20 : profit=108, weight= 39
+Name=     89_16 : profit=106, weight= 37
+Name=     89_18 : profit=105, weight= 37
+Name=     89_19 : profit=100, weight= 34
+Name=     89_12 : profit= 66, weight= 25
+Name=     89_15 : profit= 63, weight= 26
+Name=     89_11 : profit= 49, weight= 22
+Name=     89_13 : profit= 48, weight= 19
+Name=     89_14 : profit= 42, weight= 19
+Name=      89_8 : profit= 35, weight= 16
+Name=      89_6 : profit= 32, weight= 14
+Name=      89_7 : profit= 31, weight= 12
+Name=      89_9 : profit= 31, weight= 11
+Name=     89_10 : profit= 20, weight= 11
+Name=      89_3 : profit= 17, weight=  6
+Name=      89_4 : profit= 17, weight=  8
+Name=      89_1 : profit= 13, weight=  6
+Name=      89_2 : profit= 11, weight=  5
+Name=      89_5 : profit=  9, weight=  9
+Group[90]
+Name=     90_28 : profit=238, weight= 62
+Name=     90_29 : profit=229, weight= 61
+Name=     90_30 : profit=221, weight= 62
+Name=     90_26 : profit=217, weight= 59
+Name=     90_27 : profit=210, weight= 57
+Name=     90_24 : profit=136, weight= 52
+Name=     90_23 : profit=129, weight= 49
+Name=     90_21 : profit=125, weight= 49
+Name=     90_25 : profit=121, weight= 45
+Name=     90_22 : profit=119, weight= 45
+Name=     90_17 : profit= 98, weight= 38
+Name=     90_16 : profit= 83, weight= 42
+Name=     90_20 : profit= 83, weight= 38
+Name=     90_18 : profit= 81, weight= 37
+Name=     90_19 : profit= 71, weight= 37
+Name=     90_14 : profit= 46, weight= 29
+Name=     90_11 : profit= 45, weight= 32
+Name=     90_13 : profit= 44, weight= 29
+Name=     90_15 : profit= 40, weight= 29
+Name=      90_9 : profit= 39, weight= 26
+Name=     90_12 : profit= 39, weight= 31
+Name=      90_6 : profit= 30, weight= 25
+Name=      90_7 : profit= 30, weight= 24
+Name=      90_8 : profit= 25, weight= 21
+Name=     90_10 : profit= 25, weight= 25
+Name=      90_5 : profit= 18, weight=  5
+Name=      90_2 : profit= 11, weight= 12
+Name=      90_1 : profit=  0, weight= 17
+Name=      90_3 : profit=  0, weight=  5
+Name=      90_4 : profit=  0, weight= 13
+Group[91]
+Name=     91_27 : profit=325, weight= 66
+Name=     91_29 : profit=320, weight= 65
+Name=     91_26 : profit=309, weight= 66
+Name=     91_28 : profit=303, weight= 61
+Name=     91_30 : profit=301, weight= 63
+Name=     91_21 : profit=180, weight= 55
+Name=     91_22 : profit=171, weight= 47
+Name=     91_25 : profit=167, weight= 53
+Name=     91_24 : profit=161, weight= 50
+Name=     91_23 : profit=155, weight= 47
+Name=     91_16 : profit= 71, weight= 44
+Name=     91_20 : profit= 67, weight= 43
+Name=     91_17 : profit= 66, weight= 44
+Name=     91_19 : profit= 64, weight= 39
+Name=     91_18 : profit= 62, weight= 41
+Name=     91_12 : profit= 55, weight= 34
+Name=     91_14 : profit= 52, weight= 37
+Name=     91_15 : profit= 52, weight= 32
+Name=     91_11 : profit= 48, weight= 31
+Name=     91_13 : profit= 43, weight= 30
+Name=      91_6 : profit= 35, weight= 25
+Name=     91_10 : profit= 35, weight= 25
+Name=      91_7 : profit= 34, weight= 24
+Name=      91_9 : profit= 34, weight= 28
+Name=      91_8 : profit= 24, weight= 21
+Name=      91_3 : profit= 14, weight= 17
+Name=      91_5 : profit= 12, weight= 17
+Name=      91_2 : profit= 11, weight=  7
+Name=      91_4 : profit=  7, weight=  7
+Name=      91_1 : profit=  6, weight= 11
+Group[92]
+Name=     92_29 : profit=159, weight= 50
+Name=     92_27 : profit=150, weight= 48
+Name=     92_28 : profit=148, weight= 47
+Name=     92_30 : profit=144, weight= 50
+Name=     92_26 : profit=136, weight= 45
+Name=     92_24 : profit=119, weight= 41
+Name=     92_21 : profit=116, weight= 40
+Name=     92_23 : profit=115, weight= 43
+Name=     92_25 : profit=113, weight= 39
+Name=     92_22 : profit=108, weight= 39
+Name=     92_17 : profit= 61, weight= 35
+Name=     92_16 : profit= 58, weight= 35
+Name=     92_20 : profit= 52, weight= 33
+Name=     92_18 : profit= 51, weight= 34
+Name=     92_19 : profit= 49, weight= 33
+Name=      92_8 : profit= 39, weight= 17
+Name=     92_11 : profit= 26, weight= 27
+Name=     92_12 : profit= 25, weight= 28
+Name=     92_13 : profit= 19, weight= 29
+Name=     92_14 : profit= 19, weight= 22
+Name=      92_2 : profit= 15, weight=  6
+Name=     92_15 : profit= 15, weight= 25
+Name=      92_7 : profit=  8, weight= 19
+Name=      92_6 : profit=  6, weight= 16
+Name=      92_1 : profit=  0, weight=  7
+Name=      92_3 : profit=  0, weight=  5
+Name=      92_4 : profit=  0, weight=  7
+Name=      92_5 : profit=  0, weight=  8
+Name=      92_9 : profit=  0, weight= 15
+Name=     92_10 : profit=  0, weight= 21
+Group[93]
+Name=     93_29 : profit=340, weight= 68
+Name=     93_28 : profit=329, weight= 65
+Name=     93_26 : profit=324, weight= 64
+Name=     93_27 : profit=324, weight= 65
+Name=     93_30 : profit=309, weight= 63
+Name=     93_22 : profit=272, weight= 59
+Name=     93_23 : profit=253, weight= 55
+Name=     93_24 : profit=249, weight= 55
+Name=     93_25 : profit=237, weight= 51
+Name=     93_21 : profit=233, weight= 49
+Name=     93_16 : profit=171, weight= 44
+Name=     93_19 : profit=170, weight= 43
+Name=     93_18 : profit=169, weight= 42
+Name=     93_20 : profit=169, weight= 44
+Name=     93_17 : profit=165, weight= 41
+Name=     93_11 : profit=123, weight= 36
+Name=     93_12 : profit=123, weight= 36
+Name=     93_13 : profit=123, weight= 36
+Name=     93_14 : profit=123, weight= 35
+Name=     93_15 : profit=119, weight= 35
+Name=      93_8 : profit=102, weight= 32
+Name=      93_7 : profit= 98, weight= 31
+Name=      93_6 : profit= 97, weight= 31
+Name=     93_10 : profit= 85, weight= 31
+Name=      93_9 : profit= 81, weight= 27
+Name=      93_1 : profit= 35, weight= 23
+Name=      93_5 : profit= 28, weight= 17
+Name=      93_3 : profit= 25, weight= 21
+Name=      93_4 : profit= 17, weight= 10
+Name=      93_2 : profit= 13, weight=  8
+Group[94]
+Name=     94_29 : profit=206, weight= 57
+Name=     94_26 : profit=186, weight= 52
+Name=     94_28 : profit=185, weight= 48
+Name=     94_30 : profit=184, weight= 51
+Name=     94_27 : profit=171, weight= 49
+Name=     94_21 : profit=135, weight= 46
+Name=     94_22 : profit=130, weight= 44
+Name=     94_24 : profit=129, weight= 44
+Name=     94_25 : profit=114, weight= 42
+Name=     94_23 : profit=112, weight= 38
+Name=     94_17 : profit= 67, weight= 36
+Name=     94_19 : profit= 66, weight= 35
+Name=     94_18 : profit= 65, weight= 36
+Name=     94_20 : profit= 65, weight= 35
+Name=     94_16 : profit= 64, weight= 34
+Name=     94_14 : profit= 46, weight= 26
+Name=     94_15 : profit= 43, weight= 28
+Name=     94_13 : profit= 40, weight= 28
+Name=     94_12 : profit= 37, weight= 21
+Name=     94_11 : profit= 36, weight= 23
+Name=     94_10 : profit= 27, weight= 16
+Name=      94_6 : profit= 26, weight= 19
+Name=      94_8 : profit= 24, weight= 20
+Name=      94_9 : profit= 22, weight= 20
+Name=      94_7 : profit= 16, weight= 18
+Name=      94_4 : profit= 14, weight=  8
+Name=      94_1 : profit= 13, weight=  7
+Name=      94_2 : profit= 13, weight=  9
+Name=      94_5 : profit= 13, weight= 10
+Name=      94_3 : profit= 12, weight=  6
+Group[95]
+Name=     95_28 : profit=173, weight= 66
+Name=     95_27 : profit=165, weight= 64
+Name=     95_26 : profit=163, weight= 66
+Name=     95_29 : profit=161, weight= 64
+Name=     95_30 : profit=148, weight= 56
+Name=     95_22 : profit= 97, weight= 55
+Name=     95_23 : profit= 96, weight= 49
+Name=     95_24 : profit= 91, weight= 50
+Name=     95_25 : profit= 82, weight= 48
+Name=     95_21 : profit= 74, weight= 47
+Name=     95_16 : profit= 71, weight= 44
+Name=     95_18 : profit= 65, weight= 41
+Name=     95_19 : profit= 64, weight= 40
+Name=     95_17 : profit= 60, weight= 38
+Name=     95_20 : profit= 55, weight= 39
+Name=     95_12 : profit= 51, weight= 35
+Name=     95_14 : profit= 50, weight= 36
+Name=     95_13 : profit= 49, weight= 32
+Name=     95_15 : profit= 45, weight= 32
+Name=     95_11 : profit= 38, weight= 30
+Name=     95_10 : profit= 23, weight= 27
+Name=      95_9 : profit= 20, weight= 23
+Name=      95_1 : profit= 18, weight=  7
+Name=      95_6 : profit= 18, weight= 27
+Name=      95_7 : profit= 17, weight= 25
+Name=      95_3 : profit= 14, weight= 11
+Name=      95_8 : profit= 14, weight= 19
+Name=      95_5 : profit=  3, weight=  5
+Name=      95_2 : profit=  0, weight=  7
+Name=      95_4 : profit=  0, weight= 14
+Group[96]
+Name=     96_28 : profit=223, weight= 51
+Name=     96_27 : profit=222, weight= 49
+Name=     96_30 : profit=222, weight= 51
+Name=     96_26 : profit=207, weight= 47
+Name=     96_29 : profit=205, weight= 47
+Name=     96_24 : profit=132, weight= 42
+Name=     96_22 : profit=111, weight= 38
+Name=     96_21 : profit=107, weight= 38
+Name=     96_25 : profit=107, weight= 37
+Name=     96_23 : profit=106, weight= 38
+Name=     96_17 : profit= 69, weight= 35
+Name=     96_16 : profit= 67, weight= 35
+Name=     96_18 : profit= 56, weight= 27
+Name=     96_19 : profit= 56, weight= 31
+Name=     96_20 : profit= 53, weight= 28
+Name=     96_13 : profit= 46, weight= 20
+Name=     96_11 : profit= 45, weight= 21
+Name=     96_15 : profit= 44, weight= 22
+Name=     96_12 : profit= 42, weight= 19
+Name=     96_14 : profit= 42, weight= 18
+Name=      96_6 : profit= 32, weight= 16
+Name=      96_7 : profit= 24, weight= 10
+Name=      96_4 : profit= 23, weight=  8
+Name=      96_8 : profit= 22, weight= 11
+Name=      96_9 : profit= 20, weight= 11
+Name=     96_10 : profit= 18, weight= 10
+Name=      96_5 : profit= 17, weight=  9
+Name=      96_2 : profit= 14, weight=  5
+Name=      96_1 : profit= 12, weight=  9
+Name=      96_3 : profit= 12, weight=  9
+Group[97]
+Name=     97_29 : profit=216, weight= 57
+Name=     97_28 : profit=207, weight= 56
+Name=     97_27 : profit=206, weight= 57
+Name=     97_26 : profit=205, weight= 55
+Name=     97_30 : profit=200, weight= 54
+Name=     97_25 : profit=147, weight= 46
+Name=     97_23 : profit=143, weight= 51
+Name=     97_24 : profit=142, weight= 49
+Name=     97_21 : profit=141, weight= 47
+Name=     97_22 : profit=140, weight= 49
+Name=     97_16 : profit= 75, weight= 40
+Name=     97_20 : profit= 72, weight= 40
+Name=     97_19 : profit= 70, weight= 39
+Name=     97_17 : profit= 68, weight= 38
+Name=     97_18 : profit= 65, weight= 39
+Name=      97_2 : profit= 35, weight=  9
+Name=     97_13 : profit= 29, weight= 28
+Name=     97_15 : profit= 26, weight= 33
+Name=     97_14 : profit= 23, weight= 33
+Name=     97_11 : profit= 21, weight= 28
+Name=      97_9 : profit= 17, weight= 18
+Name=     97_12 : profit= 17, weight= 25
+Name=     97_10 : profit= 14, weight= 21
+Name=      97_6 : profit= 12, weight= 20
+Name=      97_8 : profit= 10, weight= 16
+Name=      97_5 : profit=  9, weight=  5
+Name=      97_7 : profit=  8, weight= 20
+Name=      97_1 : profit=  0, weight=  7
+Name=      97_3 : profit=  0, weight= 14
+Name=      97_4 : profit=  0, weight= 14
+Group[98]
+Name=     98_26 : profit=387, weight= 54
+Name=     98_27 : profit=368, weight= 52
+Name=     98_29 : profit=364, weight= 51
+Name=     98_28 : profit=353, weight= 50
+Name=     98_30 : profit=347, weight= 49
+Name=     98_25 : profit=143, weight= 46
+Name=     98_22 : profit=131, weight= 45
+Name=     98_24 : profit=121, weight= 41
+Name=     98_21 : profit=118, weight= 44
+Name=     98_23 : profit=117, weight= 41
+Name=     98_18 : profit= 76, weight= 38
+Name=     98_20 : profit= 67, weight= 37
+Name=     98_16 : profit= 66, weight= 38
+Name=     98_17 : profit= 61, weight= 35
+Name=     98_19 : profit= 58, weight= 34
+Name=     98_13 : profit= 34, weight= 33
+Name=     98_12 : profit= 33, weight= 31
+Name=     98_15 : profit= 30, weight= 30
+Name=     98_11 : profit= 29, weight= 28
+Name=     98_14 : profit= 29, weight= 28
+Name=      98_9 : profit= 24, weight= 26
+Name=      98_7 : profit= 22, weight= 27
+Name=     98_10 : profit= 20, weight= 19
+Name=      98_6 : profit= 18, weight= 20
+Name=      98_8 : profit= 17, weight= 22
+Name=      98_5 : profit=  9, weight= 17
+Name=      98_4 : profit=  8, weight= 16
+Name=      98_2 : profit=  7, weight=  8
+Name=      98_1 : profit=  5, weight= 12
+Name=      98_3 : profit=  4, weight=  5
+Group[99]
+Name=     99_29 : profit=217, weight= 71
+Name=     99_26 : profit=210, weight= 73
+Name=     99_27 : profit=195, weight= 66
+Name=     99_28 : profit=195, weight= 69
+Name=     99_30 : profit=188, weight= 66
+Name=     99_23 : profit=149, weight= 61
+Name=     99_21 : profit=142, weight= 58
+Name=     99_24 : profit=137, weight= 56
+Name=     99_22 : profit=134, weight= 56
+Name=     99_25 : profit=131, weight= 57
+Name=     99_16 : profit= 70, weight= 49
+Name=     99_19 : profit= 69, weight= 49
+Name=     99_18 : profit= 68, weight= 46
+Name=     99_17 : profit= 67, weight= 47
+Name=     99_20 : profit= 62, weight= 44
+Name=     99_14 : profit= 51, weight= 43
+Name=     99_13 : profit= 47, weight= 43
+Name=     99_12 : profit= 45, weight= 40
+Name=     99_11 : profit= 43, weight= 33
+Name=     99_15 : profit= 40, weight= 34
+Name=     99_10 : profit= 37, weight= 31
+Name=      99_8 : profit= 31, weight= 27
+Name=      99_6 : profit= 26, weight= 20
+Name=      99_7 : profit= 21, weight= 23
+Name=      99_9 : profit= 20, weight= 20
+Name=      99_2 : profit= 16, weight= 16
+Name=      99_4 : profit= 16, weight= 14
+Name=      99_5 : profit= 15, weight= 16
+Name=      99_1 : profit=  8, weight=  6
+Name=      99_3 : profit=  8, weight= 13
+
+total_profit=205442/5, total_cost=10000
+
+DP_Cell address : 0x7f881a5007d0  Use?:1
+profit=3710, weight= 93
+Name=      1_27 : profit=129, weight= 46
+Name=      1_29 : profit=136, weight= 47
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a4345e0  Use?:1
+profit=3495, weight= 50
+Name=      3_27 : profit=233, weight= 50
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a701900  Use?:1
+profit=15268, weight=231
+Name=      4_29 : profit=245, weight= 42
+Name=      4_27 : profit=276, weight= 45
+Name=      4_28 : profit=285, weight= 48
+Name=      4_26 : profit=286, weight= 48
+Name=      4_30 : profit=296, weight= 48
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a600350  Use?:1
+profit=14597, weight=239
+Name=      5_29 : profit=254, weight= 47
+Name=      5_30 : profit=259, weight= 47
+Name=      5_27 : profit=263, weight= 47
+Name=      5_26 : profit=269, weight= 47
+Name=      5_28 : profit=282, weight= 51
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a4352a0  Use?:1
+profit=2655, weight= 57
+Name=      6_28 : profit=177, weight= 57
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a5046f0  Use?:1
+profit=6286, weight= 90
+Name=      7_29 : profit=219, weight= 44
+Name=      7_27 : profit=230, weight= 46
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a602b20  Use?:1
+profit=9256, weight= 22
+Name=       9_4 : profit=122, weight=  8
+Name=       9_2 : profit=258, weight=  8
+Name=       9_1 : profit=332, weight=  6
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a506e90  Use?:1
+profit=19646, weight=318
+Name=     11_30 : profit=337, weight= 61
+Name=     11_28 : profit=338, weight= 61
+Name=     11_26 : profit=345, weight= 61
+Name=     11_29 : profit=377, weight= 67
+Name=     11_27 : profit=389, weight= 68
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a50a2c0  Use?:1
+profit=10704, weight=282
+Name=     12_30 : profit=213, weight= 69
+Name=     12_27 : profit=218, weight= 69
+Name=     12_29 : profit=225, weight= 72
+Name=     12_28 : profit=236, weight= 72
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a706b30  Use?:1
+profit=11676, weight=215
+Name=     13_28 : profit=229, weight= 51
+Name=     13_27 : profit=234, weight= 54
+Name=     13_26 : profit=240, weight= 53
+Name=     13_29 : profit=270, weight= 57
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a50f230  Use?:1
+profit=10582, weight=322
+Name=     15_22 : profit=114, weight= 50
+Name=     15_26 : profit=197, weight= 66
+Name=     15_29 : profit=203, weight= 66
+Name=     15_28 : profit=209, weight= 67
+Name=     15_30 : profit=239, weight= 73
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a7084b0  Use?:1
+profit=900, weight= 33
+Name=     16_11 : profit= 60, weight= 33
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a7078c0  Use?:1
+profit=11868, weight=229
+Name=     17_27 : profit=229, weight= 52
+Name=     17_30 : profit=253, weight= 59
+Name=     17_26 : profit=253, weight= 59
+Name=     17_29 : profit=254, weight= 59
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a70aa70  Use?:1
+profit=10116, weight=158
+Name=     19_28 : profit=194, weight= 36
+Name=     19_30 : profit=202, weight= 38
+Name=     19_29 : profit=214, weight= 40
+Name=     19_26 : profit=233, weight= 44
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a70c940  Use?:1
+profit=16506, weight= 26
+Name=      20_4 : profit=339, weight= 13
+Name=      20_2 : profit=840, weight= 13
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a604620  Use?:1
+profit=1155, weight=  6
+Name=      21_2 : profit= 77, weight=  6
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a604f80  Use?:1
+profit=6874, weight=100
+Name=     24_30 : profit=240, weight= 50
+Name=     24_28 : profit=251, weight= 50
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a6089c0  Use?:1
+profit=5026, weight=100
+Name=     25_22 : profit=153, weight= 46
+Name=     25_27 : profit=206, weight= 54
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a710150  Use?:1
+profit=19152, weight=251
+Name=     27_26 : profit=385, weight= 62
+Name=     27_29 : profit=395, weight= 62
+Name=     27_27 : profit=404, weight= 63
+Name=     27_28 : profit=412, weight= 64
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a712090  Use?:1
+profit=9685, weight=148
+Name=     28_29 : profit=242, weight= 49
+Name=     28_28 : profit=244, weight= 48
+Name=     28_30 : profit=259, weight= 51
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a715450  Use?:1
+profit=9912, weight=177
+Name=     29_29 : profit=185, weight= 41
+Name=     29_30 : profit=201, weight= 44
+Name=     29_28 : profit=220, weight= 46
+Name=     29_27 : profit=220, weight= 46
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a60b190  Use?:1
+profit=10920, weight=172
+Name=     30_26 : profit=273, weight= 56
+Name=     30_30 : profit=278, weight= 58
+Name=     30_27 : profit=289, weight= 58
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a718a80  Use?:1
+profit=3285, weight= 49
+Name=     31_27 : profit=219, weight= 49
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a4388e0  Use?:1
+profit=6510, weight=134
+Name=     32_26 : profit=222, weight= 65
+Name=     32_30 : profit=243, weight= 69
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a71cc40  Use?:1
+profit=18552, weight=231
+Name=     33_27 : profit=372, weight= 56
+Name=     33_26 : profit=380, weight= 57
+Name=     33_30 : profit=394, weight= 58
+Name=     33_28 : profit=400, weight= 60
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a71d680  Use?:1
+profit=6398, weight=124
+Name=     34_27 : profit=221, weight= 61
+Name=     34_26 : profit=236, weight= 63
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a71fb10  Use?:1
+profit=2520, weight= 55
+Name=     35_28 : profit=168, weight= 55
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a513ca0  Use?:1
+profit=3105, weight= 50
+Name=     36_24 : profit=207, weight= 50
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a60d840  Use?:1
+profit=11297, weight=155
+Name=     37_30 : profit=281, weight= 51
+Name=     37_29 : profit=285, weight= 51
+Name=     37_28 : profit=303, weight= 53
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a60db00  Use?:1
+profit=16456, weight=316
+Name=     38_30 : profit=268, weight= 55
+Name=     38_27 : profit=288, weight= 61
+Name=     38_28 : profit=307, weight= 65
+Name=     38_29 : profit=316, weight= 67
+Name=     38_26 : profit=317, weight= 68
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a60e780  Use?:1
+profit=3195, weight= 59
+Name=     39_29 : profit=213, weight= 59
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a724f20  Use?:1
+profit=4382, weight= 96
+Name=     40_18 : profit=109, weight= 38
+Name=     40_27 : profit=204, weight= 58
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a60e020  Use?:1
+profit=9588, weight=260
+Name=     41_27 : profit=187, weight= 61
+Name=     41_26 : profit=194, weight= 63
+Name=     41_28 : profit=202, weight= 66
+Name=     41_30 : profit=216, weight= 70
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a517030  Use?:1
+profit=13893, weight=264
+Name=     42_25 : profit=176, weight= 46
+Name=     42_26 : profit=264, weight= 53
+Name=     42_28 : profit=267, weight= 55
+Name=     42_27 : profit=274, weight= 54
+Name=     42_30 : profit=282, weight= 56
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a611890  Use?:1
+profit=6994, weight=123
+Name=     43_28 : profit=166, weight= 40
+Name=     43_30 : profit=176, weight= 40
+Name=     43_26 : profit=196, weight= 43
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a612c40  Use?:1
+profit=3375, weight= 66
+Name=     44_27 : profit=225, weight= 66
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a51b060  Use?:1
+profit=4060, weight= 93
+Name=      45_9 : profit= 46, weight= 18
+Name=     45_27 : profit=244, weight= 75
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a724460  Use?:1
+profit=3060, weight= 51
+Name=     46_28 : profit=204, weight= 51
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a72aac0  Use?:1
+profit=8034, weight=166
+Name=     48_27 : profit=198, weight= 55
+Name=     48_30 : profit=209, weight= 55
+Name=     48_26 : profit=211, weight= 56
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a51e120  Use?:1
+profit=13310, weight=234
+Name=     49_25 : profit=179, weight= 41
+Name=     49_30 : profit=242, weight= 47
+Name=     49_29 : profit=260, weight= 50
+Name=     49_27 : profit=261, weight= 47
+Name=     49_26 : profit=268, weight= 49
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a616780  Use?:1
+profit=4650, weight= 43
+Name=     50_30 : profit=310, weight= 43
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a51f110  Use?:1
+profit=9352, weight=133
+Name=     51_30 : profit=322, weight= 65
+Name=     51_29 : profit=346, weight= 68
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a6188a0  Use?:1
+profit=19665, weight= 14
+Name=      52_5 : profit=1311, weight= 14
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a72a960  Use?:1
+profit=2280, weight= 56
+Name=     53_29 : profit=152, weight= 56
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a730930  Use?:1
+profit=16272, weight=254
+Name=     54_30 : profit=325, weight= 60
+Name=     54_28 : profit=331, weight= 63
+Name=     54_29 : profit=337, weight= 63
+Name=     54_26 : profit=363, weight= 68
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a521460  Use?:1
+profit=14378, weight=169
+Name=     58_29 : profit=360, weight= 55
+Name=     58_26 : profit=364, weight= 56
+Name=     58_27 : profit=382, weight= 58
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a61a8a0  Use?:1
+profit=10049, weight=180
+Name=     59_28 : profit=250, weight= 58
+Name=     59_27 : profit=256, weight= 60
+Name=     59_26 : profit=267, weight= 62
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a522080  Use?:1
+profit=12084, weight=215
+Name=     60_30 : profit=245, weight= 52
+Name=     60_27 : profit=247, weight= 52
+Name=     60_26 : profit=251, weight= 55
+Name=     60_29 : profit=264, weight= 56
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a4396e0  Use?:1
+profit=4050, weight= 63
+Name=     61_28 : profit=270, weight= 63
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a525e80  Use?:1
+profit=5544, weight= 93
+Name=     64_27 : profit=190, weight= 45
+Name=     64_28 : profit=206, weight= 48
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a52c040  Use?:1
+profit=4270, weight= 88
+Name=     66_16 : profit=147, weight= 42
+Name=     66_17 : profit=158, weight= 46
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a73c260  Use?:1
+profit=5362, weight=123
+Name=     68_26 : profit=191, weight= 60
+Name=     68_30 : profit=192, weight= 63
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a61c3d0  Use?:1
+profit=6305, weight=163
+Name=     69_30 : profit=156, weight= 53
+Name=     69_26 : profit=161, weight= 53
+Name=     69_28 : profit=168, weight= 57
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a530300  Use?:1
+profit=3690, weight= 11
+Name=      70_3 : profit=246, weight= 11
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a43c9e0  Use?:1
+profit=6818, weight=107
+Name=     71_30 : profit=241, weight= 53
+Name=     71_26 : profit=246, weight= 54
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a740520  Use?:1
+profit=8148, weight=193
+Name=     74_30 : profit=161, weight= 46
+Name=     74_28 : profit=164, weight= 48
+Name=     74_27 : profit=172, weight= 48
+Name=     74_26 : profit=182, weight= 51
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a61e4c0  Use?:1
+profit=3225, weight= 52
+Name=     75_30 : profit=215, weight= 52
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a622320  Use?:1
+profit=3878, weight= 17
+Name=      78_4 : profit=120, weight= 11
+Name=      78_3 : profit=157, weight=  6
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a43fdb0  Use?:1
+profit=6594, weight=108
+Name=     80_24 : profit=194, weight= 49
+Name=     80_28 : profit=277, weight= 59
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a7445f0  Use?:1
+profit=13520, weight=174
+Name=     81_21 : profit=302, weight= 52
+Name=     81_25 : profit=322, weight= 55
+Name=     81_26 : profit=416, weight= 67
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a540630  Use?:1
+profit=8976, weight=155
+Name=     84_24 : profit=167, weight= 35
+Name=     84_25 : profit=171, weight= 36
+Name=     84_26 : profit=190, weight= 40
+Name=     84_28 : profit=220, weight= 44
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a623420  Use?:1
+profit=6846, weight= 99
+Name=     85_24 : profit=199, weight= 44
+Name=     85_29 : profit=290, weight= 55
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a543950  Use?:1
+profit=8840, weight=130
+Name=     86_28 : profit=221, weight= 41
+Name=     86_27 : profit=228, weight= 44
+Name=     86_29 : profit=231, weight= 45
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a5453f0  Use?:1
+profit=7553, weight=136
+Name=     88_30 : profit=182, weight= 44
+Name=     88_27 : profit=194, weight= 44
+Name=     88_28 : profit=205, weight= 48
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a440170  Use?:1
+profit=2250, weight= 43
+Name=     89_22 : profit=150, weight= 43
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a746fa0  Use?:1
+profit=8528, weight=177
+Name=     90_27 : profit=210, weight= 57
+Name=     90_26 : profit=217, weight= 59
+Name=     90_29 : profit=229, weight= 61
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a625130  Use?:1
+profit=10322, weight=173
+Name=     91_22 : profit=171, weight= 47
+Name=     91_28 : profit=303, weight= 61
+Name=     91_29 : profit=320, weight= 65
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a748140  Use?:1
+profit=13476, weight=229
+Name=     93_21 : profit=233, weight= 49
+Name=     93_25 : profit=237, weight= 51
+Name=     93_26 : profit=324, weight= 64
+Name=     93_28 : profit=329, weight= 65
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a5498d0  Use?:1
+profit=10284, weight=194
+Name=     96_29 : profit=205, weight= 47
+Name=     96_26 : profit=207, weight= 47
+Name=     96_27 : profit=222, weight= 49
+Name=     96_28 : profit=223, weight= 51
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a54d9f0  Use?:1
+profit=4858, weight=100
+Name=     97_25 : profit=147, weight= 46
+Name=     97_30 : profit=200, weight= 54
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a74cb40  Use?:1
+profit=17412, weight=204
+Name=     98_30 : profit=347, weight= 49
+Name=     98_28 : profit=353, weight= 50
+Name=     98_29 : profit=364, weight= 51
+Name=     98_26 : profit=387, weight= 54
+Name=    (null) : profit=  0, weight=  0
+DP_Cell address : 0x7f881a550100  Use?:1
+profit=8844, weight=259
+Name=     99_24 : profit=137, weight= 56
+Name=     99_30 : profit=188, weight= 66
+Name=     99_27 : profit=195, weight= 66
+Name=     99_29 : profit=217, weight= 71
+Name=    (null) : profit=  0, weight=  0
+
